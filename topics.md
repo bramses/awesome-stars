@@ -1807,6 +1807,7 @@
 
 ## others 
 
+- [joshsucher/joshbot](https://github.com/joshsucher/joshbot) - Fine-tuning gpt-3.5-turbo on my corpus of iMessages, and hooking it up via Twilio
 - [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI.
 - [ektogamat/threejs-particle-skull](https://github.com/ektogamat/threejs-particle-skull) - Simple threejs boilerplate to transform any loaded model into a particle system by Anderson Mancini.
