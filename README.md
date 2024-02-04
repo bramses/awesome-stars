@@ -246,7 +246,7 @@
 - [MikeDaniel18/oh-heck-cli](https://github.com/MikeDaniel18/oh-heck-cli) - 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [vearch/vearch](https://github.com/vearch/vearch) - A distributed vector database for embedding-based vector retrieval
+- [vearch/vearch](https://github.com/vearch/vearch) - A distributed vector database for hybrid search
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -881,7 +881,7 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [chidiwilliams/GPT-Automator](https://github.com/chidiwilliams/GPT-Automator) - Your voice-controlled Mac assistant
 - [hwchase17/chat-your-data](https://github.com/hwchase17/chat-your-data) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
