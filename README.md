@@ -830,6 +830,7 @@
 
 ## Python 
 
+- [atopile/atopile](https://github.com/atopile/atopile) - 
 - [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI.
 - [jdf/processing.py](https://github.com/jdf/processing.py) - Write Processing sketches in Python
@@ -1208,7 +1209,7 @@
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [mckaywrigley/kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - AI search & chat on your Kindle highlights.
-- [blomqma/next-rest-framework](https://github.com/blomqma/next-rest-framework) - Type-safe, self-documenting REST APIs for Next.js
+- [blomqma/next-rest-framework](https://github.com/blomqma/next-rest-framework) - Type-safe, self-documenting APIs for Next.js
 - [ytliu74/obsidian-pseudocode](https://github.com/ytliu74/obsidian-pseudocode) - An obsidian plugin that helps to render a LaTeX-style pseudocode inside a code block.
 - [Kageetai/obsidian-plugin-journal-review](https://github.com/Kageetai/obsidian-plugin-journal-review) - Review your daily notes on their anniversaries, like "what happened today last year"
 - [shabegom/obsidian-mobile-logging](https://github.com/shabegom/obsidian-mobile-logging) - console logging on obsidian mobile app
