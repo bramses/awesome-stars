@@ -830,6 +830,7 @@
 
 ## Python 
 
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! Software has worked out incredibly potent ways to reuse, configure, validate and share work. We want that for hardware too! Starting with electronics
 - [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI.
@@ -1115,6 +1116,7 @@
 
 - [dabateam/funding-simulator](https://github.com/dabateam/funding-simulator) - Startup Funding Simulator
 - [ekzhang/dispict](https://github.com/ekzhang/dispict) - Design a growing artistic exhibit of your own making, with semantic search powered by OpenAI CLIP
+- [vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts) - 
 - [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [the-pudding/svelte-starter](https://github.com/the-pudding/svelte-starter) - A Svelte starter template for projects
@@ -1173,7 +1175,7 @@
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [LiamRiddell/obsidian-solve](https://github.com/LiamRiddell/obsidian-solve) - An unobtrusive Obsidian plugin that quietly processes equations and patterns in real time
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application.
 - [TfTHacker/obsidian42-HelpMate](https://github.com/TfTHacker/obsidian42-HelpMate) - HelpMate for Obsidian - providing help and documentation from within Obsidian
 - [cloudflare/itty-router-openapi](https://github.com/cloudflare/itty-router-openapi) - OpenAPI 3 and 3.1 schema generator and validator for Cloudflare Workers
 - [JSerZANP/shaku](https://github.com/JSerZANP/shaku) - Shaku helps you write better technical articles with code annotation .etc
@@ -1248,7 +1250,6 @@
 - [microtower00/obsidian-ai-images](https://github.com/microtower00/obsidian-ai-images) - This plugin allows you to generate images using AI from the obsidian editor
 - [Quorafind/Obsidian-Canvas-Presentation](https://github.com/Quorafind/Obsidian-Canvas-Presentation) - A plugin to help you display cards based on sequence.
 - [micahke/obsidian-gpt3-notes](https://github.com/micahke/obsidian-gpt3-notes) - An Obsidian plugin to generate notes based on GP3 output.
-- [vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts) - 
 - [Trikzon/obsidian-frontmatter-links](https://github.com/Trikzon/obsidian-frontmatter-links) - An Obsidian plugin that renders links in a note's frontmatter as links.
 - [ryanjamurphy/lumberjack-obsidian](https://github.com/ryanjamurphy/lumberjack-obsidian) - Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency and get right to writing.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
