@@ -2699,6 +2699,7 @@
 
 ## react 
 
+- [nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) - Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
