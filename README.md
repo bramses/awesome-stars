@@ -246,7 +246,7 @@
 - [MikeDaniel18/oh-heck-cli](https://github.com/MikeDaniel18/oh-heck-cli) - 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [vearch/vearch](https://github.com/vearch/vearch) - A distributed vector database for AI applications
+- [vearch/vearch](https://github.com/vearch/vearch) - Vearch: Your Vector Search Database
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -832,7 +832,7 @@
 
 - [nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) - Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
-- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! Software has worked out incredibly potent ways to reuse, configure, validate and share work. We want that for hardware too! Starting with electronics
+- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 - [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI.
 - [jdf/processing.py](https://github.com/jdf/processing.py) - Write Processing sketches in Python
