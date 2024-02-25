@@ -235,12 +235,12 @@
 - [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [enesozturk/json-data-ai-template](https://github.com/enesozturk/json-data-ai-template) - JSONDataAI.com template with Next.js 13 and Vercel AI SDK
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama Chat application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ol
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [Planetary-Computers/autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks
 - [plastic-labs/tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM application. Dynamic metaprompting for theory-of-mind-powered tutoring.
-- [themaximal1st/InfinityArcade](https://github.com/themaximal1st/InfinityArcade) - GPT-4 Text Game Arcade
+- [themaximal1st/InfinityArcade](https://github.com/themaximal1st/InfinityArcade) - Create any Text Game with AI
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
@@ -260,7 +260,6 @@
 
 ## algorithm 
 
-- [tlaplus/Examples](https://github.com/tlaplus/Examples) - A collection of TLA+ specifications of varying complexities
 - [BrunoRB/ahocorasick](https://github.com/BrunoRB/ahocorasick) - Aho-corasick for javascript.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 
@@ -321,7 +320,7 @@
 - [run-house/runhouse](https://github.com/run-house/runhouse) - The fastest way to deploy AI apps and services on any infra. Unobtrusive, debuggable, PyTorch-like APIs.
 - [cortictechnology/cep](https://github.com/cortictechnology/cep) - CEP is a software platform designed for users that want to learn or rapidly prototype using standard A.I. components.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building custom AI, enabling smarter organizations.
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - Build apps that learn and adapt. Time series AI for developers.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface to locally accelerate and query data tables sourced from any database, data warehouse, or data lake.
 - [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - Happy Transformer makes it easy to fine-tune and perform inference with  NLP Transformer models.
 - [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
 
@@ -445,7 +444,7 @@
 
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama Chat application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ol
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [chrislemke/ChatFred](https://github.com/chrislemke/ChatFred) - Alfred workflow using ChatGPT, DALL·E 2 and other models for chatting, image generation and more.
@@ -674,7 +673,7 @@
 - [cortictechnology/cep](https://github.com/cortictechnology/cep) - CEP is a software platform designed for users that want to learn or rapidly prototype using standard A.I. components.
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - Build apps that learn and adapt. Time series AI for developers.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface to locally accelerate and query data tables sourced from any database, data warehouse, or data lake.
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - Happy Transformer makes it easy to fine-tune and perform inference with  NLP Transformer models.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
@@ -1507,7 +1506,7 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
 - [runwayml/processing-library](https://github.com/runwayml/processing-library) - RunwayML-for-Processing
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - Build apps that learn and adapt. Time series AI for developers.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface to locally accelerate and query data tables sourced from any database, data warehouse, or data lake.
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - Happy Transformer makes it easy to fine-tune and perform inference with  NLP Transformer models.
 - [Tiiiger/bert_score](https://github.com/Tiiiger/bert_score) - BERT score for text generation
@@ -1658,7 +1657,7 @@
 
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama Chat application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ol
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Indexing Discord Help Channel Questions into Google
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
@@ -2057,6 +2056,7 @@
 - [nothingislost/obsidian-query-control](https://github.com/nothingislost/obsidian-query-control) - An experimental Obsidian plugin that adds controls to embedded queries
 - [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
 - [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
+- [tlaplus/Examples](https://github.com/tlaplus/Examples) - A collection of TLA⁺ specifications of varying complexities
 - [kaelri/obsidian-test-vault](https://github.com/kaelri/obsidian-test-vault) - 
 - [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist) - vscode extension for quick gists
 - [javalent/dice-roller](https://github.com/javalent/dice-roller) - Inline dice rolling for Obsidian.md
