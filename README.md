@@ -1185,7 +1185,7 @@
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [LiamRiddell/obsidian-solve](https://github.com/LiamRiddell/obsidian-solve) - An unobtrusive Obsidian plugin that quietly processes equations and patterns in real time
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ol
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Chat Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemi
 - [TfTHacker/obsidian42-HelpMate](https://github.com/TfTHacker/obsidian42-HelpMate) - HelpMate for Obsidian - providing help and documentation from within Obsidian
 - [cloudflare/itty-router-openapi](https://github.com/cloudflare/itty-router-openapi) - OpenAPI 3 and 3.1 schema generator and validator for Cloudflare Workers
 - [JSerZANP/shaku](https://github.com/JSerZANP/shaku) - Shaku helps you write better technical articles with code annotation .etc
