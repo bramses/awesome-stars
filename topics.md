@@ -616,6 +616,7 @@
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface to locally accelerate and query data tables sourced from any database, data warehouse, or data lake.
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don't require authentication.
 
 ## data-analysis 
@@ -2169,7 +2170,7 @@
 - [rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) - Statistical Rethinking course winter 2022
 - [TedisAgolli/readwise-new-tab](https://github.com/TedisAgolli/readwise-new-tab) - 
 - [netrasys/pgANN](https://github.com/netrasys/pgANN) - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL database.
-- [vearch/vearch](https://github.com/vearch/vearch) - distributed vector search for AI-native applications
+- [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [Aquila-Network/AquilaJS](https://github.com/Aquila-Network/AquilaJS) - JavaScript client library to access Aquila Network Neural Search Engine.
