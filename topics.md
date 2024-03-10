@@ -1832,6 +1832,7 @@
 
 ## others 
 
+- [speedata/boxesandglue](https://github.com/speedata/boxesandglue) - PDF rendering library for Go using TeX algorithms.
 - [AndrewMayneProjects/Whisper](https://github.com/AndrewMayneProjects/Whisper) - Whisper applications
 - [facebookresearch/jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video.
 - [younader/Vesuvius-Grandprize-Winner](https://github.com/younader/Vesuvius-Grandprize-Winner) - 
