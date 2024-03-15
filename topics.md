@@ -677,7 +677,6 @@
 - [cortictechnology/cep](https://github.com/cortictechnology/cep) - CEP is a software platform designed for users that want to learn or rapidly prototype using standard A.I. components.
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface to locally accelerate and query data tables sourced from any database, data warehouse, or data lake.
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - Happy Transformer makes it easy to fine-tune and perform inference with  NLP Transformer models.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
@@ -1835,6 +1834,7 @@
 
 ## others 
 
+- [w3slley/bookcover-api](https://github.com/w3slley/bookcover-api) - 📚 Simple API for retrieving book covers from the web
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
 - [speedata/boxesandglue](https://github.com/speedata/boxesandglue) - PDF rendering library for Go using TeX algorithms.
 - [AndrewMayneProjects/Whisper](https://github.com/AndrewMayneProjects/Whisper) - Whisper applications
@@ -2969,6 +2969,7 @@
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface to locally accelerate and query data tables sourced from any database, data warehouse, or data lake.
 
 ## sql-server 
 
