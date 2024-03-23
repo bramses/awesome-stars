@@ -1188,6 +1188,7 @@
 
 ## TypeScript 
 
+- [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [w3slley/bookcover-api](https://github.com/w3slley/bookcover-api) - 📚 Simple API for retrieving book covers from the web
 - [TimeSurgeLabs/athenadb](https://github.com/TimeSurgeLabs/athenadb) - 🦉⚡️Serverless, distributed vector database as an API
 - [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
