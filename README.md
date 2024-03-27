@@ -840,7 +840,7 @@
 - [urchade/GLiNER](https://github.com/urchade/GLiNER) - Generalist model for NER (Extract any entity types from texts)
 - [facebookresearch/jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video.
 - [younader/Vesuvius-Grandprize-Winner](https://github.com/younader/Vesuvius-Grandprize-Winner) - 
-- [OS-Copilot/FRIDAY](https://github.com/OS-Copilot/FRIDAY) - An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.
+- [OS-Copilot/OS-Copilot](https://github.com/OS-Copilot/OS-Copilot) - An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [NVIDIA/trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM
