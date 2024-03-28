@@ -1859,7 +1859,7 @@
 - [facebookresearch/jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video.
 - [younader/Vesuvius-Grandprize-Winner](https://github.com/younader/Vesuvius-Grandprize-Winner) - 
 - [TimeSurgeLabs/athenadb](https://github.com/TimeSurgeLabs/athenadb) - 🦉⚡️Serverless, distributed vector database as an API
-- [OS-Copilot/FRIDAY](https://github.com/OS-Copilot/FRIDAY) - An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.
+- [OS-Copilot/OS-Copilot](https://github.com/OS-Copilot/OS-Copilot) - An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [yash-dani/logstash-filter-pilar](https://github.com/yash-dani/logstash-filter-pilar) - A logstash filter for Log Parsing using the PILAR method.
 - [NVIDIA/trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM
