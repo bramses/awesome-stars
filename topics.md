@@ -243,7 +243,7 @@
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [Planetary-Computers/autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks
 - [plastic-labs/tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM application. Dynamic metaprompting for theory-of-mind-powered tutoring.
-- [themaximal1st/InfinityArcade](https://github.com/themaximal1st/InfinityArcade) - Create any Text Game with AI
+- [themaximalist/InfinityArcade](https://github.com/themaximalist/InfinityArcade) - Create any Text Game with AI
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. A copilot to search and chat (using RAG) with your knowledge base (pdf, markdown, org). Use powerful, online (e.g gpt4) or private, offline (e.g mistral) LLMs. Self-host locally 
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
@@ -1655,7 +1655,7 @@
 
 ## natural-language-processing 
 
-- [urchade/GLiNER](https://github.com/urchade/GLiNER) - Generalist model for NER (Extract any entity types from texts)
+- [urchade/GLiNER](https://github.com/urchade/GLiNER) - Lightweight Generalist model for NER (Extract any entity types from texts)
 - [LiamRiddell/obsidian-solve](https://github.com/LiamRiddell/obsidian-solve) - An unobtrusive Obsidian plugin that quietly processes equations and patterns in real time
 - [thesephist/revery](https://github.com/thesephist/revery) - A personal semantic search engine capable of surfacing relevant bookmarks, journal entries, notes, blogs, contacts, and more, built on an efficient document embedding algorithm and Monocle's personal 
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
@@ -1682,6 +1682,7 @@
 
 ## nextjs 
 
+- [clerk/clerk-nextjs-demo-app-router](https://github.com/clerk/clerk-nextjs-demo-app-router) - Auth starts here with the official Next.js starter utilizing the app directory
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
@@ -2745,6 +2746,7 @@
 
 ## react 
 
+- [clerk/clerk-nextjs-demo-app-router](https://github.com/clerk/clerk-nextjs-demo-app-router) - Auth starts here with the official Next.js starter utilizing the app directory
 - [nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) - Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
@@ -2943,6 +2945,7 @@
 
 ## serverless 
 
+- [clerk/clerk-nextjs-demo-app-router](https://github.com/clerk/clerk-nextjs-demo-app-router) - Auth starts here with the official Next.js starter utilizing the app directory
 - [run-house/runhouse](https://github.com/run-house/runhouse) - The fastest way to iterate and deploy AI workloads on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
