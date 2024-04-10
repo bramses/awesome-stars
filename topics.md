@@ -325,7 +325,7 @@
 - [run-house/runhouse](https://github.com/run-house/runhouse) - The fastest way to iterate and deploy AI workloads on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
 - [cortictechnology/cep](https://github.com/cortictechnology/cep) - CEP is a software platform designed for users that want to learn or rapidly prototype using standard A.I. components.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface and portable runtime to locally materialize, accelerate, and query data tables sourced from any database, data warehouse, or data lake.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets from any database, data warehouse, or data lake.
 - [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - Happy Transformer makes it easy to fine-tune and perform inference with  NLP Transformer models.
 - [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
 
@@ -625,7 +625,7 @@
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface and portable runtime to locally materialize, accelerate, and query data tables sourced from any database, data warehouse, or data lake.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets from any database, data warehouse, or data lake.
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don't require authentication.
 
 ## data-analysis 
@@ -1526,7 +1526,7 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
 - [runwayml/processing-library](https://github.com/runwayml/processing-library) - RunwayML-for-Processing
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface and portable runtime to locally materialize, accelerate, and query data tables sourced from any database, data warehouse, or data lake.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets from any database, data warehouse, or data lake.
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - Happy Transformer makes it easy to fine-tune and perform inference with  NLP Transformer models.
 - [Tiiiger/bert_score](https://github.com/Tiiiger/bert_score) - BERT score for text generation
@@ -1858,6 +1858,7 @@
 
 ## others 
 
+- [bramses/quo-host](https://github.com/bramses/quo-host) - podcast co host with automagic quote surfacing and realtime highlighting. great for youtube!
 - [achristmascarl/three_body](https://github.com/achristmascarl/three_body) - ✨ rudimentary simulation of the three-body problem
 - [STRML/textFit](https://github.com/STRML/textFit) - A jQuery-free component that quickly fits single and multi-line text to the width (and optionally height) of its container.
 - [mljs/kmeans](https://github.com/mljs/kmeans) - K-Means clustering
@@ -3008,7 +3009,7 @@
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface and portable runtime to locally materialize, accelerate, and query data tables sourced from any database, data warehouse, or data lake.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets from any database, data warehouse, or data lake.
 
 ## sql-server 
 
