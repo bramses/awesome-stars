@@ -1861,6 +1861,7 @@
 
 ## others 
 
+- [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [8BitMixtape/8Bit-Mixtape-NEO](https://github.com/8BitMixtape/8Bit-Mixtape-NEO) - New Attiny85 based edition with Bootloader to program it via sound. Add this to your additional hardware manager: http://8bitmixtape.github.io/package_8bitmixtape_index.json or directly program by pla
 - [bramses/quo-host](https://github.com/bramses/quo-host) - podcast co host with automagic quote surfacing and realtime highlighting. great for youtube!
 - [achristmascarl/three_body](https://github.com/achristmascarl/three_body) - ✨ rudimentary simulation of the three-body problem
