@@ -711,7 +711,7 @@
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [denoland/deployctl](https://github.com/denoland/deployctl) - Command line tool for Deno Deploy
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
+- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
@@ -1264,6 +1264,7 @@
 
 ## javascript 
 
+- [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
@@ -1811,7 +1812,7 @@
 
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
+- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [lxieyang/chrome-extension-boilerplate-react](https://github.com/lxieyang/chrome-extension-boilerplate-react) - A Chrome Extensions boilerplate using React 18 and Webpack 5.
 
@@ -1863,6 +1864,9 @@
 
 ## others 
 
+- [hsk-kr/react-fabricjs-example](https://github.com/hsk-kr/react-fabricjs-example) - Fabricjs with React
+- [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [edward-shen/MMM-pages](https://github.com/edward-shen/MMM-pages) - Add pages to your MagicMirror²!
 - [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas) - High performance &lt;canvas&gt; rendering for React components
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [8BitMixtape/8Bit-Mixtape-NEO](https://github.com/8BitMixtape/8Bit-Mixtape-NEO) - New Attiny85 based edition with Bootloader to program it via sound. Add this to your additional hardware manager: http://8bitmixtape.github.io/package_8bitmixtape_index.json or directly program by pla
@@ -1915,7 +1919,7 @@
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 - [joelparkerhenderson/oblique-strategies](https://github.com/joelparkerhenderson/oblique-strategies) - Oblique Strategies: ideas for creative lateral thinking
 - [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - 
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
 - [jn3008/processing-projects](https://github.com/jn3008/processing-projects) - Source code for some of my processing projects
 - [symphony-hq/symphony](https://github.com/symphony-hq/symphony) - Write programs you can talk to.
 - [7-docs/7-docs](https://github.com/7-docs/7-docs) - Use local files or public GitHub repository as a source and ask questions through ChatGPT about it
@@ -2772,6 +2776,7 @@
 
 ## react 
 
+- [asabaylus/react-command-palette](https://github.com/asabaylus/react-command-palette) - An accessible browser compatible javascript command palette
 - [clerk/clerk-nextjs-demo-app-router](https://github.com/clerk/clerk-nextjs-demo-app-router) - Auth starts here with the official Next.js starter utilizing the app directory
 - [nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) - Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
@@ -3158,7 +3163,7 @@
 - [lhz516/react-h5-audio-player](https://github.com/lhz516/react-h5-audio-player) - React audio player component with UI. It provides time indicator on both desktop and mobile devices.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
+- [honojs/hono](https://github.com/honojs/hono) - Web Framework built on Web Standards
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
