@@ -1864,6 +1864,7 @@
 
 ## others 
 
+- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [buzzfeed/libgif-js](https://github.com/buzzfeed/libgif-js) - JavaScript GIF parser and player
 - [hsk-kr/react-fabricjs-example](https://github.com/hsk-kr/react-fabricjs-example) - Fabricjs with React
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
