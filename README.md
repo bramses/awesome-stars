@@ -1474,7 +1474,7 @@
 - [thencc/algonautjs](https://github.com/thencc/algonautjs) - A front end friendly Algorand utility
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
-- [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) - Add structured hierarchies to your Obsidian vault
+- [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) - Add typed-links to your Obsidian notes
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [StenographyDev/autopilot-vsc](https://github.com/StenographyDev/autopilot-vsc) - 
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
