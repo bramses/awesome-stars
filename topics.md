@@ -536,7 +536,6 @@
 
 ## code 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 
 ## coding 
@@ -2805,6 +2804,7 @@
 - [jsonkao/react-scrollama](https://github.com/jsonkao/react-scrollama) - Simple scrollytelling with the IntersectionObserver in React.
 - [lhz516/react-h5-audio-player](https://github.com/lhz516/react-h5-audio-player) - React audio player component with UI. It provides time indicator on both desktop and mobile devices.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
 - [pradel/react-responsive-modal](https://github.com/pradel/react-responsive-modal) - Simple responsive react modal
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
@@ -3012,7 +3012,7 @@
 
 ## sketch 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [mtli/PhotoSketch](https://github.com/mtli/PhotoSketch) - Code for Photo-Sketching: Inferring Contour Drawings from Images :dog:
 
 ## software 
