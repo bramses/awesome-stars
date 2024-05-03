@@ -2910,7 +2910,6 @@
 
 ## redux 
 
-- [Renovamen/playground-macos](https://github.com/Renovamen/playground-macos) - My portfolio website simulating macOS's GUI, developed with React and UnoCSS.
 - [tshaddix/webext-redux](https://github.com/tshaddix/webext-redux) - A set of utilities for building Redux applications in Web Extensions.
 - [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
 
