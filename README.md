@@ -275,7 +275,6 @@
 
 ## HTML 
 
-- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [jasonjmcghee/portable-hnsw](https://github.com/jasonjmcghee/portable-hnsw) - What if an HNSW index was just a file, and you could serve it from a CDN, and search it directly in the browser?
 - [elgatosf/streamdeck-counter](https://github.com/elgatosf/streamdeck-counter) - Stream Deck SDK: Counter sample plugin
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -860,6 +859,7 @@
 - [facebookresearch/jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video.
 - [younader/Vesuvius-Grandprize-Winner](https://github.com/younader/Vesuvius-Grandprize-Winner) - 
 - [OS-Copilot/OS-Copilot](https://github.com/OS-Copilot/OS-Copilot) - An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.
+- [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [NVIDIA/trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM
@@ -1210,6 +1210,7 @@
 
 ## TypeScript 
 
+- [quilljs/parchment](https://github.com/quilljs/parchment) - 
 - [cezaraugusto/extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [hsk-kr/react-fabricjs-example](https://github.com/hsk-kr/react-fabricjs-example) - Fabricjs with React
@@ -1219,7 +1220,7 @@
 - [mljs/kmeans](https://github.com/mljs/kmeans) - K-Means clustering
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [TimeSurgeLabs/athenadb](https://github.com/TimeSurgeLabs/athenadb) - 🦉⚡️Serverless, distributed vector database as an API
-- [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & offline AI personal knowledge management app.
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [pashashocky/obsidian-note-gallery](https://github.com/pashashocky/obsidian-note-gallery) - A masonry note gallery for obsidian.
 - [enesozturk/json-data-ai-template](https://github.com/enesozturk/json-data-ai-template) - JSONDataAI.com template with Next.js 13 and Vercel AI SDK
