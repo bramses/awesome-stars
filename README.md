@@ -487,7 +487,7 @@
 - [crubier/code-to-graph](https://github.com/crubier/code-to-graph) - Transforms JS code 🙈into mermaid flowchart 🐵
 - [jakubfiala/atrament](https://github.com/jakubfiala/atrament) - A small JS library for beautiful drawing and handwriting on the HTML Canvas.
 - [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
-- [fauna/faunadb-js](https://github.com/fauna/faunadb-js) - Javascript driver for FaunaDB v4
+- [fauna/faunadb-js](https://github.com/fauna/faunadb-js) - Javascript driver for Fauna v4
 - [cloudflare/worker-template-router](https://github.com/cloudflare/worker-template-router) - 
 - [deathau/cm-editor-syntax-highlight-obsidian](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) - A plugin for [Obsidian](https://obsidian.md) which allows syntax highlighting for code blocks in the editor.
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
