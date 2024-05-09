@@ -1456,6 +1456,7 @@
 - [japa/runner](https://github.com/japa/runner) - Standalone test runner built on top of japa core
 - [neodaoist/loudverse](https://github.com/neodaoist/loudverse) - Be seen. Be heard. Be experienced.
 - [chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian) - Post tweets directly from Obsidian.
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
 - [silencesys/silentbox](https://github.com/silencesys/silentbox) - A lightbox inspired Vue.js component.
@@ -1607,7 +1608,6 @@
 ## Vue 
 
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [thencc/Irulan](https://github.com/thencc/Irulan) - A contract utility too amazing to be believed!
 - [pexea12/vue-image-lightbox](https://github.com/pexea12/vue-image-lightbox) - A Vue component to display an image gallery lightbox
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
