@@ -662,6 +662,7 @@
 
 ## Jupyter Notebook 
 
+- [reworkd/tarsier](https://github.com/reworkd/tarsier) - Vision utilities for web interaction agents 👀
 - [kingjulio8238/memary](https://github.com/kingjulio8238/memary) - Longterm Memory for Autonomous Agents.
 - [AndrewMayneProjects/Whisper](https://github.com/AndrewMayneProjects/Whisper) - Whisper applications
 - [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
@@ -746,6 +747,7 @@
 
 ## Others 
 
+- [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) - 
 - [Scarvy/awesome-readwise](https://github.com/Scarvy/awesome-readwise) - A curated list of awesome Readwise libraries, plugins, software, and resources.
 - [stevenleeg/stevenleeg](https://github.com/stevenleeg/stevenleeg) - 
 - [joelparkerhenderson/oblique-strategies](https://github.com/joelparkerhenderson/oblique-strategies) - Oblique Strategies: ideas for creative lateral thinking
