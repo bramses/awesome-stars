@@ -1899,6 +1899,7 @@
 
 ## others 
 
+- [0xDebabrata/commonplace](https://github.com/0xDebabrata/commonplace) - An autobiography of the mind
 - [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) - 
 - [quilljs/parchment](https://github.com/quilljs/parchment) - 
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
