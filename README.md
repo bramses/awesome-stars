@@ -858,7 +858,7 @@
 - [theirstory/gliner-spacy](https://github.com/theirstory/gliner-spacy) - A spaCy wrapper for GliNER
 - [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
-- [urchade/GLiNER](https://github.com/urchade/GLiNER) - Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts) @ NAACL 24
+- [urchade/GLiNER](https://github.com/urchade/GLiNER) - Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts) @ NAACL 2024
 - [facebookresearch/jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video.
 - [younader/Vesuvius-Grandprize-Winner](https://github.com/younader/Vesuvius-Grandprize-Winner) - 
 - [OS-Copilot/OS-Copilot](https://github.com/OS-Copilot/OS-Copilot) - An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.
@@ -924,7 +924,7 @@
 - [chidiwilliams/GPT-Automator](https://github.com/chidiwilliams/GPT-Automator) - Your voice-controlled Mac assistant
 - [hwchase17/chat-your-data](https://github.com/hwchase17/chat-your-data) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
@@ -1287,7 +1287,7 @@
 - [jensmtg/influx](https://github.com/jensmtg/influx) - An alternative backlinks plugin, which displays relevant and formatted excerpts from notes with linked mentions, based on the position of mentions in the notes' hierarchical structure (bullet level in
 - [kodemoapp/player](https://github.com/kodemoapp/player) - A React component for reading Kodemo documents.
 - [mcndt/noteshare.space](https://github.com/mcndt/noteshare.space) - A service for sharing encrypted Markdown notes from Obsidian. Notes are end-to-end-encrypted and are only stored temporarily.
-- [ObsidianPublisher/obsidian-github-publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
+- [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Github Publisher helps you to publish your notes on a preconfigured GitHub repository from your Obsidian Vault, for free, and more!
 - [ImaginaryProgramming/obsidian-vault-transfer](https://github.com/ImaginaryProgramming/obsidian-vault-transfer) - Transfers a note from one vault to another.
 - [smx0/obs-text-wrapper](https://github.com/smx0/obs-text-wrapper) - Plugin for Obsidian
 - [wenlzhang/obsidian-task-marker](https://github.com/wenlzhang/obsidian-task-marker) - An [Obsidian](https://obsidian.md/) plugin to change task status and append text with hotkeys and right-click context menu.
@@ -1327,7 +1327,7 @@
 - [ShockThunder/improved-random-note](https://github.com/ShockThunder/improved-random-note) - 
 - [Quorafind/Obsidian-New-Bullet-With-Time](https://github.com/Quorafind/Obsidian-New-Bullet-With-Time) - A plugin allows you to auto add current time to new bullet line.
 - [SebastianMC/obsidian-custom-sort](https://github.com/SebastianMC/obsidian-custom-sort) - Take full control over the order and sorting of folders and notes in File Explorer in Obsidian
-- [trey-wallis/obsidian-dataloom](https://github.com/trey-wallis/obsidian-dataloom) - Weave together data from diverse sources and display them in different views. Inspired by Excel spreadsheets and Notion.so.
+- [decaf-dev/obsidian-dataloom](https://github.com/decaf-dev/obsidian-dataloom) - Weave together data from diverse sources and display them in different views. Inspired by Excel spreadsheets and Notion.so.
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [Quorafind/obsidian-sakana-widget](https://github.com/Quorafind/obsidian-sakana-widget) - Add the Sakana! Widget to your own Obsidian
 - [javalent/admonitions](https://github.com/javalent/admonitions) - Adds admonition block-styled content to Obsidian.md
