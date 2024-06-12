@@ -847,6 +847,7 @@
 
 ## Python 
 
+- [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
 - [mattlisiv/newsapi-python](https://github.com/mattlisiv/newsapi-python) - A Python Client for News API
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [bramses/quo-host](https://github.com/bramses/quo-host) - podcast co host with automagic quote surfacing and realtime highlighting. great for youtube!
