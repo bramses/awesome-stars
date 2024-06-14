@@ -611,7 +611,7 @@
 - [yemount/pose-animator](https://github.com/yemount/pose-animator) - 
 - [ashleymarkfletcher/procedural-ar](https://github.com/ashleymarkfletcher/procedural-ar) - Using simplex noise to procedurally generate a map in Spark AR
 - [ashleymarkfletcher/spark-ar-boilerplate](https://github.com/ashleymarkfletcher/spark-ar-boilerplate) - A boilerplate Spark AR project with Webpack
-- [ahuth/raycast](https://github.com/ahuth/raycast) - HTML5 raycasting demo using React
+- [ahuth/raycast](https://github.com/ahuth/raycast) - Raycasting demo using React
 - [pofulu/Spark-AR-PFTools](https://github.com/pofulu/Spark-AR-PFTools) - Utilities for Meta Spark Studio (Spark AR)
 - [gcorallo/SparkArShaders](https://github.com/gcorallo/SparkArShaders) - Ar Studio / Ar Spark shaders.
 - [mikolalysenko/delaunay-triangulate](https://github.com/mikolalysenko/delaunay-triangulate) - Easy to use robust Delaunay triangulation
