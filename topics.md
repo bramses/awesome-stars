@@ -1213,7 +1213,7 @@
 ## html5 
 
 - [vantagedesign/identity-landing-page](https://github.com/vantagedesign/identity-landing-page) - A free landing page for businesses & agencies, powered by Bootstrap 4.
-- [ahuth/raycast](https://github.com/ahuth/raycast) - HTML5 raycasting demo using React
+- [ahuth/raycast](https://github.com/ahuth/raycast) - Raycasting demo using React
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
 ## http 
@@ -1385,7 +1385,7 @@
 - [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
 - [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter) - Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provide
 - [paulmg/ThreeJS-Webpack-ES6-Boilerplate](https://github.com/paulmg/ThreeJS-Webpack-ES6-Boilerplate) - A basic boilerplate for a Three.js project compiled with Webpack and transpiled via Babel to enable using ES6 syntax.
-- [ahuth/raycast](https://github.com/ahuth/raycast) - HTML5 raycasting demo using React
+- [ahuth/raycast](https://github.com/ahuth/raycast) - Raycasting demo using React
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
@@ -2896,7 +2896,7 @@
 - [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
 - [FormidableLabs/react-music](https://github.com/FormidableLabs/react-music) - Make beats with React!
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
-- [ahuth/raycast](https://github.com/ahuth/raycast) - HTML5 raycasting demo using React
+- [ahuth/raycast](https://github.com/ahuth/raycast) - Raycasting demo using React
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
