@@ -543,7 +543,7 @@
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library.
 - [Lartu/p5.clickable](https://github.com/Lartu/p5.clickable) - Event driven, easy-to-use button library for P5.js 👆
-- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
+- [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [c-frame/aframe-extras](https://github.com/c-frame/aframe-extras) - Add-ons and helpers for A-Frame VR.
 - [omgitsraven/aframe-room-component](https://github.com/omgitsraven/aframe-room-component) - An A-Frame component for laying out simple rooms connected by doors.
 - [donmccurdy/aframe-gamepad-controls](https://github.com/donmccurdy/aframe-gamepad-controls) - :video_game: Gamepad controls for A-Frame VR.
