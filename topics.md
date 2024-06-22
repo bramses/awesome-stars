@@ -303,7 +303,7 @@
 - [mattlisiv/newsapi-python](https://github.com/mattlisiv/newsapi-python) - A Python Client for News API
 - [cloudflare/chanfana](https://github.com/cloudflare/chanfana) - OpenAPI 3 and 3.1 schema generator and validator for Hono, itty-router and more!
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - PyTorch for building ML systems. Iterable, debuggable, multi-cloud, 100% reproducible across research and production.
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [amamenko/owen-wilson-wow-api](https://github.com/amamenko/owen-wilson-wow-api) - JSON API for actor Owen Wilson's 'wow' exclamations in movies
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -332,7 +332,7 @@
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - PyTorch for building ML systems. Iterable, debuggable, multi-cloud, 100% reproducible across research and production.
 - [cortictechnology/cep](https://github.com/cortictechnology/cep) - CEP is a software platform designed for users that want to learn or rapidly prototype using standard A.I. components.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets from any database, data warehouse, or data lake.
@@ -397,13 +397,13 @@
 
 ## aws 
 
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - PyTorch for building ML systems. Iterable, debuggable, multi-cloud, 100% reproducible across research and production.
 - [sawyerh/highlights](https://github.com/sawyerh/highlights) - Code for converting, importing, processing, and displaying Kindle, Instapaper, and Safari Books highlights
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 
 ## azure 
 
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - PyTorch for building ML systems. Iterable, debuggable, multi-cloud, 100% reproducible across research and production.
 
 ## babel 
 
@@ -653,7 +653,7 @@
 ## data-science 
 
 - [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - PyTorch for building ML systems. Iterable, debuggable, multi-cloud, 100% reproducible across research and production.
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [KiranGershenfeld/VisualizingTwitchCommunities](https://github.com/KiranGershenfeld/VisualizingTwitchCommunities) - Graphing communities on Twitch.tv in a visually intuitive way
@@ -730,7 +730,7 @@
 
 ## deployment 
 
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - PyTorch for building ML systems. Iterable, debuggable, multi-cloud, 100% reproducible across research and production.
 
 ## design 
 
@@ -1557,7 +1557,7 @@
 - [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
 - [plastic-labs/tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM application. Dynamic metaprompting for theory-of-mind-powered tutoring.
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - PyTorch for building ML systems. Iterable, debuggable, multi-cloud, 100% reproducible across research and production.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [ekzhang/dispict](https://github.com/ekzhang/dispict) - Design a growing artistic exhibit of your own making, with semantic search powered by OpenAI CLIP
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -2711,7 +2711,7 @@
 - [jleclanche/fireplace](https://github.com/jleclanche/fireplace) - A Hearthstone simulator in Python
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure cloud runtime for AI apps & AI agents. Fully open-source.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - PyTorch for building ML systems. Iterable, debuggable, multi-cloud, 100% reproducible across research and production.
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [ekzhang/dispict](https://github.com/ekzhang/dispict) - Design a growing artistic exhibit of your own making, with semantic search powered by OpenAI CLIP
@@ -2791,7 +2791,7 @@
 - [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - PyTorch for building ML systems. Iterable, debuggable, multi-cloud, 100% reproducible across research and production.
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [CarperAI/trlx](https://github.com/CarperAI/trlx) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
@@ -3032,7 +3032,7 @@
 ## serverless 
 
 - [clerk/clerk-nextjs-demo-app-router](https://github.com/clerk/clerk-nextjs-demo-app-router) - Auth starts here with the official Next.js starter utilizing the app directory
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - PyTorch for building ML systems. Iterable, debuggable, multi-cloud, 100% reproducible across research and production.
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
