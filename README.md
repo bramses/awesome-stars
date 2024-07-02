@@ -664,7 +664,7 @@
 ## Jupyter Notebook 
 
 - [reworkd/tarsier](https://github.com/reworkd/tarsier) - Vision utilities for web interaction agents 👀
-- [kingjulio8238/memary](https://github.com/kingjulio8238/memary) - Human Memory for AI Agents.
+- [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - Human Memory for AI Agents.
 - [AndrewMayneProjects/Whisper](https://github.com/AndrewMayneProjects/Whisper) - Whisper applications
 - [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
