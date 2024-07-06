@@ -1559,6 +1559,7 @@
 
 ## machine-learning 
 
+- [lmcinnes/umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
 - [plastic-labs/tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM application. Dynamic metaprompting for theory-of-mind-powered tutoring.
@@ -1913,12 +1914,15 @@
 
 ## others 
 
+- [GrantCuster/umap-explorer](https://github.com/GrantCuster/umap-explorer) - An interactive UMAP visualization of the MNIST data set.
+- [blasten/turn.js](https://github.com/blasten/turn.js) - The page flip effect for HTML5
+- [stephanj/embeddings-visualization](https://github.com/stephanj/embeddings-visualization) - 
 - [cmdevries/LMW-tree](https://github.com/cmdevries/LMW-tree) - Learning M-Way Tree - Web Scale Clustering - EM-tree, K-tree, k-means, TSVQ, repeated k-means, clustering, random projections, random indexing, hashing, bit signatures
 - [0xDebabrata/commonplace](https://github.com/0xDebabrata/commonplace) - An autobiography of the mind
 - [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) - 
 - [slab/parchment](https://github.com/slab/parchment) - Generalized state model for rich-text editors to interface with browser DOM
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
-- [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - Human Memory for AI Agents.
+- [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - Making Agents Reliable In Production.
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [buzzfeed/libgif-js](https://github.com/buzzfeed/libgif-js) - JavaScript GIF parser and player
 - [hsk-kr/react-fabricjs-example](https://github.com/hsk-kr/react-fabricjs-example) - Fabricjs with React
