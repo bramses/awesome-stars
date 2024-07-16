@@ -449,7 +449,6 @@
 - [kirkjerk/lowLagAudio](https://github.com/kirkjerk/lowLagAudio) - responsive html5 audio wrapper
 - [fireship-io/cramer-algo-trader](https://github.com/fireship-io/cramer-algo-trader) - Trade Stocks with Node.js, Alpaca, and GPT-3
 - [koalazak/dorita980](https://github.com/koalazak/dorita980) - Unofficial iRobot Roomba and Braava (i7/i7+, 980, 960, 900, e5, 690, 675, m6, etc) node.js library (SDK) to control your robot
-- [Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino) - A quick capture plugin for Obsidian, all data from your notes.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [alexbrillant/react-native-deck-swiper](https://github.com/alexbrillant/react-native-deck-swiper) - tinder like react-native deck swiper
 - [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow with dozens of features for controlling your Obsidian vault.
@@ -781,6 +780,7 @@
 - [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino) - A quick capture plugin for Obsidian, all data from your notes.
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [Cycling74/n4m-community](https://github.com/Cycling74/n4m-community) - Repository of community resources for Node For Max
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
