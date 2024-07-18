@@ -1924,7 +1924,7 @@
 - [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) - 
 - [slab/parchment](https://github.com/slab/parchment) - Generalized state model for rich-text editors to interface with browser DOM
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
-- [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - The memory layer for autonomous agents
+- [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - The memory layer for autonomous agents. Upcoming Release: July 18th (stay tuned)
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [buzzfeed/libgif-js](https://github.com/buzzfeed/libgif-js) - JavaScript GIF parser and player
 - [hsk-kr/react-fabricjs-example](https://github.com/hsk-kr/react-fabricjs-example) - Fabricjs with React
