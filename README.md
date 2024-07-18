@@ -666,7 +666,7 @@
 
 - [GrantCuster/umap-explorer](https://github.com/GrantCuster/umap-explorer) - An interactive UMAP visualization of the MNIST data set.
 - [reworkd/tarsier](https://github.com/reworkd/tarsier) - Vision utilities for web interaction agents 👀
-- [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - The memory layer for autonomous agents
+- [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - The memory layer for autonomous agents. Upcoming Release: July 18th (stay tuned)
 - [AndrewMayneProjects/Whisper](https://github.com/AndrewMayneProjects/Whisper) - Whisper applications
 - [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
