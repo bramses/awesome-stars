@@ -489,7 +489,7 @@
 - [crubier/code-to-graph](https://github.com/crubier/code-to-graph) - Transforms JS code 🙈into mermaid flowchart 🐵
 - [jakubfiala/atrament](https://github.com/jakubfiala/atrament) - A small JS library for beautiful drawing and handwriting on the HTML Canvas.
 - [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
-- [fauna/faunadb-js](https://github.com/fauna/faunadb-js) - Javascript driver for Fauna v4
+- [fauna/faunadb-js](https://github.com/fauna/faunadb-js) - Javascript driver for Fauna v4 (deprecated)
 - [cloudflare/worker-template-router](https://github.com/cloudflare/worker-template-router) - 
 - [deathau/cm-editor-syntax-highlight-obsidian](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) - A plugin for [Obsidian](https://obsidian.md) which allows syntax highlighting for code blocks in the editor.
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
@@ -666,7 +666,7 @@
 
 - [GrantCuster/umap-explorer](https://github.com/GrantCuster/umap-explorer) - An interactive UMAP visualization of the MNIST data set.
 - [reworkd/tarsier](https://github.com/reworkd/tarsier) - Vision utilities for web interaction agents 👀
-- [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - The memory layer for autonomous agents. Upcoming Release: July 18th (stay tuned)
+- [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - New Releases Soon! We're changing up the agent space, stay tuned. Hint: 🦾
 - [AndrewMayneProjects/Whisper](https://github.com/AndrewMayneProjects/Whisper) - Whisper applications
 - [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
