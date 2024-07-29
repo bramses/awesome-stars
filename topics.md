@@ -1928,6 +1928,7 @@
 
 ## others 
 
+- [amitShindeGit/ag-grid-react-infinte-scrollll](https://github.com/amitShindeGit/ag-grid-react-infinte-scrollll) - 
 - [GrantCuster/umap-explorer](https://github.com/GrantCuster/umap-explorer) - An interactive UMAP visualization of the MNIST data set.
 - [blasten/turn.js](https://github.com/blasten/turn.js) - The page flip effect for HTML5
 - [stephanj/embeddings-visualization](https://github.com/stephanj/embeddings-visualization) - 
