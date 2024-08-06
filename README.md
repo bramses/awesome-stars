@@ -875,7 +875,6 @@
 - [OS-Copilot/OS-Copilot](https://github.com/OS-Copilot/OS-Copilot) - An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.
 - [kagisearch/smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-- [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM
 - [nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) - Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
@@ -1238,6 +1237,7 @@
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [TimeSurgeLabs/athenadb](https://github.com/TimeSurgeLabs/athenadb) - 🦉⚡️Serverless, distributed vector database as an API
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
+- [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [pashashocky/obsidian-note-gallery](https://github.com/pashashocky/obsidian-note-gallery) - A masonry note gallery for obsidian.
 - [enesozturk/json-data-ai-template](https://github.com/enesozturk/json-data-ai-template) - JSONDataAI.com template with Next.js 13 and Vercel AI SDK
@@ -1501,7 +1501,7 @@
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [StenographyDev/autopilot-vsc](https://github.com/StenographyDev/autopilot-vsc) - 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
+- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 - [thex3family/obsidian-success-plan](https://github.com/thex3family/obsidian-success-plan) - Manage your tasks, projects, key results, and goals  within Obsidian. This plugin follows #theGamificationProject's Success Plan Framework.
 - [javalent/obsidian-leaflet](https://github.com/javalent/obsidian-leaflet) - Adds interactive maps to Obsidian.md using Leaflet.js
