@@ -1306,6 +1306,7 @@
 
 ## javascript 
 
+- [ewfian/faiss-node](https://github.com/ewfian/faiss-node) - Node.js bindings for faiss
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
 - [swagger-api/swagger-node](https://github.com/swagger-api/swagger-node) - Swagger module for node.js
 - [FancyGrid/awesome-grid](https://github.com/FancyGrid/awesome-grid) - A curated list of grid(table) libraries and resources that developers may find useful.
@@ -1572,6 +1573,7 @@
 
 ## machine-learning 
 
+- [ewfian/faiss-node](https://github.com/ewfian/faiss-node) - Node.js bindings for faiss
 - [lmcinnes/umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [supabase/supabase-py](https://github.com/supabase/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
@@ -1827,6 +1829,7 @@
 
 ## nodejs 
 
+- [ewfian/faiss-node](https://github.com/ewfian/faiss-node) - Node.js bindings for faiss
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
@@ -1876,6 +1879,7 @@
 
 ## npm 
 
+- [ewfian/faiss-node](https://github.com/ewfian/faiss-node) - Node.js bindings for faiss
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
@@ -1931,6 +1935,7 @@
 
 ## others 
 
+- [editorinchiefoss/editor_in_chief](https://github.com/editorinchiefoss/editor_in_chief) - An electron app to edit your writing using AI
 - [kinopio-club/kinopio-client](https://github.com/kinopio-club/kinopio-client) - Kinopio is a creative thinking tool
 - [amitShindeGit/ag-grid-react-infinte-scrollll](https://github.com/amitShindeGit/ag-grid-react-infinte-scrollll) - 
 - [GrantCuster/umap-explorer](https://github.com/GrantCuster/umap-explorer) - An interactive UMAP visualization of the MNIST data set.
@@ -3238,6 +3243,7 @@
 
 ## typescript 
 
+- [ewfian/faiss-node](https://github.com/ewfian/faiss-node) - Node.js bindings for faiss
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
@@ -3277,7 +3283,7 @@
 - [minwork/use-long-press](https://github.com/minwork/use-long-press) - React hook for detecting click (or tap) and hold event
 - [DonDebonair/daan.fyi](https://github.com/DonDebonair/daan.fyi) - 
 - [agneym/playground](https://github.com/agneym/playground) - A simple playground for HTML, CSS and JavaScript supporting module imports.
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3、Shadcn UI、vite and TypeScript. It's fast！
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern Vue admin panel built with Vue 3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
