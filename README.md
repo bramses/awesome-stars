@@ -42,6 +42,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [Processing](#processing)
 - [Python](#python)
@@ -845,6 +846,10 @@
 - [aramk/crayon-syntax-highlighter](https://github.com/aramk/crayon-syntax-highlighter) - Syntax Highlighter supporting multiple languages, themes, fonts, highlighting from a URL, local file or post text.
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 
+## PLpgSQL 
+
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
+
 ## Perl 
 
 - [jwilk-archive/perl-friday](https://github.com/jwilk-archive/perl-friday) - Perl code that is syntactically correct only on Fridays
@@ -1093,6 +1098,7 @@
 
 ## Ruby 
 
+- [mawise/bookshelf](https://github.com/mawise/bookshelf) - 3D animated bookshelf for ebooks
 - [yash-dani/logstash-filter-pilar](https://github.com/yash-dani/logstash-filter-pilar) - A logstash filter for Log Parsing using the PILAR method.
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
