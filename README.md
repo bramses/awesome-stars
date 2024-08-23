@@ -1062,7 +1062,6 @@
 - [HarshCasper/Rotten-Scripts](https://github.com/HarshCasper/Rotten-Scripts) - Scripts that will make you go WOW!
 - [robbiebarrat/rapping-neural-network](https://github.com/robbiebarrat/rapping-neural-network) - Rap song writing recurrent neural network trained on Kanye West's entire discography
 - [tafsiri/filmstrip](https://github.com/tafsiri/filmstrip) - Filmstrip is an OpenCV/Python based set of scripts for extracting keyframes from video.
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [thunil/TecoGAN](https://github.com/thunil/TecoGAN) - This repo contains source code and materials for the TEmporally COherent GAN SIGGRAPH project.
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [Palashio/libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone.
@@ -1256,7 +1255,7 @@
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [LiamRiddell/obsidian-solve](https://github.com/LiamRiddell/obsidian-solve) - An unobtrusive Obsidian plugin that quietly processes equations and patterns in real time
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [TfTHacker/obsidian42-HelpMate](https://github.com/TfTHacker/obsidian42-HelpMate) - HelpMate for Obsidian - providing help and documentation from within Obsidian
 - [cloudflare/chanfana](https://github.com/cloudflare/chanfana) - OpenAPI 3 and 3.1 schema generator and validator for Hono, itty-router and more!
 - [JSerZANP/shaku](https://github.com/JSerZANP/shaku) - Shaku helps you write better technical articles with code annotation .etc
