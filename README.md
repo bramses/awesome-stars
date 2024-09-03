@@ -1481,7 +1481,7 @@
 - [netlify/next-runtime](https://github.com/netlify/next-runtime) - The Next.js Runtime allows Next.js to run on Netlify with zero configuration
 - [pjeby/quick-explorer](https://github.com/pjeby/quick-explorer) - Perform file explorer operations (and see your current file path) from the Obsidian.md title bar
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
-- [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [japa/runner](https://github.com/japa/runner) - Standalone test runner built on top of japa core
 - [neodaoist/loudverse](https://github.com/neodaoist/loudverse) - Be seen. Be heard. Be experienced.
 - [chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian) - Post tweets directly from Obsidian.
