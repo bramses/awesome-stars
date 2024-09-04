@@ -1976,7 +1976,7 @@
 - [GrantCuster/umap-explorer](https://github.com/GrantCuster/umap-explorer) - An interactive UMAP visualization of the MNIST data set.
 - [blasten/turn.js](https://github.com/blasten/turn.js) - The page flip effect for HTML5
 - [stephanj/embeddings-visualization](https://github.com/stephanj/embeddings-visualization) - 
-- [cmdevries/LMW-tree](https://github.com/cmdevries/LMW-tree) - Learning M-Way Tree - Web Scale Clustering - EM-tree, K-tree, k-means, TSVQ, repeated k-means, clustering, random projections, random indexing, hashing, bit signatures
+- [cmdevries/LMW-tree](https://github.com/cmdevries/LMW-tree) - Learning M-Way Tree - Web Scale Clustering - EM-tree, K-tree, k-means, TSVQ, repeated k-means, bitwise clustering
 - [0xDebabrata/commonplace](https://github.com/0xDebabrata/commonplace) - An autobiography of the mind
 - [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) - 
 - [slab/parchment](https://github.com/slab/parchment) - Generalized state model for rich-text editors to interface with browser DOM
