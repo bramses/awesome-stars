@@ -107,6 +107,7 @@
 - [http](#http)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [ipfs](#ipfs)
@@ -1277,6 +1278,13 @@
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 
+## instagram 
+
+- [mohitk05/react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+- [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
+- [gcorallo/SparkArShaders](https://github.com/gcorallo/SparkArShaders) - Ar Studio / Ar Spark shaders.
+
 ## ios 
 
 - [tikimcfee/LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render source code in 3D, for macOS and iOS.
@@ -1522,6 +1530,7 @@
 
 ## laravel 
 
+- [inertiajs/pingcrm](https://github.com/inertiajs/pingcrm) - A demo application to illustrate how Inertia.js works.
 - [ppy/osu-web](https://github.com/ppy/osu-web) - the browser-facing portion of osu!
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
@@ -1966,6 +1975,7 @@
 
 ## others 
 
+- [ishaansehgal99/commonbase-integrations](https://github.com/ishaansehgal99/commonbase-integrations) - 
 - [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Export your personal data in one click
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
 - [mawise/bookshelf](https://github.com/mawise/bookshelf) - 3D animated bookshelf for ebooks
@@ -2624,7 +2634,6 @@
 - [opengeospatial/OGC-Technology-Trends](https://github.com/opengeospatial/OGC-Technology-Trends) - 
 - [positlabs/spark-lut-patch](https://github.com/positlabs/spark-lut-patch) - Spark AR patch for applying color lookup tables (LUTs)
 - [cinder/Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
-- [gcorallo/SparkArShaders](https://github.com/gcorallo/SparkArShaders) - Ar Studio / Ar Spark shaders.
 - [mikolalysenko/delaunay-triangulate](https://github.com/mikolalysenko/delaunay-triangulate) - Easy to use robust Delaunay triangulation
 - [keeffEoghan/tendrils](https://github.com/keeffEoghan/tendrils) - Core of WebGL GPGPU particles, emergent physics experiment - adapted from Tendrils interactive music video.
 - [specialprojects-experiments/paperphone](https://github.com/specialprojects-experiments/paperphone) - Paper phone experimental android app
