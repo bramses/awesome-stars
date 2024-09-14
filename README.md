@@ -356,6 +356,7 @@
 
 ## JavaScript 
 
+- [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [Darkseal/CORSflare](https://github.com/Darkseal/CORSflare) - A lightweight JavaScript CORS Reverse Proxy designed to run in a Cloudflare Worker.
 - [amitShindeGit/ag-grid-react-infinte-scrollll](https://github.com/amitShindeGit/ag-grid-react-infinte-scrollll) - 
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
@@ -1496,7 +1497,7 @@
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [pjhul/auth0-web-extension](https://github.com/pjhul/auth0-web-extension) - JS library for authenticating with Auth0 in Web Extensions
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) - Monorepo for the Ethereum VM TypeScript Implementation
 - [TedisAgolli/readwise-new-tab](https://github.com/TedisAgolli/readwise-new-tab) - 
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
