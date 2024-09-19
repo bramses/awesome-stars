@@ -673,7 +673,6 @@
 
 ## Jupyter Notebook 
 
-- [ishaansehgal99/GPU-Memory-Experiments](https://github.com/ishaansehgal99/GPU-Memory-Experiments) - Experiments on GPU Memory Usage for fine tuning
 - [GrantCuster/umap-explorer](https://github.com/GrantCuster/umap-explorer) - An interactive UMAP visualization of the MNIST data set.
 - [reworkd/tarsier](https://github.com/reworkd/tarsier) - Vision utilities for web interaction agents 👀
 - [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - The Open Source Memory Layer For Autonomous Agents
