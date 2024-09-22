@@ -1164,7 +1164,7 @@
 
 ## Shell 
 
-- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [SEPIA-Framework/sepia-installation-and-setup](https://github.com/SEPIA-Framework/sepia-installation-and-setup) - Instructions, scripts, tools and files to install, setup and run the SEPIA-Framework on Raspberry Pi, Windows, Mac and other Linux systems.
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - State of AI
