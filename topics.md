@@ -2130,7 +2130,7 @@
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [ActivityWatch/aw-watcher-spotify](https://github.com/ActivityWatch/aw-watcher-spotify) - Logs what you listen to on Spotify
 - [ActivityWatch/aw-watcher-vscode](https://github.com/ActivityWatch/aw-watcher-vscode) - 
-- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - Minimalistic Obsidian Theme for keyboard-centric users.
+- [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - A minimalistic and opinionated Obsidian theme for the keyboard-centric user.
 - [metmuseum/openaccess](https://github.com/metmuseum/openaccess) - The Metropolitan Museum of Art's Open Access Initiative
 - [tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery) - Generates a gallery based on selected page contents.
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
