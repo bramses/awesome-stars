@@ -891,7 +891,7 @@
 - [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 - [jdf/processing.py](https://github.com/jdf/processing.py) - Write Processing sketches in Python
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [lukeboi/scroll-first-letters](https://github.com/lukeboi/scroll-first-letters) - 
 - [tghw/trello-py](https://github.com/tghw/trello-py) - A Python wrapper for the Trello API
 - [wjbmattingly/weaviate-filter](https://github.com/wjbmattingly/weaviate-filter) - A package for creating GraphQL filters for Weaviate
@@ -1244,7 +1244,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [prinsss/twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
 - [slab/parchment](https://github.com/slab/parchment) - Generalized state model for rich-text editors to interface with browser DOM
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [hsk-kr/react-fabricjs-example](https://github.com/hsk-kr/react-fabricjs-example) - Fabricjs with React
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
