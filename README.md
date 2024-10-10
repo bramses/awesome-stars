@@ -1233,6 +1233,8 @@
 
 ## TypeScript 
 
+- [bramses/ycb-companion](https://github.com/bramses/ycb-companion) - 
+- [jkomoros/card-web](https://github.com/jkomoros/card-web) - The web app behind thecompendium.cards
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [anmiles/youtube-likes-downloader](https://github.com/anmiles/youtube-likes-downloader) - Download all liked videos from youtube
 - [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Export your personal data in one click
