@@ -1251,7 +1251,7 @@
 - [hsk-kr/react-fabricjs-example](https://github.com/hsk-kr/react-fabricjs-example) - Fabricjs with React
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [BearToCode/carta](https://github.com/BearToCode/carta) - A lightweight, fast and extensible Svelte Markdown editor and viewer.
-- [clerk/clerk-nextjs-demo-app-router](https://github.com/clerk/clerk-nextjs-demo-app-router) - Auth starts here with the official Next.js starter utilizing the app directory
+- [clerk/clerk-nextjs-auth-starter-template](https://github.com/clerk/clerk-nextjs-auth-starter-template) - Auth starts here with the official Next.js starter utilizing the app directory
 - [mljs/kmeans](https://github.com/mljs/kmeans) - K-Means clustering
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [TimeSurgeLabs/athenadb](https://github.com/TimeSurgeLabs/athenadb) - 🦉⚡️Serverless, distributed vector database as an API
