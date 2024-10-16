@@ -718,6 +718,7 @@
 
 ## database 
 
+- [supabase/supabase-swift](https://github.com/supabase/supabase-swift) - A Swift client for Supabase
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
@@ -2009,6 +2010,7 @@
 
 ## others 
 
+- [iandol/scrivomatic](https://github.com/iandol/scrivomatic) - A writing workflow using Scrivener's style system + Pandoc for output…
 - [bramses/ycb-companion](https://github.com/bramses/ycb-companion) - 
 - [jkomoros/card-web](https://github.com/jkomoros/card-web) - The web app behind thecompendium.cards
 - [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
@@ -2271,7 +2273,7 @@
 - [oakes/vim_cubed](https://github.com/oakes/vim_cubed) - Vim rendered on a cube for no reason
 - [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 - [jglev/obsidian-redirect](https://github.com/jglev/obsidian-redirect) - An Obsidian plugin for adding aliases to any file
-- [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian.md
+- [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
 - [faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage) - Obsidian homepage - Minimal and aesthetic template (with my unique features)
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
 - [swevans/unmute](https://github.com/swevans/unmute) - Enables web audio playback with the ios mute switch on
