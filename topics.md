@@ -2010,6 +2010,7 @@
 
 ## others 
 
+- [f2face/cloudflare-r2](https://github.com/f2face/cloudflare-r2) - Cloudflare R2 for Node.js.
 - [iandol/scrivomatic](https://github.com/iandol/scrivomatic) - A writing workflow using Scrivener's style system + Pandoc for output…
 - [bramses/ycb-companion](https://github.com/bramses/ycb-companion) - 
 - [jkomoros/card-web](https://github.com/jkomoros/card-web) - The web app behind thecompendium.cards
@@ -2805,7 +2806,7 @@
 
 ## python 
 
-- [spiraldb/vortex](https://github.com/spiraldb/vortex) - "The LLVM of columnar file formats". A toolkit for working with compressed Arrow on-disk, in-memory, and over-the-wire.
+- [spiraldb/vortex](https://github.com/spiraldb/vortex) - An extensible, state-of-the-art columnar file format, with associated tools for working with compressed Apache Arrow arrays in-memory, on-disk, and over-the-wire.
 - [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
 - [reworkd/tarsier](https://github.com/reworkd/tarsier) - Vision utilities for web interaction agents 👀
 - [mattlisiv/newsapi-python](https://github.com/mattlisiv/newsapi-python) - A Python Client for News API
@@ -3101,7 +3102,7 @@
 
 ## rust 
 
-- [spiraldb/vortex](https://github.com/spiraldb/vortex) - "The LLVM of columnar file formats". A toolkit for working with compressed Arrow on-disk, in-memory, and over-the-wire.
+- [spiraldb/vortex](https://github.com/spiraldb/vortex) - An extensible, state-of-the-art columnar file format, with associated tools for working with compressed Apache Arrow arrays in-memory, on-disk, and over-the-wire.
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
