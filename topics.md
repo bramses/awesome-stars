@@ -1257,7 +1257,7 @@
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [petargyurov/virtual-bookshelf](https://github.com/petargyurov/virtual-bookshelf) - A simple bookshelf made in CSS, HTML and vanilla JS.
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [rehypejs/rehype-slug](https://github.com/rehypejs/rehype-slug) - plugin to add `id` attributes to headings
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -1384,7 +1384,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [protectwise/troika](https://github.com/protectwise/troika) - A JavaScript framework for interactive 3D and 2D visualizations
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
@@ -2134,7 +2134,7 @@
 - [Kageetai/obsidian-plugin-journal-review](https://github.com/Kageetai/obsidian-plugin-journal-review) - Review your daily notes on their anniversaries, like "what happened today last year"
 - [shabegom/obsidian-mobile-logging](https://github.com/shabegom/obsidian-mobile-logging) - console logging on obsidian mobile app
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
-- [LincZero/obsidian-any-block](https://github.com/LincZero/obsidian-any-block) - A Obsidian Plugin. You can flexibility to create a 'Block' by some means. It also provides some useful features, like `list to table`.
+- [any-block/obsidian-any-block](https://github.com/any-block/obsidian-any-block) - A Obsidian Plugin. You can flexibility to create a 'Block' by some means. It also provides some useful features, like `list to table`.
 - [godofredoninja/simply](https://github.com/godofredoninja/simply) - Theme for Ghost inspired on Medium
 - [AwesomeDog/obsidian-awesome-image](https://github.com/AwesomeDog/obsidian-awesome-image) - One-stop solution for image management.
 - [eth-p/obsidian-callout-manager](https://github.com/eth-p/obsidian-callout-manager) - An Obsidian.md plugin that makes creating and configuring callouts easy.
@@ -2806,7 +2806,7 @@
 
 ## python 
 
-- [spiraldb/vortex](https://github.com/spiraldb/vortex) - An extensible, state-of-the-art columnar file format, with associated tools for working with compressed Apache Arrow arrays in-memory, on-disk, and over-the-wire.
+- [spiraldb/vortex](https://github.com/spiraldb/vortex) - An extensible, state-of-the-art columnar file format
 - [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
 - [reworkd/tarsier](https://github.com/reworkd/tarsier) - Vision utilities for web interaction agents 👀
 - [mattlisiv/newsapi-python](https://github.com/mattlisiv/newsapi-python) - A Python Client for News API
@@ -2839,7 +2839,7 @@
 - [ForeignGods/Sorting-Algorithms-Blender](https://github.com/ForeignGods/Sorting-Algorithms-Blender) - Sorting algorithms visualized using the Blender Python API.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [KiranGershenfeld/VisualizingTwitchCommunities](https://github.com/KiranGershenfeld/VisualizingTwitchCommunities) - Graphing communities on Twitch.tv in a visually intuitive way
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [AmenRa/ranx](https://github.com/AmenRa/ranx) - ⚡️A Blazing-Fast Python Library for Ranking Evaluation, Comparison, and Fusion 🐍
@@ -3102,7 +3102,7 @@
 
 ## rust 
 
-- [spiraldb/vortex](https://github.com/spiraldb/vortex) - An extensible, state-of-the-art columnar file format, with associated tools for working with compressed Apache Arrow arrays in-memory, on-disk, and over-the-wire.
+- [spiraldb/vortex](https://github.com/spiraldb/vortex) - An extensible, state-of-the-art columnar file format
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
