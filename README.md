@@ -54,6 +54,7 @@
 - [Sass](#sass)
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
+- [Solidity](#solidity)
 - [SuperCollider](#supercollider)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -282,6 +283,7 @@
 
 ## HTML 
 
+- [ajitpal/BookBank](https://github.com/ajitpal/BookBank) - Books
 - [iandol/scrivomatic](https://github.com/iandol/scrivomatic) - A writing workflow using Scrivener's style system + Pandoc for output…
 - [0xDebabrata/commonplace](https://github.com/0xDebabrata/commonplace) - An autobiography of the mind
 - [jasonjmcghee/portable-hnsw](https://github.com/jasonjmcghee/portable-hnsw) - What if an HNSW index was just a file, and you could serve it from a CDN, and search it directly in the browser?
@@ -459,7 +461,6 @@
 - [kirkjerk/lowLagAudio](https://github.com/kirkjerk/lowLagAudio) - responsive html5 audio wrapper
 - [fireship-io/cramer-algo-trader](https://github.com/fireship-io/cramer-algo-trader) - Trade Stocks with Node.js, Alpaca, and GPT-3
 - [koalazak/dorita980](https://github.com/koalazak/dorita980) - Unofficial iRobot Roomba and Braava (i7/i7+, 980, 960, 900, e5, 690, 675, m6, etc) node.js library (SDK) to control your robot
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [alexbrillant/react-native-deck-swiper](https://github.com/alexbrillant/react-native-deck-swiper) - tinder like react-native deck swiper
 - [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow with dozens of features for controlling your Obsidian vault.
 - [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index) - Canonical common brand names, operators, transit and flags for OpenStreetMap.
@@ -665,7 +666,7 @@
 - [algolia/gatsby-plugin-algolia](https://github.com/algolia/gatsby-plugin-algolia) - A plugin to push to Algolia based on graphQl queries
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [makaroni4/youtube_time_tracker](https://github.com/makaroni4/youtube_time_tracker) - Chrome Extension that tracks time you spent on Youtube.
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 
 ## Julia 
 
@@ -1176,6 +1177,10 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
+## Solidity 
+
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+
 ## SuperCollider 
 
 - [learnwithjason/make-music-with-code](https://github.com/learnwithjason/make-music-with-code) - 
@@ -1489,7 +1494,7 @@
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load MDX content from anywhere
 - [agneym/playground](https://github.com/agneym/playground) - A simple playground for HTML, CSS and JavaScript supporting module imports.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [netlify/next-runtime](https://github.com/netlify/next-runtime) - The Next.js Runtime allows Next.js to run on Netlify with zero configuration
+- [opennextjs/opennextjs-netlify](https://github.com/opennextjs/opennextjs-netlify) - Open Next.js adapter for Netlify
 - [pjeby/quick-explorer](https://github.com/pjeby/quick-explorer) - Perform file explorer operations (and see your current file path) from the Obsidian.md title bar
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
