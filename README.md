@@ -162,6 +162,7 @@
 
 ## CSS 
 
+- [tomhazledine/picobel](https://github.com/tomhazledine/picobel) - A lightweight wrapper for HTML audio. Bring your own CSS.
 - [AnirudhRahul/Reddit-Embed](https://github.com/AnirudhRahul/Reddit-Embed) - Embed any reddit post onto your website!
 - [TryGhost/Source](https://github.com/TryGhost/Source) - The default theme for Ghost
 - [chrisgrieser/shimmering-focus](https://github.com/chrisgrieser/shimmering-focus) - A minimalistic and opinionated Obsidian theme for the keyboard-centric user.
@@ -674,6 +675,7 @@
 
 ## Jupyter Notebook 
 
+- [zilliztech/feder](https://github.com/zilliztech/feder) - Visualize hnsw, faiss and other anns index
 - [GrantCuster/umap-explorer](https://github.com/GrantCuster/umap-explorer) - An interactive UMAP visualization of the MNIST data set.
 - [reworkd/tarsier](https://github.com/reworkd/tarsier) - Vision utilities for web interaction agents 👀
 - [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - The Open Source Memory Layer For Autonomous Agents
@@ -867,6 +869,7 @@
 
 ## Python 
 
+- [koaning/bulk](https://github.com/koaning/bulk) - A Simple Bulk Labelling Tool
 - [ishaansehgal99/commonbase-integrations](https://github.com/ishaansehgal99/commonbase-integrations) - 
 - [Dicklesworthstone/llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections.
 - [lmcinnes/umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection
@@ -1187,6 +1190,7 @@
 
 ## Svelte 
 
+- [cmudig/emblaze](https://github.com/cmudig/emblaze) - Interactive Jupyter notebook widget for visually comparing embedding spaces.
 - [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
 - [dabateam/funding-simulator](https://github.com/dabateam/funding-simulator) - Startup Funding Simulator
 - [ekzhang/dispict](https://github.com/ekzhang/dispict) - Design a growing artistic exhibit of your own making, with semantic search powered by OpenAI CLIP
