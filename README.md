@@ -1127,7 +1127,7 @@
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
@@ -1244,6 +1244,7 @@
 
 ## TypeScript 
 
+- [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [f2face/cloudflare-r2](https://github.com/f2face/cloudflare-r2) - Cloudflare R2 for Node.js.
 - [bramses/ycb-companion](https://github.com/bramses/ycb-companion) - 
 - [jkomoros/card-web](https://github.com/jkomoros/card-web) - The web app behind thecompendium.cards
