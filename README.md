@@ -1244,6 +1244,7 @@
 
 ## TypeScript 
 
+- [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [f2face/cloudflare-r2](https://github.com/f2face/cloudflare-r2) - Cloudflare R2 for Node.js.
 - [bramses/ycb-companion](https://github.com/bramses/ycb-companion) - 
