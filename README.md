@@ -86,7 +86,6 @@
 - [jirutka/smlar](https://github.com/jirutka/smlar) - PostgreSQL extension for an effective similarity search || mirror of git://sigaev.ru/smlar.git || see https://www.pgcon.org/2012/schedule/track/Hacking/443.en.html
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
-- [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [jamriska/ebsynth](https://github.com/jamriska/ebsynth) - Fast Example-based Image Synthesis and Style Transfer
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 
@@ -945,7 +944,7 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [chidiwilliams/GPT-Automator](https://github.com/chidiwilliams/GPT-Automator) - Your voice-controlled Mac assistant
 - [hwchase17/chat-your-data](https://github.com/hwchase17/chat-your-data) - 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the internet or your docs. Use any online or local LLM (e.g gpt, claude, gemini, llama, qwen, mistral). Build custom agents, personalized automati
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
@@ -976,7 +975,7 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [ForeignGods/Sorting-Algorithms-Blender](https://github.com/ForeignGods/Sorting-Algorithms-Blender) - Sorting algorithms visualized using the Blender Python API.
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
@@ -998,7 +997,7 @@
 - [mikepqr/resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [parallelinnovation/Quick-note-entry-for-Obsidian](https://github.com/parallelinnovation/Quick-note-entry-for-Obsidian) - A simple one-line quick entry GUI for your Obsidian daily notes in markdown format.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data.
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
@@ -1190,6 +1189,7 @@
 
 ## Svelte 
 
+- [0Supa/uploader](https://github.com/0Supa/uploader) - File uploader frontend
 - [cmudig/emblaze](https://github.com/cmudig/emblaze) - Interactive Jupyter notebook widget for visually comparing embedding spaces.
 - [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
 - [dabateam/funding-simulator](https://github.com/dabateam/funding-simulator) - Startup Funding Simulator
@@ -1251,7 +1251,7 @@
 - [jkomoros/card-web](https://github.com/jkomoros/card-web) - The web app behind thecompendium.cards
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [anmiles/youtube-likes-downloader](https://github.com/anmiles/youtube-likes-downloader) - Download all liked videos from youtube
-- [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Export your personal data in one click
+- [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) - Open-source framework for exporting and building applications off of your personal data.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
 - [editorinchiefoss/editor_in_chief](https://github.com/editorinchiefoss/editor_in_chief) - An electron app to edit your writing using AI
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier +
@@ -1269,7 +1269,7 @@
 - [mljs/kmeans](https://github.com/mljs/kmeans) - K-Means clustering
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [TimeSurgeLabs/athenadb](https://github.com/TimeSurgeLabs/athenadb) - 🦉⚡️Serverless, distributed vector database as an API
-- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy thinkers.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 - [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [pashashocky/obsidian-note-gallery](https://github.com/pashashocky/obsidian-note-gallery) - A masonry note gallery for obsidian.
@@ -1490,7 +1490,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+- [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [minwork/use-long-press](https://github.com/minwork/use-long-press) - React hook for detecting click (or tap) and hold event
@@ -1613,6 +1613,7 @@
 - [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
 - [rajinwonderland/react-code-blocks](https://github.com/rajinwonderland/react-code-blocks) - React code blocks and code snippet components
 - [solvvy/redact-pii](https://github.com/solvvy/redact-pii) - Remove personally identifiable information from text.
+- [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
