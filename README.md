@@ -290,6 +290,7 @@
 - [jasonjmcghee/portable-hnsw](https://github.com/jasonjmcghee/portable-hnsw) - What if an HNSW index was just a file, and you could serve it from a CDN, and search it directly in the browser?
 - [elgatosf/streamdeck-counter](https://github.com/elgatosf/streamdeck-counter) - Stream Deck SDK: Counter sample plugin
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
 - [hyperaudio/hyperaudio-lite](https://github.com/hyperaudio/hyperaudio-lite) - Hyperaudio Lite - a Super-lightweight Interactive Transcript Player
 - [tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery) - Generates a gallery based on selected page contents.
@@ -717,7 +718,6 @@
 
 ## MDX 
 
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [DonDebonair/daan.fyi](https://github.com/DonDebonair/daan.fyi) - 
 - [prisma/docs](https://github.com/prisma/docs) - 📚 Prisma Documentation
