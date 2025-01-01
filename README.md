@@ -249,7 +249,7 @@
 - [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with Obsidian in the terminal. Open, search, create, update, move, delete and print notes!
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale vector search.
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
@@ -1674,7 +1674,7 @@
 - [spencercap/vue-2-ext](https://github.com/spencercap/vue-2-ext) - 
 - [spencercap/vue-3-ext](https://github.com/spencercap/vue-3-ext) - vue 3 based chrome extension in typescript
 - [ynab/ynab-api-starter-kit](https://github.com/ynab/ynab-api-starter-kit) - Quickly get started developing an application with the YNAB API
-- [Leniolabs/layoutit-grid](https://github.com/Leniolabs/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
+- [LayoutitStudio/layoutit-grid](https://github.com/LayoutitStudio/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 
 ## Zig 
