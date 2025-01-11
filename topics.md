@@ -276,9 +276,9 @@
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [luxonis/depthai](https://github.com/luxonis/depthai) - DepthAI Python API utilities, examples, and tutorials.
 - [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AGI's query engine - Platform for building AI that can learn and answer questions over federated data.
 - [elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - State of AI
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - Happy Transformer makes it easy to fine-tune and perform inference with  NLP Transformer models.
 - [mtli/PhotoSketch](https://github.com/mtli/PhotoSketch) - Code for Photo-Sketching: Inferring Contour Drawings from Images :dog:
@@ -295,7 +295,7 @@
 - [LordGrimmauld/aw-watcher-obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) - Obsidian plugin to track user activity with ActivityWatch
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 
 ## android 
@@ -321,7 +321,7 @@
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [amamenko/owen-wilson-wow-api](https://github.com/amamenko/owen-wilson-wow-api) - JSON API for actor Owen Wilson's 'wow' exclamations in movies
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [koalazak/dorita980](https://github.com/koalazak/dorita980) - Unofficial iRobot Roomba and Braava (i7/i7+, 980, 960, 900, e5, 690, 675, m6, etc) node.js library (SDK) to control your robot
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -330,7 +330,7 @@
 - [inlife/nexrender](https://github.com/inlife/nexrender) - 📹  Data-driven render automation for After Effects
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 
@@ -348,8 +348,7 @@
 - [run-house/runhouse](https://github.com/run-house/runhouse) - Dispatch and distribute your ML training to "serverless" clusters in Python, like PyTorch for ML infra. Iterable, debuggable, multi-cloud/on-prem, identical across research and production.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [cortictechnology/cep](https://github.com/cortictechnology/cep) - CEP is a software platform designed for users that want to learn or rapidly prototype using standard A.I. components.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data.
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A data query and AI-inference compute engine written in Rust using Apache Arrow and DataFusion for secure, fast, agentic AI applications.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable SQL query and AI compute engine, written in Rust, for data-grounded apps and agents.
 - [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - Happy Transformer makes it easy to fine-tune and perform inference with  NLP Transformer models.
 - [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
 
@@ -488,10 +487,9 @@
 
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [chrislemke/ChatFred](https://github.com/chrislemke/ChatFred) - Alfred workflow using ChatGPT, DALL·E 2 and other models for chatting, image generation and more.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [tmijs/tmi.js](https://github.com/tmijs/tmi.js) - 💬 Javascript library for the Twitch Messaging Interface. (Twitch.tv)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data.
 
 ## chatgpt 
 
@@ -507,7 +505,7 @@
 - [ttengwang/Caption-Anything](https://github.com/ttengwang/Caption-Anything) - Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences. https://huggingface.co/space
 - [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export) - Browser script to share and export  ChatGPT chat logs to Markdown, JSON, or as Image (PNG)
 - [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - [CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
@@ -518,7 +516,7 @@
 ## chatgpt-api 
 
 - [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 ## chrome 
 
@@ -630,7 +628,7 @@
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [patriciogonzalezvivo/MidiGyver](https://github.com/patriciogonzalezvivo/MidiGyver) - 
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
@@ -645,7 +643,7 @@
 
 ## csharp 
 
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 
@@ -687,7 +685,7 @@
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A data query and AI-inference compute engine written in Rust using Apache Arrow and DataFusion for secure, fast, agentic AI applications.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable SQL query and AI compute engine, written in Rust, for data-grounded apps and agents.
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don't require authentication.
 
 ## data-analysis 
@@ -727,7 +725,6 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data.
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
@@ -836,7 +833,7 @@
 
 ## dotnet 
 
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 
 ## education 
 
@@ -1085,7 +1082,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [Yakitrak/obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with Obsidian in the terminal. Open, search, create, update, move, delete and print notes!
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale vector search.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
 - [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way
@@ -1117,14 +1114,14 @@
 ## graphql 
 
 - [wjbmattingly/weaviate-filter](https://github.com/wjbmattingly/weaviate-filter) - A package for creating GraphQL filters for Weaviate
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
@@ -1165,20 +1162,18 @@
 - [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) - 12 Weeks, 24 Lessons, IoT for All!
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [3DJakob/react-tinder-card](https://github.com/3DJakob/react-tinder-card) - A npm react module for making react elements swipeable like in the dating app tinder.
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [ppy/osu-web](https://github.com/ppy/osu-web) - the browser-facing portion of osu!
 - [alvaromontoro/almond.css](https://github.com/alvaromontoro/almond.css) - Collection of CSS styles to make simple websites look nicer
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data.
 - [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
 - [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [BeauNouvelle/SimpleCheckbox](https://github.com/BeauNouvelle/SimpleCheckbox) - A simple Checkbox
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -1196,7 +1191,7 @@
 - [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [arpitbbhayani/obsidian-hackernews](https://github.com/arpitbbhayani/obsidian-hackernews) - Periodically fetches and displays top stories from HackerNews.
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -1247,7 +1242,7 @@
 
 ## haskell 
 
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 
 ## homebrew 
@@ -1390,7 +1385,7 @@
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [protectwise/troika](https://github.com/protectwise/troika) - A JavaScript framework for interactive 3D and 2D visualizations
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [jokenox/Goopt](https://github.com/jokenox/Goopt) - 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3.
@@ -1539,7 +1534,7 @@
 
 ## language 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [arduino/reference-en](https://github.com/arduino/reference-en) - Editable source for the Arduino Reference
 - [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
@@ -1601,11 +1596,10 @@
 - [themaximalist/InfinityArcade](https://github.com/themaximalist/InfinityArcade) - Create any Text Game with AI
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale vector search.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data.
 
 ## login 
 
@@ -1615,7 +1609,7 @@
 ## low-code 
 
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## lua 
@@ -1646,13 +1640,12 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data.
 - [elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - State of AI
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
 - [runwayml/processing-library](https://github.com/runwayml/processing-library) - RunwayML-for-Processing
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A data query and AI-inference compute engine written in Rust using Apache Arrow and DataFusion for secure, fast, agentic AI applications.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable SQL query and AI compute engine, written in Rust, for data-grounded apps and agents.
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - Happy Transformer makes it easy to fine-tune and perform inference with  NLP Transformer models.
 - [Tiiiger/bert_score](https://github.com/Tiiiger/bert_score) - BERT score for text generation
@@ -1744,10 +1737,9 @@
 
 ## mongodb 
 
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 
 ## monitoring 
 
@@ -1777,7 +1769,6 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -1804,7 +1795,7 @@
 
 ## nestjs 
 
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [nestjsx/crud](https://github.com/nestjsx/crud) - NestJs CRUD for RESTful APIs
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 
@@ -1900,7 +1891,7 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [FarazzShaikh/three-noise](https://github.com/FarazzShaikh/three-noise) - Simple gradient noise library for use with Three.js. Now with fBm!
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [richardgirges/express-fileupload](https://github.com/richardgirges/express-fileupload) - Simple express file upload middleware that wraps around busboy
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [conradoqg/naivecoin](https://github.com/conradoqg/naivecoin) - A cryptocurrency implementation in less than 1500 lines of code
@@ -3100,7 +3091,7 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 
 ## robotics 
 
@@ -3128,7 +3119,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
@@ -3215,13 +3206,13 @@
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A data query and AI-inference compute engine written in Rust using Apache Arrow and DataFusion for secure, fast, agentic AI applications.
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable SQL query and AI compute engine, written in Rust, for data-grounded apps and agents.
 
 ## sql-server 
 
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 
 ## sqlite 
 
@@ -3387,7 +3378,7 @@
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
 - [pmndrs/three-stdlib](https://github.com/pmndrs/three-stdlib) - 📚 Stand-alone library of threejs examples designed to run without transpilation in node & browser
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [minwork/use-long-press](https://github.com/minwork/use-long-press) - React hook for detecting click (or tap) and hold event
 - [DonDebonair/daan.fyi](https://github.com/DonDebonair/daan.fyi) - 
@@ -3501,7 +3492,7 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
+- [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [ppy/osu-web](https://github.com/ppy/osu-web) - the browser-facing portion of osu!
 - [jokenox/Goopt](https://github.com/jokenox/Goopt) - 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3.
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
