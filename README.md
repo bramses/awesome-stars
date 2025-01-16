@@ -682,6 +682,7 @@
 - [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - The Open Source Memory Layer For Autonomous Agents
 - [AndrewMayneProjects/Whisper](https://github.com/AndrewMayneProjects/Whisper) - Whisper applications
 - [WhisperSpeech/WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -915,7 +916,6 @@
 - [anuragxel/salt](https://github.com/anuragxel/salt) - Segment Anything Labelling Tool
 - [scherroman/mugen](https://github.com/scherroman/mugen) - A command-line music video generator based on rhythm
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
-- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [alantech/marsha](https://github.com/alantech/marsha) - Marsha is a functional, higher-level, English-based programming language that gets compiled into tested Python software by an LLM
 - [anthonyjdella/twilio-schedule-message](https://github.com/anthonyjdella/twilio-schedule-message) - ⏰ Python code showing you how to schedule a message with Twilio.
 - [adhikary97/Sharetape-Open-Source](https://github.com/adhikary97/Sharetape-Open-Source) - Script that takes any long form video or podcast and outputs clips for social media
