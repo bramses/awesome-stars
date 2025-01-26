@@ -872,6 +872,7 @@
 
 ## Python 
 
+- [davidadamojr/TextRank](https://github.com/davidadamojr/TextRank) - Python implementation of TextRank algorithm for automatic keyword extraction and summarization using Levenshtein distance as relation between text units. This project is based on the paper "TextRank: 
 - [koaning/bulk](https://github.com/koaning/bulk) - A Simple Bulk Labelling Tool
 - [ishaansehgal99/commonbase-integrations](https://github.com/ishaansehgal99/commonbase-integrations) - 
 - [Dicklesworthstone/llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections.
@@ -1248,6 +1249,7 @@
 
 ## TypeScript 
 
+- [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - JavaScript client for the Meilisearch API
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
 - [TryGhost/ActivityPub](https://github.com/TryGhost/ActivityPub) - A full-featured ActivityPub server for networked publishing with Ghost
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
@@ -1262,7 +1264,7 @@
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) - Open-source framework for exporting your personal data.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
 - [editorinchiefoss/editor_in_chief](https://github.com/editorinchiefoss/editor_in_chief) - An electron app to edit your writing using AI
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + 
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [stephanj/embeddings-visualization](https://github.com/stephanj/embeddings-visualization) - 
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
