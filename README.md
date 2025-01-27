@@ -1323,7 +1323,7 @@
 - [cosmicoptima/loom](https://github.com/cosmicoptima/loom) - A Loom implementation in Obsidian
 - [Zero-to-Heroes/api-simulate-battlegrounds-battle](https://github.com/Zero-to-Heroes/api-simulate-battlegrounds-battle) - An API to run a simulator for Hearthstone Battlegrounds
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
-- [mckaywrigley/kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - Come join the best place on the internet to learn AI skills. Use code "kindlegpt" for an extra 20% off.
+- [mckaywrigley/kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - 
 - [blomqma/next-rest-framework](https://github.com/blomqma/next-rest-framework) - Type-safe, self-documenting APIs for Next.js
 - [ytliu74/obsidian-pseudocode](https://github.com/ytliu74/obsidian-pseudocode) - An obsidian plugin that helps to render a LaTeX-style pseudocode inside a code block.
 - [Kageetai/obsidian-plugin-journal-review](https://github.com/Kageetai/obsidian-plugin-journal-review) - Review your daily notes on their anniversaries, like "what happened today last year"
