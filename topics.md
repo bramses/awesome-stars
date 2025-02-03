@@ -73,6 +73,7 @@
 - [eslint](#eslint)
 - [ethereum](#ethereum)
 - [express](#express)
+- [facebook](#facebook)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -905,6 +906,10 @@
 
 - [auth0-samples/auth0-express-webapp-sample](https://github.com/auth0-samples/auth0-express-webapp-sample) - Auth0 Integration Samples for an Express web application
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+
+## facebook 
+
+- [pofulu/Spark-AR-PFTools](https://github.com/pofulu/Spark-AR-PFTools) - Utilities for Meta Spark Studio (Spark AR)
 
 ## finance 
 
@@ -2005,6 +2010,7 @@
 
 ## others 
 
+- [FlacoJones/ycb-helm](https://github.com/FlacoJones/ycb-helm) - Helm Deployment for Your Commonbase
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [davidadamojr/TextRank](https://github.com/davidadamojr/TextRank) - Python implementation of TextRank algorithm for automatic keyword extraction and summarization using Levenshtein distance as relation between text units. This project is based on the paper "TextRank: 
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - macOS menu bar app that shows how full the International Space Station's urine tank is in real time
@@ -2394,7 +2400,7 @@
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [Aquila-Network/AquilaJS](https://github.com/Aquila-Network/AquilaJS) - JavaScript client library to access Aquila Network Neural Search Engine.
 - [jirutka/smlar](https://github.com/jirutka/smlar) - PostgreSQL extension for an effective similarity search || mirror of git://sigaev.ru/smlar.git || see https://www.pgcon.org/2012/schedule/track/Hacking/443.en.html
-- [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow with dozens of features for controlling your Obsidian vault.
+- [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred workflow with dozens of features for controlling your Obsidian vault.
 - [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) - Advanced modes for Obsidian URI
 - [cloudflare/python-worker-hello-world](https://github.com/cloudflare/python-worker-hello-world) - Python hello world for Cloudflare Workers
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
@@ -2671,7 +2677,6 @@
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
-- [pofulu/Spark-AR-PFTools](https://github.com/pofulu/Spark-AR-PFTools) - Utilities for Meta Spark Studio (Spark AR)
 - [opengeospatial/OGC-Technology-Trends](https://github.com/opengeospatial/OGC-Technology-Trends) - 
 - [positlabs/spark-lut-patch](https://github.com/positlabs/spark-lut-patch) - Spark AR patch for applying color lookup tables (LUTs)
 - [cinder/Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
