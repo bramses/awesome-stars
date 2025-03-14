@@ -319,7 +319,7 @@
 - [mattlisiv/newsapi-python](https://github.com/mattlisiv/newsapi-python) - A Python Client for News API
 - [cloudflare/chanfana](https://github.com/cloudflare/chanfana) - OpenAPI 3 and 3.1 schema generator and validator for Hono, itty-router and more!
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [amamenko/owen-wilson-wow-api](https://github.com/amamenko/owen-wilson-wow-api) - JSON API for actor Owen Wilson's 'wow' exclamations in movies
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -349,7 +349,7 @@
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [cortictechnology/cep](https://github.com/cortictechnology/cep) - CEP is a software platform designed for users that want to learn or rapidly prototype using standard A.I. components.
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated data query and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
@@ -416,13 +416,13 @@
 
 ## aws 
 
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [sawyerh/highlights](https://github.com/sawyerh/highlights) - Code for converting, importing, processing, and displaying Kindle, Instapaper, and Safari Books highlights
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 
 ## azure 
 
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 
 ## babel 
 
@@ -703,7 +703,7 @@
 ## data-science 
 
 - [supabase/supabase-py](https://github.com/supabase/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [KiranGershenfeld/VisualizingTwitchCommunities](https://github.com/KiranGershenfeld/VisualizingTwitchCommunities) - Graphing communities on Twitch.tv in a visually intuitive way
@@ -727,6 +727,7 @@
 
 ## database 
 
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [supabase/supabase-swift](https://github.com/supabase/supabase-swift) - A Swift client for Supabase
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
@@ -781,7 +782,7 @@
 
 ## deployment 
 
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 
 ## design 
 
@@ -1648,7 +1649,7 @@
 - [supabase/supabase-py](https://github.com/supabase/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
 - [plastic-labs/tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - AI tutor powered by Theory-of-Mind reasoning
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [ekzhang/dispict](https://github.com/ekzhang/dispict) - Design a growing artistic exhibit of your own making, with semantic search powered by OpenAI CLIP
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -2055,7 +2056,6 @@
 - [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [ishaansehgal99/commonbase-integrations](https://github.com/ishaansehgal99/commonbase-integrations) - 
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) - Open-source framework for exporting your personal data.
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [mawise/bookshelf](https://github.com/mawise/bookshelf) - 3D animated bookshelf for ebooks
 - [editorinchiefoss/editor_in_chief](https://github.com/editorinchiefoss/editor_in_chief) - An electron app to edit your writing using AI
 - [kinopio-club/kinopio-client](https://github.com/kinopio-club/kinopio-client) - Kinopio is a creative thinking tool
@@ -2862,7 +2862,7 @@
 - [jleclanche/fireplace](https://github.com/jleclanche/fireplace) - A Hearthstone simulator in Python
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [ekzhang/dispict](https://github.com/ekzhang/dispict) - Design a growing artistic exhibit of your own making, with semantic search powered by OpenAI CLIP
@@ -2941,7 +2941,7 @@
 - [WhisperSpeech/WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [CarperAI/trlx](https://github.com/CarperAI/trlx) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
@@ -3197,7 +3197,7 @@
 
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [clerk/nextjs-auth-starter-template](https://github.com/clerk/nextjs-auth-starter-template) - A modern auth and user management starter template, built for the Next.js App Router and powered by Clerk
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The Runhouse Python client. Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Distribute and run AI workloads magically in Python, like PyTorch for ML infra.
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
