@@ -252,6 +252,8 @@
 
 ## ai 
 
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ AI agents that spark joy
@@ -497,6 +499,7 @@
 
 ## chatgpt 
 
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
@@ -624,7 +627,7 @@
 
 ## config 
 
-- [zunymolano/zunymolano](https://github.com/zunymolano/zunymolano) - Config files for my GitHub profile.
+- [zunyandco/zunymolano](https://github.com/zunyandco/zunymolano) - Config files for my GitHub profile.
 
 ## cpp 
 
@@ -687,6 +690,7 @@
 
 ## data 
 
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
@@ -1066,7 +1070,7 @@
 
 ## github-config 
 
-- [zunymolano/zunymolano](https://github.com/zunymolano/zunymolano) - Config files for my GitHub profile.
+- [zunyandco/zunymolano](https://github.com/zunyandco/zunymolano) - Config files for my GitHub profile.
 
 ## go 
 
@@ -1606,6 +1610,8 @@
 
 ## llm 
 
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [Dicklesworthstone/llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections.
@@ -1643,6 +1649,7 @@
 
 ## machine-learning 
 
+- [GantMan/nsfw_model](https://github.com/GantMan/nsfw_model) - Keras model of NSFW detector
 - [ewfian/faiss-node](https://github.com/ewfian/faiss-node) - Node.js bindings for faiss
 - [lmcinnes/umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
@@ -1715,6 +1722,7 @@
 
 ## markdown 
 
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) - 
 - [cloverhearts/quilljs-markdown](https://github.com/cloverhearts/quilljs-markdown) - QuillJS Editor Plugin for advanced Markdown
@@ -1985,6 +1993,7 @@
 
 ## openai 
 
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ AI agents that spark joy
 - [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
 - [nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) - Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI
@@ -2225,7 +2234,7 @@
 - [micahke/obsidian-gpt3-notes](https://github.com/micahke/obsidian-gpt3-notes) - An Obsidian plugin to generate notes based on GP3 output.
 - [vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts) - 
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
-- [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
+- [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
 - [dragnet-org/dragnet](https://github.com/dragnet-org/dragnet) - Just the facts -- web page content extraction
 - [Trikzon/obsidian-frontmatter-links](https://github.com/Trikzon/obsidian-frontmatter-links) - An Obsidian plugin that renders links in a note's frontmatter as links.
 - [selfire1/obsidian-publish-css](https://github.com/selfire1/obsidian-publish-css) - The CSS for my Obsdian publish site.
@@ -2274,7 +2283,7 @@
 - [ozntel/obsidian-link-converter](https://github.com/ozntel/obsidian-link-converter) - Obsidian Plugin to scan all your links in your vault and convert them to your desired format.
 - [RestedXP/RXPGuides](https://github.com/RestedXP/RXPGuides) - RXPGuides is a platform to write in-game leveling guides for WoW Classic
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
-- [zilliztech/attu](https://github.com/zilliztech/attu) - The GUI for Milvus
+- [zilliztech/attu](https://github.com/zilliztech/attu) - Web UI for Milvus Vector Database
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WarmUpTill/SceneSwitcher](https://github.com/WarmUpTill/SceneSwitcher) - An automation tool for OBS Studio
 - [partouf/OBSInfoWriter](https://github.com/partouf/OBSInfoWriter) - Multiplatform version of ObsInfoPlugin to write timestamps to a file
@@ -2962,6 +2971,7 @@
 
 ## rails 
 
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.
 - [rails/webpacker](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 
@@ -3135,6 +3145,7 @@
 
 ## ruby 
 
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 
