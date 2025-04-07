@@ -367,6 +367,7 @@
 
 ## JavaScript 
 
+- [leeoniya/uWrap](https://github.com/leeoniya/uWrap) - A 10x faster and more accurate text wrapping util in &lt; 2KB (min)
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 - [ahmedrangel/instagram-media-scraper](https://github.com/ahmedrangel/instagram-media-scraper) - A simple Node.js code to get public information and media from every Instagram post or reel URL without API. Working 2025
@@ -460,7 +461,7 @@
 - [BrunoRB/ahocorasick](https://github.com/BrunoRB/ahocorasick) - Aho-corasick for javascript.
 - [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) - React Three Fiber, Threejs, Nextjs starter
 - [remarkjs/remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - remark plugin to support frontmatter (YAML, TOML, and more)
-- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [alvaromontoro/almond.css](https://github.com/alvaromontoro/almond.css) - Collection of CSS styles to make simple websites look nicer
 - [conradoqg/naivecoin](https://github.com/conradoqg/naivecoin) - A cryptocurrency implementation in less than 1500 lines of code
@@ -522,6 +523,7 @@
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [sindresorhus/file-metadata](https://github.com/sindresorhus/file-metadata) - Get file metadata using `mdls` on macOS
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [w3reality/three-geo](https://github.com/w3reality/three-geo) - 3D geographic visualization library
 - [jakiestfu/Snap.js](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
 - [left-pad/left-pad](https://github.com/left-pad/left-pad) - :arrow_left: String left pad -- deprecated, use String​.prototype​.pad​Start()
@@ -1228,7 +1230,6 @@
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [the-pudding/svelte-starter](https://github.com/the-pudding/svelte-starter) - A Svelte starter template for projects
 - [Robin-Haupt-1/Obsidian-Map-of-Content](https://github.com/Robin-Haupt-1/Obsidian-Map-of-Content) - Generate and display a Map of Content for your Obsidian vault that gets updated with any changes, based on the links in your vault
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [mattdesl/looom-tools](https://github.com/mattdesl/looom-tools) - 
 
 ## Swift 
@@ -1462,7 +1463,7 @@
 - [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 - [jglev/obsidian-redirect](https://github.com/jglev/obsidian-redirect) - An Obsidian plugin for adding aliases to any file
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
-- [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
+- [textlint/textlint](https://github.com/textlint/textlint) - textlint is the pluggable linter for natural language text.
 - [trashhalo/obsidian-webhooks](https://github.com/trashhalo/obsidian-webhooks) - Connect obsidian to the internet of things via webhooks
 - [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
