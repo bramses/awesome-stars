@@ -78,6 +78,7 @@
 
 ## C 
 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [Rukenshia/pomodoro](https://github.com/Rukenshia/pomodoro) - ESP32-based focus timer with an epaper display and rotary dial
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
