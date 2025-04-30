@@ -157,6 +157,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
+- [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
@@ -1811,7 +1812,7 @@
 ## mysql 
 
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by modern marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -1871,7 +1872,7 @@
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [blomqma/next-rest-framework](https://github.com/blomqma/next-rest-framework) - Type-safe, self-documenting APIs for Next.js
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by modern marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [agustinusnathaniel/nextarter-chakra](https://github.com/agustinusnathaniel/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
 - [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js
@@ -2003,11 +2004,93 @@
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute!
 
+## obsidian-plugin 
+
+- [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
+- [LiamRiddell/obsidian-solve](https://github.com/LiamRiddell/obsidian-solve) - An unobtrusive Obsidian plugin that quietly processes equations and patterns in real time
+- [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
+- [noonesimg/obsidian-audio-player](https://github.com/noonesimg/obsidian-audio-player) - audio player plugin with bookmarks for Obsidian.md
+- [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - Obsidian Plugin for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
+- [gapmiss/blur](https://github.com/gapmiss/blur) - A plugin for creating obfuscated blocks of text in Obsidian.md
+- [Kageetai/obsidian-plugin-journal-review](https://github.com/Kageetai/obsidian-plugin-journal-review) - Review your daily notes on their anniversaries, like "what happened today last year"
+- [LordGrimmauld/aw-watcher-obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) - Obsidian plugin to track user activity with ActivityWatch
+- [ImaginaryProgramming/obsidian-vault-transfer](https://github.com/ImaginaryProgramming/obsidian-vault-transfer) - Transfers a note from one vault to another.
+- [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals.
+- [mirnovov/obsidian-homepage](https://github.com/mirnovov/obsidian-homepage) - An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.
+- [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+- [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [microtower00/obsidian-ai-images](https://github.com/microtower00/obsidian-ai-images) - This plugin allows you to generate images using AI from the obsidian editor
+- [ryanjamurphy/lumberjack-obsidian](https://github.com/ryanjamurphy/lumberjack-obsidian) - Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency and get right to writing.
+- [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian plugin to create high-quality transcriptions from markdown linked audio files
+- [chrisgrieser/obsidian-divide-and-conquer](https://github.com/chrisgrieser/obsidian-divide-and-conquer) - An Obsidian plugin that provides commands for bulk enabling/disabling of plugins. Useful for debugging when you have many plugins.
+- [gtg922r/obsidian-numerals](https://github.com/gtg922r/obsidian-numerals) - An obsidian plugin which turns a math code block into a full featured calculator
+- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
+- [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Revealing the strange new world of connected thoughts in your vault.
+- [decaf-dev/obsidian-dataloom](https://github.com/decaf-dev/obsidian-dataloom) - Better Obsidian Tables Without The Hassle
+- [javalent/admonitions](https://github.com/javalent/admonitions) - Adds admonition block-styled content to Obsidian.md
+- [kometenstaub/metadata-extractor](https://github.com/kometenstaub/metadata-extractor) - Obsidian Plugin that provides metadata export for use with third-party apps.
+- [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) - Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
+- [vslinko/obsidian-outliner](https://github.com/vslinko/obsidian-outliner) - Work with your lists like in Workflowy or RoamResearch
+- [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
+- [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) - A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons.
+- [chrisgrieser/new-tab-default-page](https://github.com/chrisgrieser/new-tab-default-page) - Obsidian plugin to open a note of your choice when creating a new tab, like in the browser.
+- [ozntel/obsidian-link-converter](https://github.com/ozntel/obsidian-link-converter) - Obsidian Plugin to scan all your links in your vault and convert them to your desired format.
+- [AlexW00/obsidian-note-linker](https://github.com/AlexW00/obsidian-note-linker) - 🔗 Automatically link your Obsidian notes.
+- [Stardusten/ob-table-enhancer](https://github.com/Stardusten/ob-table-enhancer) - Manipulate markdown tables without touching the source code in Obsidian.
+- [mdelobelle/metadatamenu](https://github.com/mdelobelle/metadatamenu) - For data management enthusiasts : type and manage the metadata of your notes.
+- [marcjulianschwarz/obsidian-file-link](https://github.com/marcjulianschwarz/obsidian-file-link) - A plugin for the note taking app Obsidian to add better external file links to your notes.
+- [IdreesInc/Waypoint](https://github.com/IdreesInc/Waypoint) - Obsidian plugin that gives you the power to generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags!
+- [kepano/obsidian-minimal-settings](https://github.com/kepano/obsidian-minimal-settings) - Settings plugin to control colors and fonts in Minimal Theme
+- [platers/obsidian-linter](https://github.com/platers/obsidian-linter) - An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.
+- [aidenlx/media-extended](https://github.com/aidenlx/media-extended) - enhanced media(video/audio) playback for obsidian.md
+- [marcjulianschwarz/obsidian-raycast](https://github.com/marcjulianschwarz/obsidian-raycast) - Raycast extension with commands for the note taking app Obsidian.
+- [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
+- [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
+- [trashhalo/obsidian-webhooks](https://github.com/trashhalo/obsidian-webhooks) - Connect obsidian to the internet of things via webhooks
+- [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
+- [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
+- [chhoumann/PodNotes](https://github.com/chhoumann/PodNotes) - PodNotes is a plugin for Obsidian that helps the user write notes on podcasts.
+- [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
+- [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
+- [aidenlx/alx-folder-note](https://github.com/aidenlx/alx-folder-note) - Add description, summary, and more info to folders with folder notes.
+- [mgmeyers/obsidian-smart-typography](https://github.com/mgmeyers/obsidian-smart-typography) - Converts quotes to curly quotes, dashes to em dashes, and periods to ellipses
+- [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
+- [timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist) - An Obsidian (https://obsidian.md/) plugin for sharing your notes as a GitHub gist - either privately or publicly.
+- [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
+- [ivan-lednev/obsidian-day-planner](https://github.com/ivan-lednev/obsidian-day-planner) - An Obsidian plugin for day planning with a clean UI and a simple task format
+- [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
+- [jamiebrynes7/obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) - Materialize Todoist tasks in Obsidian notes
+- [chhoumann/MetaEdit](https://github.com/chhoumann/MetaEdit) - MetaEdit for Obsidian
+- [liamcain/obsidian-creases](https://github.com/liamcain/obsidian-creases) - 👕 Tools for effectively folding markdown sections in Obsidian
+- [SimonTC/obsidian-note-autocreation](https://github.com/SimonTC/obsidian-note-autocreation) - An Obsidian plugin for automatically creating notes when linking to non-existing notes
+- [tgrosinger/recent-files-obsidian](https://github.com/tgrosinger/recent-files-obsidian) - Display a list of most recently opened files
+- [zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - Automatically fetch the titles of pasted links
+- [pjeby/quick-explorer](https://github.com/pjeby/quick-explorer) - Perform file explorer operations (and see your current file path) from the Obsidian.md title bar
+- [chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian) - Post tweets directly from Obsidian.
+- [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
+- [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside Obsidian
+- [samwarnick/obsidian-simple-embeds](https://github.com/samwarnick/obsidian-simple-embeds) - A plugin for Obsidian that automatically turns links into embeds.
+- [mrjackphil/obsidian-text-expand](https://github.com/mrjackphil/obsidian-text-expand) - A simple text expand plugin for Obsidian.md
+- [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) - Add typed-links to your Obsidian notes
+- [javalent/obsidian-leaflet](https://github.com/javalent/obsidian-leaflet) - Adds interactive maps to Obsidian.md using Leaflet.js
+- [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Work with dates in natural language in Obsidian
+- [ozntel/oz-image-in-editor-obsidian](https://github.com/ozntel/oz-image-in-editor-obsidian) - This Obsidian plugin to view Images, Transclusions, iFrames and PDF Files within the Editor without a necessity to switch to Preview.
+- [phibr0/obsidian-emoji-shortcodes](https://github.com/phibr0/obsidian-emoji-shortcodes) - Emoji Shortcodes - Obsidian Plugin | Adds Support for Emoji Shortcodes to Obsidian
+- [lukeleppan/obsidian-discordrpc](https://github.com/lukeleppan/obsidian-discordrpc) - Update your Discord Status to show your friends what you are working on in Obsidian. With Discord Rich Presence.
+- [elias-sundqvist/obsidian-react-components](https://github.com/elias-sundqvist/obsidian-react-components) - Write and use React (Jsx) components in your Obsidian notes.
+- [arpitbbhayani/obsidian-hackernews](https://github.com/arpitbbhayani/obsidian-hackernews) - Periodically fetches and displays top stories from HackerNews.
+- [denolehov/obsidian-url-into-selection](https://github.com/denolehov/obsidian-url-into-selection) - Paste URLs into selected text "notion style"
+- [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault
+- [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
+- [deathau/cm-editor-syntax-highlight-obsidian](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) - A plugin for [Obsidian](https://obsidian.md) which allows syntax highlighting for code blocks in the editor.
+
 ## open-source 
 
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by modern marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [pieeg-club/EEGwithRaspberryPI](https://github.com/pieeg-club/EEGwithRaspberryPI) - Not supported. Measure 8 EEG channels with Shield PiEEG and RaspberryPi in C library
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -2065,7 +2148,6 @@
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
 - [koaning/smartfunc](https://github.com/koaning/smartfunc) - Turn docstrings into LLM-functions
-- [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search tags from the Obsidian tag pane
 - [automation-ai-labs/mcp-link](https://github.com/automation-ai-labs/mcp-link) - Convert Any OpenAPI V3 API to MCP Server
 - [leeoniya/uWrap](https://github.com/leeoniya/uWrap) - A 10x faster and more accurate text wrapping util in &lt; 2KB (min)
 - [Rukenshia/pomodoro](https://github.com/Rukenshia/pomodoro) - ESP32-based focus timer with an epaper display and rotary dial
@@ -2165,12 +2247,9 @@
 - [twostraws/Inferno](https://github.com/twostraws/Inferno) - Metal shaders for SwiftUI.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
-- [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
-- [noonesimg/obsidian-audio-player](https://github.com/noonesimg/obsidian-audio-player) - audio player plugin with bookmarks for Obsidian.md
 - [widgetti/wanderlust](https://github.com/widgetti/wanderlust) - Wanderlust OpenAI example using Solara
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 - [joelparkerhenderson/oblique-strategies](https://github.com/joelparkerhenderson/oblique-strategies) - Oblique Strategies: ideas for creative lateral thinking
-- [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - Obsidian Plugin for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [jn3008/processing-projects](https://github.com/jn3008/processing-projects) - Source code for some of my processing projects
 - [symphony-hq/symphony](https://github.com/symphony-hq/symphony) - Write programs you can talk to.
@@ -2189,7 +2268,6 @@
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [gapmiss/blur](https://github.com/gapmiss/blur) - A plugin for creating obfuscated blocks of text in Obsidian.md
 - [rpggio/obsidian-chat-stream](https://github.com/rpggio/obsidian-chat-stream) - Obsidian canvas plugin for using AI completion with threads of canvas nodes
 - [bra1nDump/show-me-chatgpt-plugin](https://github.com/bra1nDump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT
 - [vincentmvdm/for-me-page](https://github.com/vincentmvdm/for-me-page) - Arc Boost that removes bad tweets using AI.
@@ -2216,7 +2294,6 @@
 - [mythsman/mno](https://github.com/mythsman/mno) - Mno, just another ghost theme
 - [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
 - [hyperaudio/hyperaudio-lite](https://github.com/hyperaudio/hyperaudio-lite) - Hyperaudio Lite - a Super-lightweight Interactive Transcript Player
-- [Kageetai/obsidian-plugin-journal-review](https://github.com/Kageetai/obsidian-plugin-journal-review) - Review your daily notes on their anniversaries, like "what happened today last year"
 - [shabegom/obsidian-mobile-logging](https://github.com/shabegom/obsidian-mobile-logging) - console logging on obsidian mobile app
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [any-block/obsidian-any-block](https://github.com/any-block/obsidian-any-block) - A Obsidian Plugin. You can flexibility to create a 'Block' by some means. It also provides some useful features, like `list to table`.
@@ -2249,22 +2326,18 @@
 - [mcndt/noteshare.space](https://github.com/mcndt/noteshare.space) - A service for sharing encrypted Markdown notes from Obsidian. Notes are end-to-end-encrypted and are only stored temporarily.
 - [tazpellegrini/abyssalobsidian](https://github.com/tazpellegrini/abyssalobsidian) - Abyssal is a simple theme for Obsidian that honours fundamentals of typesetting and muted colors for deep, deep dives.
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
-- [ImaginaryProgramming/obsidian-vault-transfer](https://github.com/ImaginaryProgramming/obsidian-vault-transfer) - Transfers a note from one vault to another.
 - [smx0/obs-text-wrapper](https://github.com/smx0/obs-text-wrapper) - Plugin for Obsidian
 - [wenlzhang/obsidian-task-marker](https://github.com/wenlzhang/obsidian-task-marker) - An Obsidian plugin to change task status and append text with hotkeys and right-click context menu.
 - [joleaf/obsidian-email-block-plugin](https://github.com/joleaf/obsidian-email-block-plugin) - An email block for obsidian notes.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [ayu-theme/ayu-colors](https://github.com/ayu-theme/ayu-colors) - The ayu color scheme as a color palette
-- [mirnovov/obsidian-homepage](https://github.com/mirnovov/obsidian-homepage) - An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.
 - [benhughes/obsidian-link-exploder](https://github.com/benhughes/obsidian-link-exploder) - 
 - [nodeca/pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
-- [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
 - [Quorafind/Obsidian-Link-Nodes-In-Canvas](https://github.com/Quorafind/Obsidian-Link-Nodes-In-Canvas) - A plugin for you to add edges between notes in Canvas based on there links.
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [justjake/Gauss](https://github.com/justjake/Gauss) - Stable Diffusion macOS native app
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
-- [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [Dyldog/luhman-obsidian-plugin](https://github.com/Dyldog/luhman-obsidian-plugin) - 
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
@@ -2277,7 +2350,6 @@
 - [dragnet-org/dragnet](https://github.com/dragnet-org/dragnet) - Just the facts -- web page content extraction
 - [Trikzon/obsidian-frontmatter-links](https://github.com/Trikzon/obsidian-frontmatter-links) - An Obsidian plugin that renders links in a note's frontmatter as links.
 - [selfire1/obsidian-publish-css](https://github.com/selfire1/obsidian-publish-css) - The CSS for my Obsdian publish site.
-- [ryanjamurphy/lumberjack-obsidian](https://github.com/ryanjamurphy/lumberjack-obsidian) - Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency and get right to writing.
 - [myogeshchavan97/express-static-serve](https://github.com/myogeshchavan97/express-static-serve) - Demo showing how to render React app using Express.js server
 - [afiaka87/tortoise-tts](https://github.com/afiaka87/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
@@ -2287,39 +2359,25 @@
 - [s-blu/obsidian_dataview_example_vault](https://github.com/s-blu/obsidian_dataview_example_vault) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908
 - [PKM-er/Obsidian-Surfing](https://github.com/PKM-er/Obsidian-Surfing) - An Obsidian plugin that lets you browse the web within Obsidian.
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
-- [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian plugin to create high-quality transcriptions from markdown linked audio files
-- [chrisgrieser/obsidian-divide-and-conquer](https://github.com/chrisgrieser/obsidian-divide-and-conquer) - An Obsidian plugin that provides commands for bulk enabling/disabling of plugins. Useful for debugging when you have many plugins.
 - [Majdoddin/nlp](https://github.com/Majdoddin/nlp) - 
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [vdesabou/alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) - 🎵🎩 Alfred workflow to control your Spotify library at your fingertips
 - [nothingislost/obsidian-hover-editor](https://github.com/nothingislost/obsidian-hover-editor) - Transform the Page Preview hover into a working editor instance
-- [gtg922r/obsidian-numerals](https://github.com/gtg922r/obsidian-numerals) - An obsidian plugin which turns a math code block into a full featured calculator
 - [Tiim/obsidian-attendance](https://github.com/Tiim/obsidian-attendance) - Attendance tracking using obsidian.md
 - [anicholson/obsidian-google-mail](https://github.com/anicholson/obsidian-google-mail) - Fetch emails to Obsidian (as markdown) from Gmail server
 - [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects) - Plain text project planning in Obsidian
-- [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
-- [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Revealing the strange new world of connected thoughts in your vault.
 - [ShockThunder/improved-random-note](https://github.com/ShockThunder/improved-random-note) - 
 - [Quorafind/Obsidian-New-Bullet-With-Time](https://github.com/Quorafind/Obsidian-New-Bullet-With-Time) - A plugin allows you to auto add current time to new bullet line.
 - [SebastianMC/obsidian-custom-sort](https://github.com/SebastianMC/obsidian-custom-sort) - Take full control over the order and sorting of folders and notes in File Explorer in Obsidian
 - [lxyu/kindle-clippings](https://github.com/lxyu/kindle-clippings) - A simple python script to extract clippings from 'My Clippings.txt', organize, store and output them in a more elegant way.
-- [decaf-dev/obsidian-dataloom](https://github.com/decaf-dev/obsidian-dataloom) - Better Obsidian Tables Without The Hassle
 - [Quorafind/obsidian-sakana-widget](https://github.com/Quorafind/obsidian-sakana-widget) - Add the Sakana! Widget to your own Obsidian
-- [javalent/admonitions](https://github.com/javalent/admonitions) - Adds admonition block-styled content to Obsidian.md
 - [jmilldotdev/obsidian-wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Grabs information from Wikipedia for a topic and brings it into Obsidian notes
-- [kometenstaub/metadata-extractor](https://github.com/kometenstaub/metadata-extractor) - Obsidian Plugin that provides metadata export for use with third-party apps.
-- [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) - Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
-- [vslinko/obsidian-outliner](https://github.com/vslinko/obsidian-outliner) - Work with your lists like in Workflowy or RoamResearch
-- [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
-- [mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin) - A plugin for Obsidian to make your notes interactive with inline input fields, metadata displays, and buttons.
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
 - [cybersemics/em](https://github.com/cybersemics/em) - A beautiful, minimalistic note-taking app for personal sensemaking.
-- [chrisgrieser/new-tab-default-page](https://github.com/chrisgrieser/new-tab-default-page) - Obsidian plugin to open a note of your choice when creating a new tab, like in the browser.
 - [swar8080/obsidian-plugin-update-tracker](https://github.com/swar8080/obsidian-plugin-update-tracker) - Know when installed obsidian plugins have updates and evaluate the risk of upgrading
 - [yash-dani/shopSmart](https://github.com/yash-dani/shopSmart) - chrome extention to help prevent impulse spending online
 - [facebookresearch/side](https://github.com/facebookresearch/side) - The AI Knowledge Editor
 - [beaussan/update-time-on-edit-obsidian](https://github.com/beaussan/update-time-on-edit-obsidian) - 
-- [ozntel/obsidian-link-converter](https://github.com/ozntel/obsidian-link-converter) - Obsidian Plugin to scan all your links in your vault and convert them to your desired format.
 - [RestedXP/RXPGuides](https://github.com/RestedXP/RXPGuides) - RXPGuides is a platform to write in-game leveling guides for WoW Classic
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
 - [zilliztech/attu](https://github.com/zilliztech/attu) - Web UI for Milvus Vector Database
@@ -2329,21 +2387,15 @@
 - [maxwell-bland/copilot-in-the-terminal](https://github.com/maxwell-bland/copilot-in-the-terminal) - Hack to get Github Copilot working in the terminal with bash
 - [anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin) - Obsidian plugin that automatically creates notes by searching for books
 - [devparikh/Basic-Algorithms](https://github.com/devparikh/Basic-Algorithms) - 
-- [Stardusten/ob-table-enhancer](https://github.com/Stardusten/ob-table-enhancer) - Manipulate markdown tables without touching the source code in Obsidian.
 - [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar) - An obsidian toolbar plugin, modified from the Cmenu plugin
-- [mdelobelle/metadatamenu](https://github.com/mdelobelle/metadatamenu) - For data management enthusiasts : type and manage the metadata of your notes.
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [tadashi-aikawa/obsidian-various-complements-plugin](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) - This plugin for Obsidian enables you complete words like the auto-completion of IDE.
 - [obsidian-community/obsidian-full-calendar](https://github.com/obsidian-community/obsidian-full-calendar) - Keep events and manage your calendar alongside all your other notes in your Obsidian Vault.
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- [IdreesInc/Waypoint](https://github.com/IdreesInc/Waypoint) - Obsidian plugin that gives you the power to generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags!
 - [cuken/obsidian-weave](https://github.com/cuken/obsidian-weave) - Obsidian Vault Template for Software Developers/Managers working in the corporate world.
 - [dai-shi/excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - A tool to animate Excalidraw drawings
-- [kepano/obsidian-minimal-settings](https://github.com/kepano/obsidian-minimal-settings) - Settings plugin to control colors and fonts in Minimal Theme
-- [platers/obsidian-linter](https://github.com/platers/obsidian-linter) - An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility.
 - [kamerat/vs-code-twitch-chat](https://github.com/kamerat/vs-code-twitch-chat) - Visual studio code extension to display twitch chat in webview
 - [jotaen/xit](https://github.com/jotaen/xit) - A plain-text file format for todos and check lists
-- [aidenlx/media-extended](https://github.com/aidenlx/media-extended) - enhanced media(video/audio) playback for obsidian.md
 - [xpgo/obsidian-folder-note-plugin](https://github.com/xpgo/obsidian-folder-note-plugin) - Plugin to add description note to a folder for Obsidian.
 - [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) - A mind map, outline for obsidian,It support mobile and desktop
 - [NomarCub/obsidian-hide-sidebars-on-window-resize](https://github.com/NomarCub/obsidian-hide-sidebars-on-window-resize) - A simple Obsidian plugin to hide the sidebars when the window gets narrow.
@@ -2356,30 +2408,18 @@
 - [fyears/weather-fetcher](https://github.com/fyears/weather-fetcher) - 
 - [thieman/github-selfies](https://github.com/thieman/github-selfies) - Everything is better with selfies. Yes, even pull requests. Trust me.
 - [oakes/vim_cubed](https://github.com/oakes/vim_cubed) - Vim rendered on a cube for no reason
-- [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 - [jglev/obsidian-redirect](https://github.com/jglev/obsidian-redirect) - An Obsidian plugin for adding aliases to any file
-- [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
 - [faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage) - Obsidian homepage - Minimal and aesthetic template (with my unique features)
-- [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian
 - [swevans/unmute](https://github.com/swevans/unmute) - Enables web audio playback with the ios mute switch on
 - [selfteachme/0050-end-of-audio](https://github.com/selfteachme/0050-end-of-audio) - 
-- [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
-- [chhoumann/PodNotes](https://github.com/chhoumann/PodNotes) - PodNotes is a plugin for Obsidian that helps the user write notes on podcasts.
 - [nothingislost/obsidian-query-control](https://github.com/nothingislost/obsidian-query-control) - An experimental Obsidian plugin that adds controls to embedded queries
-- [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) - Task management for the Obsidian knowledge base.
-- [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker) - A plugin tracks occurrences and numbers in your notes
 - [tlaplus/Examples](https://github.com/tlaplus/Examples) - A collection of TLA⁺ specifications of varying complexities.
 - [kaelri/obsidian-test-vault](https://github.com/kaelri/obsidian-test-vault) - 
 - [kenhowardpdx/vscode-gist](https://github.com/kenhowardpdx/vscode-gist) - vscode extension for quick gists
 - [javalent/dice-roller](https://github.com/javalent/dice-roller) - Inline dice rolling for Obsidian.md
-- [aidenlx/alx-folder-note](https://github.com/aidenlx/alx-folder-note) - Add description, summary, and more info to folders with folder notes.
-- [mgmeyers/obsidian-smart-typography](https://github.com/mgmeyers/obsidian-smart-typography) - Converts quotes to curly quotes, dashes to em dashes, and periods to ellipses
-- [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
 - [geongeorge/Canvas-Txt](https://github.com/geongeorge/Canvas-Txt) - Multiline text on HTML5 Canvas
 - [kinabalu/obsidian-oura-plugin](https://github.com/kinabalu/obsidian-oura-plugin) - Plugin to process data from Oura Ring
 - [esm7/obsidian-map-view](https://github.com/esm7/obsidian-map-view) - Interactive map view for Obsidian.md
-- [chhoumann/quickadd](https://github.com/chhoumann/quickadd) - QuickAdd for Obsidian
-- [ivan-lednev/obsidian-day-planner](https://github.com/ivan-lednev/obsidian-day-planner) - An Obsidian plugin for day planning with a clean UI and a simple task format
 - [Gnopps/obsidian-rewarder](https://github.com/Gnopps/obsidian-rewarder) - An Obsidian-plugin to get rewards for completing todos
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
 - [jillalberts/privacy-glasses](https://github.com/jillalberts/privacy-glasses) - Privacy Glasses plugin for Obsidian. Preserve your privacy while working in public!
@@ -2387,11 +2427,6 @@
 - [carykh/lazykh](https://github.com/carykh/lazykh) - Source code for the automatic lip-syncing project described in this video! https://www.youtube.com/watch?v=y3B8YqeLCpY
 - [BabylonJS/SpacePirates](https://github.com/BabylonJS/SpacePirates) - The Space Pirates game is a demo made to celebrate the Babylon.js 5.0 Release.
 - [farling42/obsidian-import-json](https://github.com/farling42/obsidian-import-json) - Plug-in for Obsidian.md which will create Notes from JSON files
-- [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md
-- [jamiebrynes7/obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) - Materialize Todoist tasks in Obsidian notes
-- [chhoumann/MetaEdit](https://github.com/chhoumann/MetaEdit) - MetaEdit for Obsidian
-- [liamcain/obsidian-creases](https://github.com/liamcain/obsidian-creases) - 👕 Tools for effectively folding markdown sections in Obsidian
-- [SimonTC/obsidian-note-autocreation](https://github.com/SimonTC/obsidian-note-autocreation) - An Obsidian plugin for automatically creating notes when linking to non-existing notes
 - [alo9507/localhost-rn](https://github.com/alo9507/localhost-rn) - React Native version of localhost
 - [alo9507/localhost-api](https://github.com/alo9507/localhost-api) - 
 - [pmndrs/suspend-react](https://github.com/pmndrs/suspend-react) - 🚥 Async/await for React components
@@ -2410,7 +2445,6 @@
 - [microsoft/Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) - This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [amamenko/react-buzzfeed-quiz](https://github.com/amamenko/react-buzzfeed-quiz) - A BuzzFeed-style quiz component for React.js.
-- [tgrosinger/recent-files-obsidian](https://github.com/tgrosinger/recent-files-obsidian) - Display a list of most recently opened files
 - [delashum/obsidian-checklist-plugin](https://github.com/delashum/obsidian-checklist-plugin) - 
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [Quorafind/Obsidian-Big-Calendar](https://github.com/Quorafind/Obsidian-Big-Calendar) - Big Calendar in Obsidian, for manage your events in a day/week/month and see agenda too!
@@ -2420,7 +2454,6 @@
 - [imchillin/Anamnesis](https://github.com/imchillin/Anamnesis) - A standalone tool that allows the user a greater degree of flexibility for making creative and interesting screenshots.
 - [OneGraph/oneblog](https://github.com/OneGraph/oneblog) - Build a blog backed by GitHub issues
 - [msuozzo/Lector](https://github.com/msuozzo/Lector) - An API for your Kindle data
-- [zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - Automatically fetch the titles of pasted links
 - [EasyMain/react-photo-gallery](https://github.com/EasyMain/react-photo-gallery) - React Photo Gallery
 - [taoqf/node-html-parser](https://github.com/taoqf/node-html-parser) - A very fast HTML parser, generating a simplified DOM, with basic element query support.
 - [jeremybarbet/next-videos](https://github.com/jeremybarbet/next-videos) - Import videos (mp4, webm, ogg, swf, ogv) in Next.js.
@@ -2437,7 +2470,6 @@
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load MDX content from anywhere
 - [microsoft/NUWA](https://github.com/microsoft/NUWA) - A unified 3D Transformer Pipeline for visual synthesis
 - [naotokui/Rhythm2Bass_M4L](https://github.com/naotokui/Rhythm2Bass_M4L) - 
-- [pjeby/quick-explorer](https://github.com/pjeby/quick-explorer) - Perform file explorer operations (and see your current file path) from the Obsidian.md title bar
 - [parallelinnovation/Quick-note-entry-for-Obsidian](https://github.com/parallelinnovation/Quick-note-entry-for-Obsidian) - A simple one-line quick entry GUI for your Obsidian daily notes in markdown format.
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
@@ -2448,10 +2480,8 @@
 - [jwilk-archive/perl-friday](https://github.com/jwilk-archive/perl-friday) - Perl code that is syntactically correct only on Fridays
 - [AgoraIO/RTM](https://github.com/AgoraIO/RTM) - 
 - [George-debug/obsidian-timeline](https://github.com/George-debug/obsidian-timeline) - Obisdian.md plugin for creating timelines
-- [chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian) - Post tweets directly from Obsidian.
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [thencc/Irulan](https://github.com/thencc/Irulan) - A contract utility too amazing to be believed!
-- [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside Obsidian
 - [Robin-Haupt-1/Obsidian-Map-of-Content](https://github.com/Robin-Haupt-1/Obsidian-Map-of-Content) - Generate and display a Map of Content for your Obsidian vault that gets updated with any changes, based on the links in your vault
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 - [pjhul/auth0-web-extension](https://github.com/pjhul/auth0-web-extension) - JS library for authenticating with Auth0 in Web Extensions
@@ -2479,7 +2509,6 @@
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [latitudegames/GPT-3-Encoder](https://github.com/latitudegames/GPT-3-Encoder) - Javascript BPE Encoder Decoder for GPT-2 / GPT-3
 - [josephrocca/gpt-2-3-tokenizer](https://github.com/josephrocca/gpt-2-3-tokenizer) - GPT-2/3 tokenizer based on @latitudegames/GPT-3-Encoder that works in the browser and Deno
-- [mrjackphil/obsidian-text-expand](https://github.com/mrjackphil/obsidian-text-expand) - A simple text expand plugin for Obsidian.md
 - [cryptogogue/thatsmyape](https://github.com/cryptogogue/thatsmyape) - 
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [desandro/masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
@@ -2492,7 +2521,6 @@
 - [stripe-samples/stripe-node-cloudflare-worker-template](https://github.com/stripe-samples/stripe-node-cloudflare-worker-template) - Use stripe-node in a Cloudflare Worker.
 - [obsidianmd/obsidian-help](https://github.com/obsidianmd/obsidian-help) - Help documentation for Obsidian.
 - [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
-- [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs) - Add typed-links to your Obsidian notes
 - [veggiedefender/flag-dvd](https://github.com/veggiedefender/flag-dvd) - 
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
 - [karlicoss/spotifyexport](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON
@@ -2511,11 +2539,9 @@
 - [thex3family/obsidian-success-plan](https://github.com/thex3family/obsidian-success-plan) - Manage your tasks, projects, key results, and goals  within Obsidian. This plugin follows #theGamificationProject's Success Plan Framework.
 - [jdanielmourao/obsidian-sanctum](https://github.com/jdanielmourao/obsidian-sanctum) - A minimalist theme for Obsidian.md, with the aim of creating a serene space of retreat, for thought and uninterrupted work.
 - [codediodeio/wavy-curvey-blobby-website](https://github.com/codediodeio/wavy-curvey-blobby-website) - A website design with lots of waves, curves, a blobs
-- [javalent/obsidian-leaflet](https://github.com/javalent/obsidian-leaflet) - Adds interactive maps to Obsidian.md using Leaflet.js
 - [probot/smee-client](https://github.com/probot/smee-client) - 🔴 Receives payloads then sends them to your local server
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients
-- [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Work with dates in natural language in Obsidian
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [synesthesiam/voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux
 - [vitling/acid-banger](https://github.com/vitling/acid-banger) - The Endless Acid Banger
@@ -2544,12 +2570,9 @@
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
 - [crubier/code-to-graph](https://github.com/crubier/code-to-graph) - Transforms JS code 🙈into mermaid flowchart 🐵
-- [denolehov/obsidian-url-into-selection](https://github.com/denolehov/obsidian-url-into-selection) - Paste URLs into selected text "notion style"
 - [fauna/faunadb-js](https://github.com/fauna/faunadb-js) - Javascript driver for Fauna v4 (deprecated)
 - [Automattic/legalmattic](https://github.com/Automattic/legalmattic) - Democratizing WordPress.com legalese since 2014!
 - [cloudflare/worker-template-router](https://github.com/cloudflare/worker-template-router) - 
-- [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault
-- [deathau/cm-editor-syntax-highlight-obsidian](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) - A plugin for [Obsidian](https://obsidian.md) which allows syntax highlighting for code blocks in the editor.
 - [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
 - [veltman/principles](https://github.com/veltman/principles) - Things to keep in mind when making stuff for the web
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
@@ -3377,7 +3400,7 @@
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by modern marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [jokenox/Goopt](https://github.com/jokenox/Goopt) - 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3.
@@ -3457,7 +3480,7 @@
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by modern marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [microtower00/obsidian-ai-images](https://github.com/microtower00/obsidian-ai-images) - This plugin allows you to generate images using AI from the obsidian editor
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
