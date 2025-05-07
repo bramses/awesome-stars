@@ -1373,7 +1373,7 @@
 - [ytliu74/obsidian-pseudocode](https://github.com/ytliu74/obsidian-pseudocode) - An obsidian plugin that helps to render a LaTeX-style pseudocode inside a code block.
 - [Kageetai/obsidian-plugin-journal-review](https://github.com/Kageetai/obsidian-plugin-journal-review) - Review your daily notes on their anniversaries, like "what happened today last year"
 - [shabegom/obsidian-mobile-logging](https://github.com/shabegom/obsidian-mobile-logging) - console logging on obsidian mobile app
-- [any-block/obsidian-any-block](https://github.com/any-block/obsidian-any-block) - A Obsidian Plugin. You can flexibility to create a 'Block' by some means. It also provides some useful features, like `list to table`.
+- [any-block/any-block](https://github.com/any-block/any-block) - You can flexibility to create a 'Block' by many means. It also provides many useful features, like `list to table`. (obsidian/markdown-it/vuepress plugin/app)
 - [AwesomeDog/obsidian-awesome-image](https://github.com/AwesomeDog/obsidian-awesome-image) - One-stop solution for image management.
 - [eth-p/obsidian-callout-manager](https://github.com/eth-p/obsidian-callout-manager) - An Obsidian.md plugin that makes creating and configuring callouts easy.
 - [clevcode/obsidian-terminal-plugin](https://github.com/clevcode/obsidian-terminal-plugin) - About Terminal plugin for Obsidian (https://obsidian.md/) - Supports editing files with Neovim and other terminal based editors!
@@ -1494,7 +1494,7 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [aidenlx/alx-folder-note](https://github.com/aidenlx/alx-folder-note) - Add description, summary, and more info to folders with folder notes.
 - [mgmeyers/obsidian-smart-typography](https://github.com/mgmeyers/obsidian-smart-typography) - Converts quotes to curly quotes, dashes to em dashes, and periods to ellipses
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
 - [geongeorge/Canvas-Txt](https://github.com/geongeorge/Canvas-Txt) - Multiline text on HTML5 Canvas
