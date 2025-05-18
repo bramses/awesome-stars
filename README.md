@@ -1244,7 +1244,7 @@
 ## Swift 
 
 - [ZachNagengast/similarity-search-kit](https://github.com/ZachNagengast/similarity-search-kit) - 🔎 SimilaritySearchKit is a Swift package providing on-device text embeddings and semantic search functionality for iOS and macOS applications.
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - macOS menu bar app that shows how full the International Space Station's urine tank is in real time
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - macOS menu bar, iOS and visionOS app that shows how full the International Space Station's urine tank is in real time
 - [tikimcfee/LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render source code in 3D, for macOS and iOS.
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
 - [supabase/supabase-swift](https://github.com/supabase/supabase-swift) - A Swift client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse Swift examples, invoke postgres functions via rpc, invoke supabase edge funct
