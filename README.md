@@ -375,6 +375,7 @@
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 - [ahmedrangel/instagram-media-scraper](https://github.com/ahmedrangel/instagram-media-scraper) - A simple Node.js code to get public information and media from every Instagram post or reel URL without API. Working 2025
+- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [alyssaxuu/slashy](https://github.com/alyssaxuu/slashy) - Supercharge Notion with custom commands to record, draw, and more ✍️
 - [muaz-khan/RecordRTC](https://github.com/muaz-khan/RecordRTC) - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording. It supports Chrome, Firefox, Opera, Android, and Microsoft Edge. Platforms: Linux, Mac and Windows.
 - [Darkseal/CORSflare](https://github.com/Darkseal/CORSflare) - A lightweight JavaScript CORS Reverse Proxy designed to run in a Cloudflare Worker.
@@ -1031,7 +1032,7 @@
 - [mikepqr/resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [parallelinnovation/Quick-note-entry-for-Obsidian](https://github.com/parallelinnovation/Quick-note-entry-for-Obsidian) - A simple one-line quick entry GUI for your Obsidian daily notes in markdown format.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can learn and answer questions over large scale federated data.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
@@ -1714,7 +1715,6 @@
 
 ## Vue 
 
-- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [kinopio-club/kinopio-client](https://github.com/kinopio-club/kinopio-client) - Kinopio is a creative thinking tool
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
