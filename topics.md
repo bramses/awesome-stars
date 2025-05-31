@@ -1172,7 +1172,7 @@
 
 ## hacktoberfest 
 
-- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Tamagotchi-style digital pet with a neural network and Hebbian learning
+- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Tamagotchi-style digital pet with a neural network featuring neurogenesis & Hebbian learning
 - [Drarig29/brackets-viewer.js](https://github.com/Drarig29/brackets-viewer.js) - A simple library to display tournament brackets (round-robin, single elimination, double elimination).
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
@@ -1856,7 +1856,7 @@
 
 ## neural-network 
 
-- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Tamagotchi-style digital pet with a neural network and Hebbian learning
+- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Tamagotchi-style digital pet with a neural network featuring neurogenesis & Hebbian learning
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 - [robbiebarrat/rapping-neural-network](https://github.com/robbiebarrat/rapping-neural-network) - Rap song writing recurrent neural network trained on Kanye West's entire discography
@@ -2167,7 +2167,7 @@
 - [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [wild-card-ai/agents-json](https://github.com/wild-card-ai/agents-json) - 
-- [WujiangXu/AgenticMemory](https://github.com/WujiangXu/AgenticMemory) - A novel agentic memory system
+- [WujiangXu/AgenticMemory](https://github.com/WujiangXu/AgenticMemory) - Code implementation for paper "A-mem: Agentic Memory for LLM Agents"
 - [dhealy05/frames_of_mind](https://github.com/dhealy05/frames_of_mind) - Animating R1's thoughts.
 - [cacheflowe/creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes) - Some text and links about the wide world of creative coding
 - [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark
