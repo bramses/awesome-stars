@@ -259,10 +259,12 @@
 
 ## ai 
 
+- [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [mirth/chonky](https://github.com/mirth/chonky) - Fully neural approach for text chunking
 - [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
+- [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
@@ -894,6 +896,7 @@
 
 ## embedded 
 
+- [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [luxonis/depthai](https://github.com/luxonis/depthai) - DepthAI Python API utilities, examples, and tutorials.
 - [shettypuneeth/react-codepen-embed](https://github.com/shettypuneeth/react-codepen-embed) - React component to embed pens from Codepen
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -1634,6 +1637,7 @@
 
 ## llm 
 
+- [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
@@ -1673,6 +1677,7 @@
 
 ## machine-learning 
 
+- [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [segment-any-text/wtpsplit](https://github.com/segment-any-text/wtpsplit) - Toolkit to segment text into sentences or other semantic units in a robust, efficient and adaptable way.
 - [GantMan/nsfw_model](https://github.com/GantMan/nsfw_model) - Keras model of NSFW detector
 - [ewfian/faiss-node](https://github.com/ewfian/faiss-node) - Node.js bindings for faiss
@@ -1903,6 +1908,7 @@
 
 ## nlp 
 
+- [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [ZachNagengast/similarity-search-kit](https://github.com/ZachNagengast/similarity-search-kit) - 🔎 SimilaritySearchKit is a Swift package providing on-device text embeddings and semantic search functionality for iOS and macOS applications.
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [adhikary97/Sharetape-Open-Source](https://github.com/adhikary97/Sharetape-Open-Source) - Script that takes any long form video or podcast and outputs clips for social media
@@ -2131,6 +2137,7 @@
 
 ## opencv 
 
+- [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [cortictechnology/cep](https://github.com/cortictechnology/cep) - CEP is a software platform designed for users that want to learn or rapidly prototype using standard A.I. components.
 - [surya-veer/movement-tracking](https://github.com/surya-veer/movement-tracking) - UP - DOWN - LEFT  - RIGHT movement tracking.
@@ -2164,14 +2171,14 @@
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
 - [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 
-- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [wild-card-ai/agents-json](https://github.com/wild-card-ai/agents-json) - 
 - [WujiangXu/AgenticMemory](https://github.com/WujiangXu/AgenticMemory) - Code implementation for paper "A-mem: Agentic Memory for LLM Agents"
 - [dhealy05/frames_of_mind](https://github.com/dhealy05/frames_of_mind) - Animating R1's thoughts.
 - [cacheflowe/creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes) - Some text and links about the wide world of creative coding
 - [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark
 - [MaartenGr/KeyBERT](https://github.com/MaartenGr/KeyBERT) - Minimal keyword extraction with BERT
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
 - [goodreasonai/ScrapeServ](https://github.com/goodreasonai/ScrapeServ) - A self-hosted API that takes a URL and returns a file with browser screenshots.
 - [FlacoJones/ycb-helm](https://github.com/FlacoJones/ycb-helm) - Helm Deployment for Your Commonbase
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
@@ -2918,6 +2925,7 @@
 
 ## python 
 
+- [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [segment-any-text/wtpsplit](https://github.com/segment-any-text/wtpsplit) - Toolkit to segment text into sentences or other semantic units in a robust, efficient and adaptable way.
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
