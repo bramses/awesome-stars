@@ -294,7 +294,6 @@
 - [0xDebabrata/commonplace](https://github.com/0xDebabrata/commonplace) - An autobiography of the mind
 - [jasonjmcghee/portable-hnsw](https://github.com/jasonjmcghee/portable-hnsw) - What if an HNSW index was just a file, and you could serve it from a CDN, and search it directly in the browser?
 - [elgatosf/streamdeck-counter](https://github.com/elgatosf/streamdeck-counter) - Stream Deck SDK: Counter sample plugin
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
 - [hyperaudio/hyperaudio-lite](https://github.com/hyperaudio/hyperaudio-lite) - Hyperaudio Lite - a Super-lightweight Interactive Transcript Player
 - [tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery) - Generates a gallery based on selected page contents.
@@ -409,6 +408,7 @@
 - [ryanschiang/chatgpt-export](https://github.com/ryanschiang/chatgpt-export) - Browser script to share and export  ChatGPT chat logs to Markdown, JSON, or as Image (PNG)
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [themaximalist/InfinityArcade](https://github.com/themaximalist/InfinityArcade) - Create any Text Game with AI
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [mpetazzoni/sse.js](https://github.com/mpetazzoni/sse.js) - A flexible Server-Sent Events EventSource polyfill for Javascript
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
@@ -790,7 +790,7 @@
 - [Scarvy/awesome-readwise](https://github.com/Scarvy/awesome-readwise) - A curated list of awesome Readwise libraries, plugins, software, and resources.
 - [stevenleeg/stevenleeg](https://github.com/stevenleeg/stevenleeg) - 
 - [joelparkerhenderson/oblique-strategies](https://github.com/joelparkerhenderson/oblique-strategies) - Oblique Strategies: ideas for creative lateral thinking
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [raguay/MyAlfred](https://github.com/raguay/MyAlfred) - This is where I am keeping my Alfred 2, Alfred 3, and Alfred 4 workflows.
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
@@ -1336,7 +1336,7 @@
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [LiamRiddell/obsidian-solve](https://github.com/LiamRiddell/obsidian-solve) - An unobtrusive Obsidian plugin that quietly processes equations and patterns in real time
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge managemen
 - [TfTHacker/obsidian42-HelpMate](https://github.com/TfTHacker/obsidian42-HelpMate) - HelpMate for Obsidian - providing help and documentation from within Obsidian
 - [cloudflare/chanfana](https://github.com/cloudflare/chanfana) - OpenAPI 3 and 3.1 schema generator and validator for Hono, itty-router and more!
 - [JSerZANP/shaku](https://github.com/JSerZANP/shaku) - Shaku helps you write better technical articles with code annotation .etc
