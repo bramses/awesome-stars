@@ -612,7 +612,7 @@
 
 ## compiler 
 
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
@@ -1195,7 +1195,7 @@
 - [catppuccin/obsidian](https://github.com/catppuccin/obsidian) - 💎 Soothing pastel theme for Obsidian
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [clarkio/vscode-twitch-highlighter](https://github.com/clarkio/vscode-twitch-highlighter) - This is a VS Code extension that will allow your Twitch chat to highlight a line of code via a command message. Example: `!line 8 server.js`. See master branch README.md for more details
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [MohrJonas/obsidian-ocr](https://github.com/MohrJonas/obsidian-ocr) - Obsidian OCR allows you to search for text in your images and pdfs
 - [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim mod to play online!
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
@@ -2442,7 +2442,6 @@
 - [esm7/obsidian-map-view](https://github.com/esm7/obsidian-map-view) - Interactive map view for Obsidian.md
 - [Gnopps/obsidian-rewarder](https://github.com/Gnopps/obsidian-rewarder) - An Obsidian-plugin to get rewards for completing todos
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
-- [jillalberts/privacy-glasses](https://github.com/jillalberts/privacy-glasses) - Privacy Glasses plugin for Obsidian. Preserve your privacy while working in public!
 - [martinschilliger/Alfred-QR-Code](https://github.com/martinschilliger/Alfred-QR-Code) - Create a QR-Code from Alfred
 - [carykh/lazykh](https://github.com/carykh/lazykh) - Source code for the automatic lip-syncing project described in this video! https://www.youtube.com/watch?v=y3B8YqeLCpY
 - [BabylonJS/SpacePirates](https://github.com/BabylonJS/SpacePirates) - The Space Pirates game is a demo made to celebrate the Babylon.js 5.0 Release.
@@ -2681,7 +2680,7 @@
 - [TakashiYoshinaga/Oculus-Quest-Input-Sample](https://github.com/TakashiYoshinaga/Oculus-Quest-Input-Sample) - Sample for getting input data from controllers of Oculus Quest with A-Frame
 - [donmccurdy/aframe-gamepad-controls](https://github.com/donmccurdy/aframe-gamepad-controls) - :video_game: Gamepad controls for A-Frame VR.
 - [HeyMaslo/companion-kit](https://github.com/HeyMaslo/companion-kit) - This is the official repository of the maslo companion kit
-- [memo/eco-nft](https://github.com/memo/eco-nft) - A basic guide to ecofriendly CryptoArt (NFTs)
+- [memoakten/eco-nft](https://github.com/memoakten/eco-nft) - A basic guide to ecofriendly CryptoArt (NFTs)
 - [tidalcycles/Dirt-Samples](https://github.com/tidalcycles/Dirt-Samples) - Set of samples used in Dirt
 - [fbessez/Tinder](https://github.com/fbessez/Tinder) - Official November 2019 Documentation for Tinder's API (wrapper included)
 - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library
@@ -3110,7 +3109,7 @@
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [AlexW00/obsidian-note-linker](https://github.com/AlexW00/obsidian-note-linker) - 🔗 Automatically link your Obsidian notes.
 - [agustinusnathaniel/nextarter-chakra](https://github.com/agustinusnathaniel/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [squirrelsquirrel78/react-scrollama](https://github.com/squirrelsquirrel78/react-scrollama) - Simple scrollytelling with the IntersectionObserver in React.
 - [lhz516/react-h5-audio-player](https://github.com/lhz516/react-h5-audio-player) - React audio player component with UI. It provides time indicator on both desktop and mobile devices.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
