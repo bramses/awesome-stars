@@ -781,6 +781,7 @@
 
 ## Others 
 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [cacheflowe/creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes) - Some text and links about the wide world of creative coding
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [croian/mouseless](https://github.com/croian/mouseless) - Bug tracking and more for Mouseless
@@ -1115,7 +1116,6 @@
 - [magenta/magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [surya-veer/movement-tracking](https://github.com/surya-veer/movement-tracking) - UP - DOWN - LEFT  - RIGHT movement tracking.
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting) - [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [ubisoft/mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
@@ -1180,7 +1180,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated data query and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
@@ -1290,6 +1290,7 @@
 
 ## TypeScript 
 
+- [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [4lejandrito/next-plausible](https://github.com/4lejandrito/next-plausible) - Simple integration for https://nextjs.org and https://plausible.io analytics
@@ -1338,7 +1339,7 @@
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [LiamRiddell/obsidian-solve](https://github.com/LiamRiddell/obsidian-solve) - An unobtrusive Obsidian plugin that quietly processes equations and patterns in real time
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge managemen
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [TfTHacker/obsidian42-HelpMate](https://github.com/TfTHacker/obsidian42-HelpMate) - HelpMate for Obsidian - providing help and documentation from within Obsidian
 - [cloudflare/chanfana](https://github.com/cloudflare/chanfana) - OpenAPI 3 and 3.1 schema generator and validator for Hono, itty-router and more!
 - [JSerZANP/shaku](https://github.com/JSerZANP/shaku) - Shaku helps you write better technical articles with code annotation .etc
@@ -1676,6 +1677,7 @@
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [unsplash/unsplash-js](https://github.com/unsplash/unsplash-js) - 🤖 Official JavaScript wrapper for the Unsplash API
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
