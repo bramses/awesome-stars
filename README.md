@@ -900,7 +900,7 @@
 - [GantMan/nsfw_model](https://github.com/GantMan/nsfw_model) - Keras model of NSFW detector
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [wild-card-ai/agents-json](https://github.com/wild-card-ai/agents-json) - 
-- [WujiangXu/AgenticMemory](https://github.com/WujiangXu/AgenticMemory) - Code implementation for paper "A-mem: Agentic Memory for LLM Agents"
+- [WujiangXu/A-mem](https://github.com/WujiangXu/A-mem) - A-MEM: Agentic Memory for LLM Agents
 - [dhealy05/frames_of_mind](https://github.com/dhealy05/frames_of_mind) - Animating R1's thoughts.
 - [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark
 - [MaartenGr/KeyBERT](https://github.com/MaartenGr/KeyBERT) - Minimal keyword extraction with BERT
@@ -1053,7 +1053,7 @@
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
 - [riscmkv/NNTwitterBot](https://github.com/riscmkv/NNTwitterBot) - 
 - [synesthesiam/voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux
-- [Shubhamsaboo/kairos_gpt3](https://github.com/Shubhamsaboo/kairos_gpt3) - 
+- [Shubhamsaboo/gpt3_book_sandbox](https://github.com/Shubhamsaboo/gpt3_book_sandbox) - 
 - [eliben/pycparser](https://github.com/eliben/pycparser) - :snake: Complete C99 parser in pure Python
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
