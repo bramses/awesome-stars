@@ -241,6 +241,7 @@
 
 ## Go 
 
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [automation-ai-labs/mcp-link](https://github.com/automation-ai-labs/mcp-link) - Convert Any OpenAPI V3 API to MCP Server
 - [w3slley/bookcover-api](https://github.com/w3slley/bookcover-api) - 📚 Simple API for retrieving book covers from the web
 - [boxesandglue/boxesandglue](https://github.com/boxesandglue/boxesandglue) - PDF rendering library for Go using TeX algorithms.
@@ -1290,6 +1291,7 @@
 
 ## TypeScript 
 
+- [meilisearch/raycast-extensions](https://github.com/meilisearch/raycast-extensions) - Everything you need to extend Raycast.
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
