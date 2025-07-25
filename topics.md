@@ -2182,6 +2182,7 @@
 
 ## others 
 
+- [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
 - [meilisearch/raycast-extensions](https://github.com/meilisearch/raycast-extensions) - Everything you need to extend Raycast.
 - [ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam) - Real-time webcam demo with SmolVLM and llama.cpp server
 - [facebookresearch/MILS](https://github.com/facebookresearch/MILS) - Code release for "LLMs can see and hear without any training"
