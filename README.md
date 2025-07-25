@@ -114,6 +114,7 @@
 
 ## C++ 
 
+- [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [ewfian/faiss-node](https://github.com/ewfian/faiss-node) - Node.js bindings for faiss
 - [cmdevries/LMW-tree](https://github.com/cmdevries/LMW-tree) - Learning M-Way Tree - Web Scale Clustering - EM-tree, K-tree, k-means, TSVQ, repeated k-means, bitwise clustering
