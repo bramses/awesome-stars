@@ -1292,6 +1292,7 @@
 
 ## TypeScript 
 
+- [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling.
 - [meilisearch/raycast-extensions](https://github.com/meilisearch/raycast-extensions) - Everything you need to extend Raycast.
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
