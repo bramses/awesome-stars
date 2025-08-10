@@ -890,6 +890,7 @@
 
 ## Python 
 
+- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere!
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [facebookresearch/MILS](https://github.com/facebookresearch/MILS) - Code release for "LLMs can see and hear without any training"
@@ -1160,6 +1161,7 @@
 
 ## Rust 
 
+- [Nicholas-L-Johnson/flip-card](https://github.com/Nicholas-L-Johnson/flip-card) - 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now a Linux Foundation project.
