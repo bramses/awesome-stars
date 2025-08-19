@@ -436,6 +436,7 @@
 - [aidenlx/media-extended](https://github.com/aidenlx/media-extended) - Integrate, manage, and play media files directly in Obsidian. 🖇️🗂️⏯️
 - [thieman/github-selfies](https://github.com/thieman/github-selfies) - Everything is better with selfies. Yes, even pull requests. Trust me.
 - [squirrelsquirrel78/react-scrollama](https://github.com/squirrelsquirrel78/react-scrollama) - Simple scrollytelling with the IntersectionObserver in React.
+- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [swevans/unmute](https://github.com/swevans/unmute) - Enables web audio playback with the ios mute switch on
 - [selfteachme/0050-end-of-audio](https://github.com/selfteachme/0050-end-of-audio) - 
 - [kaelri/obsidian-test-vault](https://github.com/kaelri/obsidian-test-vault) - 
@@ -1017,7 +1018,6 @@
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [ForeignGods/Sorting-Algorithms-Blender](https://github.com/ForeignGods/Sorting-Algorithms-Blender) - Sorting algorithms visualized using the Blender Python API.
@@ -1150,7 +1150,7 @@
 
 ## Ruby 
 
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration
 - [mawise/bookshelf](https://github.com/mawise/bookshelf) - 3D animated bookshelf for ebooks
 - [yash-dani/logstash-filter-pilar](https://github.com/yash-dani/logstash-filter-pilar) - A logstash filter for Log Parsing using the PILAR method.
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
@@ -1305,7 +1305,7 @@
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [Drarig29/brackets-viewer.js](https://github.com/Drarig29/brackets-viewer.js) - A simple library to display tournament brackets (round-robin, single elimination, double elimination).
 - [harshbhandarivs/nextjs-keycloak](https://github.com/harshbhandarivs/nextjs-keycloak) - Configure Authenitcation in Nextjs 13 App router Applicationwith Keycloak
 - [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - TypeScript client for Meilisearch
