@@ -2160,6 +2160,7 @@
 - [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [deathau/cm-editor-syntax-highlight-obsidian](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) - A plugin for [Obsidian](https://obsidian.md) which allows syntax highlighting for code blocks in the editor.
+- [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
 
 ## obsidian-plugin 
 
@@ -2244,6 +2245,7 @@
 - [hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin) - Sync your Kindle notes and highlights directly into your Obsidian vault
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [deathau/cm-editor-syntax-highlight-obsidian](https://github.com/deathau/cm-editor-syntax-highlight-obsidian) - A plugin for [Obsidian](https://obsidian.md) which allows syntax highlighting for code blocks in the editor.
+- [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
 
 ## open-source 
 
@@ -2716,7 +2718,6 @@
 - [fauna/faunadb-js](https://github.com/fauna/faunadb-js) - Javascript driver for Fauna v4 (deprecated)
 - [Automattic/legalmattic](https://github.com/Automattic/legalmattic) - Democratizing WordPress.com legalese since 2014!
 - [cloudflare/worker-template-router](https://github.com/cloudflare/worker-template-router) - 
-- [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
 - [veltman/principles](https://github.com/veltman/principles) - Things to keep in mind when making stuff for the web
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
 - [akon47/ScreenRecorder](https://github.com/akon47/ScreenRecorder) - ⏺️ A simple recording program with the ability to record screens and audio on your computer.
@@ -2835,7 +2836,7 @@
 - [solvvy/redact-pii](https://github.com/solvvy/redact-pii) - Remove personally identifiable information from text.
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
 - [pypa/setuptools](https://github.com/pypa/setuptools) - Official project repository for the Setuptools build system
-- [Automattic/_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out
+- [Automattic/_s](https://github.com/Automattic/_s) - Inactive project – please visit https://themeshaper.com/block-themes/ to learn more about the future of WordPress themes with Block Themes.
 - [newsdev/archieml-js](https://github.com/newsdev/archieml-js) - JavaScript parser for the Archie Markup Language (ArchieML)
 - [newsdev/archieml.org](https://github.com/newsdev/archieml.org) - The archieml.org website and hub for specification development
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
