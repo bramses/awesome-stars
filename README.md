@@ -104,7 +104,7 @@
 - [KhronosGroup/UnityGLTF](https://github.com/KhronosGroup/UnityGLTF) - Runtime glTF 2.0 Loader for Unity3D
 - [neon-izm/EasyMotionRecorder](https://github.com/neon-izm/EasyMotionRecorder) - Unityエディタ上でVRIKなどのモーションキャプチャをしたHumanoidキャラクターのモーションを記録, 再生をするスクリプト
 - [digital-standard/ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda) - Unity sample of 3D pose estimation using Barracuda
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [IRCSS/Procedural-painting](https://github.com/IRCSS/Procedural-painting) - Procedural painting algorithms in Unity 3d with compute shaders based on genetic evolution algorithms
 - [Unity-Technologies/arfoundation-demos](https://github.com/Unity-Technologies/arfoundation-demos) - AR Foundation demo projects
 - [dilmerv/UnityARFoundationEssentials](https://github.com/dilmerv/UnityARFoundationEssentials) - AR Foundation examples created with Unity and ARKit
@@ -432,7 +432,7 @@
 - [erohtar/redditSaver](https://github.com/erohtar/redditSaver) - Automatically Download Saved Reddit Posts & Comments as Markdown Notes (into Obsidian)
 - [cuken/obsidian-weave](https://github.com/cuken/obsidian-weave) - Obsidian Vault Template for Software Developers/Managers working in the corporate world.
 - [kamerat/vs-code-twitch-chat](https://github.com/kamerat/vs-code-twitch-chat) - Visual studio code extension to display twitch chat in webview
-- [aidenlx/media-extended](https://github.com/aidenlx/media-extended) - Integrate, manage, and play media files directly in Obsidian. 🖇️🗂️⏯️
+- [aidenlx/media-extended](https://github.com/aidenlx/media-extended) - Transform your Obsidian into a powerful video note-taking tool. 🖇️🗂️⏯️
 - [thieman/github-selfies](https://github.com/thieman/github-selfies) - Everything is better with selfies. Yes, even pull requests. Trust me.
 - [squirrelsquirrel78/react-scrollama](https://github.com/squirrelsquirrel78/react-scrollama) - Simple scrollytelling with the IntersectionObserver in React.
 - [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
@@ -787,6 +787,7 @@
 
 ## Others 
 
+- [CodeandCoffeeCommunity/speaking](https://github.com/CodeandCoffeeCommunity/speaking) - 
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [cacheflowe/creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes) - Some text and links about the wide world of creative coding
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
@@ -1298,7 +1299,7 @@
 
 - [marieooq/neo-brutalism-ui-library](https://github.com/marieooq/neo-brutalism-ui-library) - 
 - [apple/embedding-atlas](https://github.com/apple/embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
-- [your-commonbase/commonbase](https://github.com/your-commonbase/commonbase) - A Simple Ledger with Complex Associations
+- [your-commonbase/commonbase](https://github.com/your-commonbase/commonbase) - Store, Search, Synthesize and Share your Personal Library
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
 - [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - Omnara (YC S25) - Talk to Your AI Agents from Anywhere!
 - [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling.
