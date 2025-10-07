@@ -1268,6 +1268,8 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [ppy/osu-web](https://github.com/ppy/osu-web) - the browser-facing portion of osu!
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
+- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [alvaromontoro/almond.css](https://github.com/alvaromontoro/almond.css) - Collection of CSS styles to make simple websites look nicer
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics and Knowledge Engine for RAG over large-scale, heterogeneous data. - The only MCP Server you'll ever need
@@ -1303,7 +1305,6 @@
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [roziscoding/carbon-telegram-bot](https://github.com/roziscoding/carbon-telegram-bot) - Telegram Chatbot that generates carbon.now.sh images from source code
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [logchimp/logchimp](https://github.com/logchimp/logchimp) - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
@@ -1899,7 +1900,7 @@
 ## mysql 
 
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -1959,7 +1960,7 @@
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [blomqma/next-rest-framework](https://github.com/blomqma/next-rest-framework) - Type-safe, self-documenting APIs for Next.js
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [agustinusnathaniel/nextarter-chakra](https://github.com/agustinusnathaniel/nextarter-chakra) - battery packed template / boilerplate to initialize Next.js app with Chakra UI & Typescript setup ✨
 - [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js
@@ -2340,7 +2341,7 @@
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [pieeg-club/EEGwithRaspberryPI](https://github.com/pieeg-club/EEGwithRaspberryPI) - Not supported. Measure 8 EEG channels with Shield PiEEG and RaspberryPi in C library
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -2395,6 +2396,8 @@
 
 ## others 
 
+- [justinliang1020/wikicollage](https://github.com/justinliang1020/wikicollage) - An application to create a collage of Wikipedia screenshots with sources.
+- [eastmountaincode/wiki-path-001](https://github.com/eastmountaincode/wiki-path-001) - 
 - [clarkdever/usb-a-time-wasted](https://github.com/clarkdever/usb-a-time-wasted) - 
 - [eddyflux/crate](https://github.com/eddyflux/crate) - 
 - [CodeandCoffeeCommunity/speaking](https://github.com/CodeandCoffeeCommunity/speaking) - 
@@ -3673,7 +3676,7 @@
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js + Tailwind CSS + TypeScript starter and boilerplate packed with useful development features
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [jokenox/Goopt](https://github.com/jokenox/Goopt) - 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3.
@@ -3754,7 +3757,7 @@
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [microtower00/obsidian-ai-images](https://github.com/microtower00/obsidian-ai-images) - This plugin allows you to generate images using AI from the obsidian editor
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
