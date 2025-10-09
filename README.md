@@ -1301,6 +1301,7 @@
 
 ## TypeScript 
 
+- [joseairosa/recall](https://github.com/joseairosa/recall) - Give Claude perfect recall - Redis-powered persistent memory for LLMs
 - [marieooq/neo-brutalism-ui-library](https://github.com/marieooq/neo-brutalism-ui-library) - 
 - [apple/embedding-atlas](https://github.com/apple/embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
 - [your-commonbase/commonbase](https://github.com/your-commonbase/commonbase) - Store, Search, Synthesize and Share your Personal Library
