@@ -78,7 +78,6 @@
 
 ## C 
 
-- [LukasBommes/mv-extractor](https://github.com/LukasBommes/mv-extractor) - Extract frames and motion vectors from H.264 and MPEG-4 encoded video.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [Rukenshia/pomodoro](https://github.com/Rukenshia/pomodoro) - ESP32-based focus timer with an epaper display and rotary dial
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
@@ -115,6 +114,7 @@
 
 ## C++ 
 
+- [LukasBommes/mv-extractor](https://github.com/LukasBommes/mv-extractor) - Extract frames and motion vectors from H.264 and MPEG-4 encoded video.
 - [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [ewfian/faiss-node](https://github.com/ewfian/faiss-node) - Node.js bindings for faiss
