@@ -1550,7 +1550,7 @@
 - [amamenko/react-buzzfeed-quiz](https://github.com/amamenko/react-buzzfeed-quiz) - A BuzzFeed-style quiz component for React.js.
 - [tgrosinger/recent-files-obsidian](https://github.com/tgrosinger/recent-files-obsidian) - Display a list of most recently opened files
 - [delashum/obsidian-checklist-plugin](https://github.com/delashum/obsidian-checklist-plugin) - 
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
+- [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
 - [Quorafind/Obsidian-Big-Calendar](https://github.com/Quorafind/Obsidian-Big-Calendar) - Big Calendar in Obsidian, for manage your events in a day/week/month and see agenda too!
 - [akaalias/obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing) - 📬  postprocessing for react-three-fiber
