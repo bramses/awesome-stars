@@ -788,6 +788,7 @@
 
 - [eddyflux/crate](https://github.com/eddyflux/crate) - 
 - [CodeandCoffeeCommunity/speaking](https://github.com/CodeandCoffeeCommunity/speaking) - 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [cacheflowe/creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes) - Some text and links about the wide world of creative coding
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [croian/mouseless](https://github.com/croian/mouseless) - Bug tracking and more for Mouseless
