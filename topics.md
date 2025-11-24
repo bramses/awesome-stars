@@ -1271,7 +1271,6 @@
 - [alvaromontoro/almond.css](https://github.com/alvaromontoro/almond.css) - Collection of CSS styles to make simple websites look nicer
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
-- [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
 - [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [BeauNouvelle/SimpleCheckbox](https://github.com/BeauNouvelle/SimpleCheckbox) - A simple Checkbox
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -2142,6 +2141,7 @@
 - [chhoumann/MetaEdit](https://github.com/chhoumann/MetaEdit) - MetaEdit for Obsidian
 - [SimonTC/obsidian-note-autocreation](https://github.com/SimonTC/obsidian-note-autocreation) - An Obsidian plugin for automatically creating notes when linking to non-existing notes
 - [hauselin/obsidian-alfred](https://github.com/hauselin/obsidian-alfred) - Alfred workflow for Obsidian note-taking app. Open vaults and files in Obsidian.
+- [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Manage tasks and logs within an Obsidian note.
 - [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside Obsidian
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [radekkozak/discordian](https://github.com/radekkozak/discordian) - Obsidian dark theme inspired by Discord
@@ -2226,7 +2226,6 @@
 - [zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - Automatically fetch the titles of pasted links
 - [pjeby/quick-explorer](https://github.com/pjeby/quick-explorer) - Perform file explorer operations (and see your current file path) from the Obsidian.md title bar
 - [chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian) - Post tweets directly from Obsidian.
-- [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
 - [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside Obsidian
 - [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal) - A distraction-free and highly customizable theme for Obsidian.
 - [radekkozak/discordian](https://github.com/radekkozak/discordian) - Obsidian dark theme inspired by Discord
@@ -2318,7 +2317,7 @@
 - [zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - Automatically fetch the titles of pasted links
 - [pjeby/quick-explorer](https://github.com/pjeby/quick-explorer) - Perform file explorer operations (and see your current file path) from the Obsidian.md title bar
 - [chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian) - Post tweets directly from Obsidian.
-- [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Plugin for https://obsidian.md/ that assists with managing tasks within a document.
+- [ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector) - Manage tasks and logs within an Obsidian note.
 - [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside Obsidian
 - [samwarnick/obsidian-simple-embeds](https://github.com/samwarnick/obsidian-simple-embeds) - A plugin for Obsidian that automatically turns links into embeds.
 - [mrjackphil/obsidian-text-expand](https://github.com/mrjackphil/obsidian-text-expand) - A simple text expand plugin for Obsidian.md
