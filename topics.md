@@ -104,6 +104,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hackathon](#hackathon)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -243,6 +244,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-development](#web-development)
+- [web3](#web3)
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
@@ -1231,6 +1233,20 @@
 - [algolia/gatsby-plugin-algolia](https://github.com/algolia/gatsby-plugin-algolia) - A plugin to push to Algolia based on graphQl queries
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate 
+
+## gui 
+
+- [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
+- [0b5vr/automaton](https://github.com/0b5vr/automaton) - Animation engine for creative coding
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
+- [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
+- [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
+- [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
+- [Lartu/p5.clickable](https://github.com/Lartu/p5.clickable) - Event driven, easy-to-use button library for P5.js 👆
+- [bramses/orbit-levels-p5-visualization](https://github.com/bramses/orbit-levels-p5-visualization) - Solar System viz for Orbit!
+- [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
+- [sojamo/controlp5](https://github.com/sojamo/controlp5) - A gui library for processing.org
 
 ## hackathon 
 
@@ -2849,7 +2865,6 @@
 - [munshkr/tilt](https://github.com/munshkr/tilt) - Live coding bytebeat-style language for the web
 - [bevacqua/react-dragula](https://github.com/bevacqua/react-dragula) - :ok_hand: Drag and drop so simple it hurts
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
-- [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [doersino/tixyz](https://github.com/doersino/tixyz) - A minimalist three-dimensional coding environment. Control 8x8x8 dots with a single JavaScript function.
 - [thencc/chronology-ts](https://github.com/thencc/chronology-ts) - conversational gpt-x
 - [ml4a/ml4a](https://github.com/ml4a/ml4a) - A python library and collection of notebooks for making art with machine learning.
@@ -2948,7 +2963,6 @@
 - [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 - [mono-company/mono-icons](https://github.com/mono-company/mono-icons) - 
 - [bzarras/newsapi](https://github.com/bzarras/newsapi) - A promise-based node interface for NewsAPI
-- [bramses/orbit-levels-p5-visualization](https://github.com/bramses/orbit-levels-p5-visualization) - Solar System viz for Orbit!
 - [kakaroto/Beyond20](https://github.com/kakaroto/Beyond20) - D&D Beyond Character Sheet Integration in Roll20
 - [googlecreativelab/quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Documentation on how to access and use the Quick, Draw! Dataset.
 - [spotify/web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
@@ -3006,7 +3020,6 @@
 - [keeffEoghan/tendrils](https://github.com/keeffEoghan/tendrils) - Core of WebGL GPGPU particles, emergent physics experiment - adapted from Tendrils interactive music video.
 - [specialprojects-experiments/paperphone](https://github.com/specialprojects-experiments/paperphone) - Paper phone experimental android app
 - [jamriska/ebsynth](https://github.com/jamriska/ebsynth) - Fast Example-based Image Synthesis and Style Transfer
-- [sojamo/controlp5](https://github.com/sojamo/controlp5) - A gui library for processing.org
 - [ttezel/twit](https://github.com/ttezel/twit) - Twitter API Client for node (REST & Streaming API)
 - [pissang/little-big-city](https://github.com/pissang/little-big-city) - 
 - [watabou/TownGeneratorOS](https://github.com/watabou/TownGeneratorOS) - The source code of the Medieval Fantasy City Generator
@@ -3945,6 +3958,10 @@
 
 - [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
+
+## web3 
+
+- [jokenox/Goopt](https://github.com/jokenox/Goopt) - 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3.
 
 ## webpack 
 
