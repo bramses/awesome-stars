@@ -786,6 +786,7 @@
 
 ## Others 
 
+- [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) - Gemini CLI Tips and Tricks
 - [eddyflux/crate](https://github.com/eddyflux/crate) - 
 - [CodeandCoffeeCommunity/speaking](https://github.com/CodeandCoffeeCommunity/speaking) - 
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
