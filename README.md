@@ -94,7 +94,7 @@
 
 ## C# # 
 
-- [tixl3d/tixl](https://github.com/tixl3d/tixl) - Tooll 3 is an open source software to create realtime motion graphics.
+- [tixl3d/tixl](https://github.com/tixl3d/tixl) - TiXL is an open source software to create realtime motion graphics.
 - [imchillin/Anamnesis](https://github.com/imchillin/Anamnesis) - A standalone tool that allows the user a greater degree of flexibility for making creative and interesting screenshots.
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -1074,7 +1074,7 @@
 - [maxvfischer/DIY-ai-art](https://github.com/maxvfischer/DIY-ai-art) - How to build your own AI art installation from scratch
 - [roshan-research/hazm](https://github.com/roshan-research/hazm) - Persian NLP Toolkit
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
-- [openstenoproject/plover](https://github.com/openstenoproject/plover) - Open source stenotype engine
+- [opensteno/plover](https://github.com/opensteno/plover) - Open source stenotype engine
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [coddingtonbear/python-myfitnesspal](https://github.com/coddingtonbear/python-myfitnesspal) - Access your meal tracking data stored in MyFitnessPal programatically
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
