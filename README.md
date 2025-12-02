@@ -324,6 +324,7 @@
 - [davatron5000/FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
 - [TakashiYoshinaga/Oculus-Quest-Input-Sample](https://github.com/TakashiYoshinaga/Oculus-Quest-Input-Sample) - Sample for getting input data from controllers of Oculus Quest with A-Frame
 - [newsdev/archieml.org](https://github.com/newsdev/archieml.org) - The archieml.org website and hub for specification development
+- [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - UI to generate linear-gradients
 - [davatron5000/FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
 - [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 - [mono-company/mono-icons](https://github.com/mono-company/mono-icons) - 
@@ -607,7 +608,6 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [wgryc/video-input-js](https://github.com/wgryc/video-input-js) - video-input field to make video recording easy via client-side JS
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
-- [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - UI to generate linear-gradients
 - [desmondmorris/node-twitter](https://github.com/desmondmorris/node-twitter) - Client library for the Twitter REST and Streaming API's.
 - [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
 - [hydra-synth/hydra](https://github.com/hydra-synth/hydra) - Livecoding networked visuals in the browser
