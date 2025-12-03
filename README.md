@@ -1343,7 +1343,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [prinsss/twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
 - [slab/parchment](https://github.com/slab/parchment) - Generalized state model for rich-text editors to interface with browser DOM
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [hsk-kr/react-fabricjs-example](https://github.com/hsk-kr/react-fabricjs-example) - Fabricjs with React
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
