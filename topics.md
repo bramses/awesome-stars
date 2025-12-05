@@ -2677,7 +2677,7 @@
 - [beaussan/update-time-on-edit-obsidian](https://github.com/beaussan/update-time-on-edit-obsidian) - 
 - [RestedXP/RXPGuides](https://github.com/RestedXP/RXPGuides) - RXPGuides is a platform to write in-game leveling guides for WoW Classic
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
-- [zilliztech/attu](https://github.com/zilliztech/attu) - Web UI for Milvus Vector Database
+- [zilliztech/attu](https://github.com/zilliztech/attu) - The Best GUI for Milvus
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [WarmUpTill/SceneSwitcher](https://github.com/WarmUpTill/SceneSwitcher) - An automation tool for OBS Studio
 - [partouf/OBSInfoWriter](https://github.com/partouf/OBSInfoWriter) - Multiplatform version of ObsInfoPlugin to write timestamps to a file
@@ -2982,7 +2982,7 @@
 - [wgryc/video-input-js](https://github.com/wgryc/video-input-js) - video-input field to make video recording easy via client-side JS
 - [nbeaver/why-linux-is-better](https://github.com/nbeaver/why-linux-is-better) - Objective reasons to prefer Linux to Windows.
 - [dekuNukem/pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
-- [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - UI to generate linear-gradients
+- [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - Cosine gradient generator
 - [curtisjamesholt/EasyBPY](https://github.com/curtisjamesholt/EasyBPY) - A module to simplify the use of the Blender Python API.
 - [taspinar/twitterscraper](https://github.com/taspinar/twitterscraper) - Scrape Twitter for Tweets
 - [desmondmorris/node-twitter](https://github.com/desmondmorris/node-twitter) - Client library for the Twitter REST and Streaming API's.
