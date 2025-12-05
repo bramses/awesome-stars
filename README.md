@@ -324,7 +324,7 @@
 - [davatron5000/FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
 - [TakashiYoshinaga/Oculus-Quest-Input-Sample](https://github.com/TakashiYoshinaga/Oculus-Quest-Input-Sample) - Sample for getting input data from controllers of Oculus Quest with A-Frame
 - [newsdev/archieml.org](https://github.com/newsdev/archieml.org) - The archieml.org website and hub for specification development
-- [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - UI to generate linear-gradients
+- [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - Cosine gradient generator
 - [davatron5000/FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
 - [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 - [mono-company/mono-icons](https://github.com/mono-company/mono-icons) - 
@@ -807,7 +807,7 @@
 - [zunyandco/zunymolano](https://github.com/zunyandco/zunymolano) - Config files for my GitHub profile.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
-- [zilliztech/attu](https://github.com/zilliztech/attu) - Web UI for Milvus Vector Database
+- [zilliztech/attu](https://github.com/zilliztech/attu) - The Best GUI for Milvus
 - [maxwell-bland/copilot-in-the-terminal](https://github.com/maxwell-bland/copilot-in-the-terminal) - Hack to get Github Copilot working in the terminal with bash
 - [jotaen/xit](https://github.com/jotaen/xit) - A plain-text file format for todos and check lists
 - [aidenlx/media-extended](https://github.com/aidenlx/media-extended) - Transform your Obsidian into a powerful video note-taking tool. 🖇️🗂️⏯️
