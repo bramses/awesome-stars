@@ -196,6 +196,7 @@
 - [pytorch](#pytorch)
 - [qt](#qt)
 - [r](#r)
+- [rag](#rag)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -2475,7 +2476,6 @@
 - [cacheflowe/creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes) - Some text and links about the wide world of creative coding
 - [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark
 - [MaartenGr/KeyBERT](https://github.com/MaartenGr/KeyBERT) - Minimal keyword extraction with BERT
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [goodreasonai/ScrapeServ](https://github.com/goodreasonai/ScrapeServ) - A self-hosted API that takes a URL and returns a file with browser screenshots.
 - [FlacoJones/ycb-helm](https://github.com/FlacoJones/ycb-helm) - Helm Deployment for Your Commonbase
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
@@ -2507,7 +2507,6 @@
 - [cmdevries/LMW-tree](https://github.com/cmdevries/LMW-tree) - Learning M-Way Tree - Web Scale Clustering - EM-tree, K-tree, k-means, TSVQ, repeated k-means, bitwise clustering
 - [0xDebabrata/commonplace](https://github.com/0xDebabrata/commonplace) - An autobiography of the mind
 - [slab/parchment](https://github.com/slab/parchment) - Generalized state model for rich-text editors to interface with browser DOM
-- [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - The Open Source Memory Layer For Autonomous Agents
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [buzzfeed/libgif-js](https://github.com/buzzfeed/libgif-js) - JavaScript GIF parser and player
 - [hsk-kr/react-fabricjs-example](https://github.com/hsk-kr/react-fabricjs-example) - Fabricjs with React
@@ -2784,7 +2783,6 @@
 - [Zettelkasten-Team/Zettelkasten](https://github.com/Zettelkasten-Team/Zettelkasten) - Zettelkasten-Developer-Builds
 - [rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) - Statistical Rethinking course winter 2022
 - [TedisAgolli/readwise-new-tab](https://github.com/TedisAgolli/readwise-new-tab) - 
-- [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [Aquila-Network/AquilaJS](https://github.com/Aquila-Network/AquilaJS) - JavaScript client library to access Aquila Network Neural Search Engine.
@@ -3341,6 +3339,22 @@
 ## r 
 
 - [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R
+
+## rag 
+
+- [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [mirth/chonky](https://github.com/mirth/chonky) - Fully neural approach for text chunking
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+- [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - The Open Source Memory Layer For Autonomous Agents
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
+- [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
 
 ## rails 
 
