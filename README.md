@@ -1321,7 +1321,7 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [Drarig29/brackets-viewer.js](https://github.com/Drarig29/brackets-viewer.js) - A simple library to display tournament brackets (round-robin, single elimination, double elimination).
 - [harshbhandarivs/nextjs-keycloak](https://github.com/harshbhandarivs/nextjs-keycloak) - Configure Authenitcation in Nextjs 13 App router Applicationwith Keycloak
-- [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - TypeScript client for Meilisearch
+- [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - JavaScript/TypeScript client for Meilisearch
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
 - [TryGhost/ActivityPub](https://github.com/TryGhost/ActivityPub) - A full-featured ActivityPub server for networked publishing with Ghost
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
@@ -1519,7 +1519,7 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [aidenlx/alx-folder-note](https://github.com/aidenlx/alx-folder-note) - Add description, summary, and more info to folders with folder notes.
 - [mgmeyers/obsidian-smart-typography](https://github.com/mgmeyers/obsidian-smart-typography) - Converts quotes to curly quotes, dashes to em dashes, and periods to ellipses
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [React95/React95](https://github.com/React95/React95) - A React components library with Win95 UI
 - [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
 - [geongeorge/Canvas-Txt](https://github.com/geongeorge/Canvas-Txt) - Multiline text on HTML5 Canvas
