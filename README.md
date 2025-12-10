@@ -807,7 +807,6 @@
 - [zunyandco/zunymolano](https://github.com/zunyandco/zunymolano) - Config files for my GitHub profile.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [farcasterxyz/protocol](https://github.com/farcasterxyz/protocol) - Specification of the Farcaster Protocol
-- [zilliztech/attu](https://github.com/zilliztech/attu) - The Best GUI for Milvus
 - [maxwell-bland/copilot-in-the-terminal](https://github.com/maxwell-bland/copilot-in-the-terminal) - Hack to get Github Copilot working in the terminal with bash
 - [jotaen/xit](https://github.com/jotaen/xit) - A plain-text file format for todos and check lists
 - [aidenlx/media-extended](https://github.com/aidenlx/media-extended) - Transform your Obsidian into a powerful video note-taking tool. 🖇️🗂️⏯️
@@ -959,7 +958,7 @@
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 - [supabase/supabase-py](https://github.com/supabase/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
 - [Planetary-Computers/autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks
-- [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact, analyze and structure massive text, image, embedding, audio and video datasets
+- [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Nomic Developer API SDK
 - [meistrari/cursive-py](https://github.com/meistrari/cursive-py) - ✦ The intuitive python LLM framework
 - [anuragxel/salt](https://github.com/anuragxel/salt) - Segment Anything Labelling Tool
 - [scherroman/mugen](https://github.com/scherroman/mugen) - A command-line music video generator based on rhythm
@@ -1223,7 +1222,9 @@
 
 ## Shell 
 
+- [ashconnell/physx-js](https://github.com/ashconnell/physx-js) - PhysX for JavaScript
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
+- [zilliztech/attu](https://github.com/zilliztech/attu) - The Best GUI for Milvus
 - [SEPIA-Framework/sepia-installation-and-setup](https://github.com/SEPIA-Framework/sepia-installation-and-setup) - Instructions, scripts, tools and files to install, setup and run the SEPIA-Framework on Raspberry Pi, Windows, Mac and other Linux systems.
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net
 - [elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - State of AI
