@@ -1497,6 +1497,7 @@
 
 ## javascript 
 
+- [ashconnell/physx-js](https://github.com/ashconnell/physx-js) - PhysX for JavaScript
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
@@ -2066,6 +2067,7 @@
 
 ## nodejs 
 
+- [ashconnell/physx-js](https://github.com/ashconnell/physx-js) - PhysX for JavaScript
 - [ahmedrangel/instagram-media-scraper](https://github.com/ahmedrangel/instagram-media-scraper) - A simple Node.js code to get public information and media from every Instagram post or reel URL without API. Working 2025
 - [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - JavaScript/TypeScript client for Meilisearch
 - [anmiles/youtube-likes-downloader](https://github.com/anmiles/youtube-likes-downloader) - Download all liked videos from youtube
@@ -3131,6 +3133,7 @@
 
 ## physics 
 
+- [ashconnell/physx-js](https://github.com/ashconnell/physx-js) - PhysX for JavaScript
 - [brianzinn/react-babylonjs](https://github.com/brianzinn/react-babylonjs) - React for Babylon 3D engine
 - [pmndrs/use-cannon](https://github.com/pmndrs/use-cannon) - 👋💣 physics based hooks for @react-three/fiber
 - [rhidra/fluid-simulation](https://github.com/rhidra/fluid-simulation) - A small fluid simulation experiment with WebGL
@@ -3230,7 +3233,7 @@
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [supabase/supabase-py](https://github.com/supabase/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
-- [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Interact, analyze and structure massive text, image, embedding, audio and video datasets
+- [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Nomic Developer API SDK
 - [scherroman/mugen](https://github.com/scherroman/mugen) - A command-line music video generator based on rhythm
 - [anthonyjdella/twilio-schedule-message](https://github.com/anthonyjdella/twilio-schedule-message) - ⏰ Python code showing you how to schedule a message with Twilio.
 - [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
