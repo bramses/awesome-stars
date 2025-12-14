@@ -589,7 +589,7 @@
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
 - [tshaddix/webext-redux](https://github.com/tshaddix/webext-redux) - A set of utilities for building Redux applications in Web Extensions.
 - [satendra02/react-chrome-extension](https://github.com/satendra02/react-chrome-extension) - chrome extension boilerplate with ReactJs using inject page strategy
-- [namukang/extension-starter-kit](https://github.com/namukang/extension-starter-kit) - Starter kit for building Chrome/Firefox extensions
+- [namuorg/extension-starter-kit](https://github.com/namuorg/extension-starter-kit) - Starter kit for building Chrome/Firefox extensions
 - [auth0/lock](https://github.com/auth0/lock) - Auth0's signin solution
 - [KartikTalwar/gmail.js](https://github.com/KartikTalwar/gmail.js) - Gmail JavaScript API
 - [thesephist/unim.press](https://github.com/thesephist/unim.press) - A Reddit front-page reader in the style of The New York Times.
