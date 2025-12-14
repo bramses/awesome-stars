@@ -2964,7 +2964,7 @@
 - [ynab/ynab-api-starter-kit](https://github.com/ynab/ynab-api-starter-kit) - Quickly get started developing an application with the YNAB API
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 - [NPCat/bad-apple-bot](https://github.com/NPCat/bad-apple-bot) - the discord bot from this video: https://www.youtube.com/watch?v=PLP9c0Z4Q3Y
-- [namukang/extension-starter-kit](https://github.com/namukang/extension-starter-kit) - Starter kit for building Chrome/Firefox extensions
+- [namuorg/extension-starter-kit](https://github.com/namuorg/extension-starter-kit) - Starter kit for building Chrome/Firefox extensions
 - [auth0/lock](https://github.com/auth0/lock) - Auth0's signin solution
 - [neon-izm/EasyMotionRecorder](https://github.com/neon-izm/EasyMotionRecorder) - Unityエディタ上でVRIKなどのモーションキャプチャをしたHumanoidキャラクターのモーションを記録, 再生をするスクリプト
 - [digital-standard/ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda) - Unity sample of 3D pose estimation using Barracuda
