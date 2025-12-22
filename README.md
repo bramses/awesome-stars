@@ -901,7 +901,7 @@
 - [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
 - [clarkdever/usb-a-time-wasted](https://github.com/clarkdever/usb-a-time-wasted) - 
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
-- [memvid/memvid](https://github.com/memvid/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [facebookresearch/MILS](https://github.com/facebookresearch/MILS) - Code release for "LLMs can see and hear without any training"
 - [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Tamagotchi-style digital pet with a neural network featuring neurogenesis & Hebbian learning
 - [segment-any-text/wtpsplit](https://github.com/segment-any-text/wtpsplit) - Toolkit to segment text into sentences or other semantic units in a robust, efficient and adaptable way.
@@ -1656,7 +1656,7 @@
 - [yozorajs/yozora](https://github.com/yozorajs/yozora) - A customizable markup parser for resolving markdown-like syntax strings into AST and vice versa.
 - [sawyerh/highlights](https://github.com/sawyerh/highlights) - Code for converting, importing, processing, and displaying Kindle, Instapaper, and Safari Books highlights
 - [cloudflare/kv-asset-handler](https://github.com/cloudflare/kv-asset-handler) - Routes requests to KV assets
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share it.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share.
 - [replit/crosis](https://github.com/replit/crosis) - A JavaScript client that speaks Replit's container protocol
 - [praneshr/react-diff-viewer](https://github.com/praneshr/react-diff-viewer) - A simple and beautiful text diff viewer component made with Diff and React.
 - [samalexander/three-csg-ts](https://github.com/samalexander/three-csg-ts) - CSG library for use with THREE.js
