@@ -3000,7 +3000,7 @@
 - [wgryc/video-input-js](https://github.com/wgryc/video-input-js) - video-input field to make video recording easy via client-side JS
 - [nbeaver/why-linux-is-better](https://github.com/nbeaver/why-linux-is-better) - Objective reasons to prefer Linux to Windows.
 - [dekuNukem/pimp_my_microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.
-- [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - Cosine gradient generator
+- [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - Cosine gradient generator & Palette finder
 - [curtisjamesholt/EasyBPY](https://github.com/curtisjamesholt/EasyBPY) - A module to simplify the use of the Blender Python API.
 - [taspinar/twitterscraper](https://github.com/taspinar/twitterscraper) - Scrape Twitter for Tweets
 - [desmondmorris/node-twitter](https://github.com/desmondmorris/node-twitter) - Client library for the Twitter REST and Streaming API's.
