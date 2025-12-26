@@ -326,7 +326,7 @@
 - [davatron5000/FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
 - [TakashiYoshinaga/Oculus-Quest-Input-Sample](https://github.com/TakashiYoshinaga/Oculus-Quest-Input-Sample) - Sample for getting input data from controllers of Oculus Quest with A-Frame
 - [newsdev/archieml.org](https://github.com/newsdev/archieml.org) - The archieml.org website and hub for specification development
-- [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - Cosine gradient generator
+- [johnkorzhuk/grabient](https://github.com/johnkorzhuk/grabient) - Cosine gradient generator & Palette finder
 - [davatron5000/FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
 - [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 - [mono-company/mono-icons](https://github.com/mono-company/mono-icons) - 
@@ -422,6 +422,7 @@
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
 - [Wonder-Labs/katana-scraper](https://github.com/Wonder-Labs/katana-scraper) - recursively scrape semantic content from the web
 - [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT) - 
+- [ayu-theme/ayu-colors](https://github.com/ayu-theme/ayu-colors) - The ayu color scheme as a color palette
 - [nodeca/pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
@@ -1069,7 +1070,6 @@
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - Happy Transformer makes it easy to fine-tune and perform inference with  NLP Transformer models.
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [rbaron/catprinter](https://github.com/rbaron/catprinter) - 🐱🖨
 - [maxvfischer/DIY-ai-art](https://github.com/maxvfischer/DIY-ai-art) - How to build your own AI art installation from scratch
 - [roshan-research/hazm](https://github.com/roshan-research/hazm) - Persian NLP Toolkit
@@ -1424,7 +1424,6 @@
 - [wenlzhang/obsidian-task-marker](https://github.com/wenlzhang/obsidian-task-marker) - An Obsidian plugin to change task status and append text with hotkeys and right-click context menu.
 - [joleaf/obsidian-email-block-plugin](https://github.com/joleaf/obsidian-email-block-plugin) - An email block for obsidian notes.
 - [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals.
-- [ayu-theme/ayu-colors](https://github.com/ayu-theme/ayu-colors) - The ayu color scheme as a color palette
 - [mirnovov/obsidian-homepage](https://github.com/mirnovov/obsidian-homepage) - An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.
 - [benhughes/obsidian-link-exploder](https://github.com/benhughes/obsidian-link-exploder) - 
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
@@ -1656,7 +1655,7 @@
 - [yozorajs/yozora](https://github.com/yozorajs/yozora) - A customizable markup parser for resolving markdown-like syntax strings into AST and vice versa.
 - [sawyerh/highlights](https://github.com/sawyerh/highlights) - Code for converting, importing, processing, and displaying Kindle, Instapaper, and Safari Books highlights
 - [cloudflare/kv-asset-handler](https://github.com/cloudflare/kv-asset-handler) - Routes requests to KV assets
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything privately. Share.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, sell or collaborate. Privately.
 - [replit/crosis](https://github.com/replit/crosis) - A JavaScript client that speaks Replit's container protocol
 - [praneshr/react-diff-viewer](https://github.com/praneshr/react-diff-viewer) - A simple and beautiful text diff viewer component made with Diff and React.
 - [samalexander/three-csg-ts](https://github.com/samalexander/three-csg-ts) - CSG library for use with THREE.js
