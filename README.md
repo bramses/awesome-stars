@@ -1305,6 +1305,7 @@
 
 ## TypeScript 
 
+- [bramses/bookshelf-bookclub](https://github.com/bramses/bookshelf-bookclub) - 
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [joseairosa/recall](https://github.com/joseairosa/recall) - Give Claude perfect recall - Redis-powered persistent memory for LLMs
 - [marieooq/neo-brutalism-ui-library](https://github.com/marieooq/neo-brutalism-ui-library) - 
