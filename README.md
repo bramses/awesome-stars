@@ -371,6 +371,9 @@
 
 ## JavaScript 
 
+- [vrk/cli-phomemo-printer](https://github.com/vrk/cli-phomemo-printer) - a script that prints images to the phomemo m02s
+- [un1crom/codex-neuralis](https://github.com/un1crom/codex-neuralis) - A Computational Instrument for Reading Brain Cultivation
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [justinliang1020/wikicollage](https://github.com/justinliang1020/wikicollage) - An application to create a collage of Wikipedia screenshots with sources.
 - [eastmountaincode/wiki-path-001](https://github.com/eastmountaincode/wiki-path-001) - 
 - [meilisearch/demo-movies](https://github.com/meilisearch/demo-movies) - Next.js app to find streaming platform to watch movies
