@@ -1679,6 +1679,7 @@
 
 ## json 
 
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [enesozturk/json-data-ai-template](https://github.com/enesozturk/json-data-ai-template) - JSONDataAI.com template with Next.js 13 and Vercel AI SDK
@@ -2101,6 +2102,7 @@
 
 ## nodejs 
 
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [ashconnell/physx-js](https://github.com/ashconnell/physx-js) - PhysX for JavaScript
 - [ahmedrangel/instagram-media-scraper](https://github.com/ahmedrangel/instagram-media-scraper) - A simple Node.js code to get public information and media from every Instagram post or reel URL without API. Working 2025
 - [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - JavaScript/TypeScript client for Meilisearch
@@ -2478,6 +2480,8 @@
 
 ## others 
 
+- [vrk/cli-phomemo-printer](https://github.com/vrk/cli-phomemo-printer) - a script that prints images to the phomemo m02s
+- [un1crom/codex-neuralis](https://github.com/un1crom/codex-neuralis) - A Computational Instrument for Reading Brain Cultivation
 - [rberg27/doom-coding](https://github.com/rberg27/doom-coding) - A guide for how to use your smartphone to code anywhere at anytime.
 - [T3-Content/claude-blocker](https://github.com/T3-Content/claude-blocker) - 
 - [bramses/bookshelf-bookclub](https://github.com/bramses/bookshelf-bookclub) - 
