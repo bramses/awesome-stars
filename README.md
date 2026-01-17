@@ -47,7 +47,6 @@
 - [Processing](#processing)
 - [Python](#python)
 - [R](#r)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -365,6 +364,7 @@
 - [antlr/antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [runwayml/processing-library](https://github.com/runwayml/processing-library) - RunwayML-for-Processing
 - [cyrildiagne/ar-cptext](https://github.com/cyrildiagne/ar-cptext) - AR Copy Paste - Text Proto
+- [sirixdb/sirix](https://github.com/sirixdb/sirix) - SirixDB is an an embeddable, bitemporal, append-only database system and event store, storing immutable lightweight snapshots. It keeps the full history of each resource. Every commit stores a space-e
 - [jMonkeyEngine/jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) - A complete 3-D game development suite written in Java.
 - [CreativeInquiry/PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Library for Processing
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
@@ -373,6 +373,7 @@
 
 ## JavaScript 
 
+- [LingDong-/nonflowers](https://github.com/LingDong-/nonflowers) - Procedurally generated paintings of nonexistent flowers.
 - [vrk/cli-phomemo-printer](https://github.com/vrk/cli-phomemo-printer) - a script that prints images to the phomemo m02s
 - [un1crom/codex-neuralis](https://github.com/un1crom/codex-neuralis) - A Computational Instrument for Reading Brain Cultivation
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
@@ -426,7 +427,6 @@
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
 - [Wonder-Labs/katana-scraper](https://github.com/Wonder-Labs/katana-scraper) - recursively scrape semantic content from the web
 - [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT) - 
-- [ayu-theme/ayu-colors](https://github.com/ayu-theme/ayu-colors) - The ayu color scheme as a color palette
 - [nodeca/pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
@@ -817,7 +817,7 @@
 - [aidenlx/media-extended](https://github.com/aidenlx/media-extended) - Transform your Obsidian into a powerful video note-taking tool. 🖇️🗂️⏯️
 - [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) - A mind map, outline for obsidian,It support mobile and desktop
 - [Ji11ard/Dataview-to-Mermaid-Flowchart](https://github.com/Ji11ard/Dataview-to-Mermaid-Flowchart) - This dataviewjs script dynamically renders DQL queries into a Mermaid flow diagram based on links and formatting instructions contained in the file's YAML.
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage) - Obsidian homepage - Minimal and aesthetic template (with my unique features)
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
 - [martinschilliger/Alfred-QR-Code](https://github.com/martinschilliger/Alfred-QR-Code) - Create a QR-Code from Alfred
@@ -1151,13 +1151,9 @@
 - [cutterkom/generativeart](https://github.com/cutterkom/generativeart) - Create Generative Art with R
 - [rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) - Statistical Rethinking course winter 2022
 
-## Roff 
-
-- [sirixdb/sirix](https://github.com/sirixdb/sirix) - SirixDB is an an embeddable, bitemporal, append-only database system and event store, storing immutable lightweight snapshots. It keeps the full history of each resource. Every commit stores a space-e
-
 ## Ruby 
 
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddi
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, xAI, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Em
 - [mawise/bookshelf](https://github.com/mawise/bookshelf) - 3D animated bookshelf for ebooks
 - [yash-dani/logstash-filter-pilar](https://github.com/yash-dani/logstash-filter-pilar) - A logstash filter for Log Parsing using the PILAR method.
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
@@ -1431,6 +1427,7 @@
 - [wenlzhang/obsidian-task-marker](https://github.com/wenlzhang/obsidian-task-marker) - An Obsidian plugin to change task status and append text with hotkeys and right-click context menu.
 - [joleaf/obsidian-email-block-plugin](https://github.com/joleaf/obsidian-email-block-plugin) - An email block for obsidian notes.
 - [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals.
+- [ayu-theme/ayu-colors](https://github.com/ayu-theme/ayu-colors) - The ayu color scheme as a color palette
 - [mirnovov/obsidian-homepage](https://github.com/mirnovov/obsidian-homepage) - An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.
 - [benhughes/obsidian-link-exploder](https://github.com/benhughes/obsidian-link-exploder) - 
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
