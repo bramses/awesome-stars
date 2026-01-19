@@ -2913,7 +2913,7 @@
 - [coddingtonbear/python-myfitnesspal](https://github.com/coddingtonbear/python-myfitnesspal) - Access your meal tracking data stored in MyFitnessPal programatically
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [sindresorhus/file-metadata](https://github.com/sindresorhus/file-metadata) - Get file metadata using `mdls` on macOS
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, chat, sell or collaborate. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save. Share. Privately.
 - [bramses/awesome-stenography](https://github.com/bramses/awesome-stenography) - A collection of cool Stenography examples
 - [replit/crosis](https://github.com/replit/crosis) - A JavaScript client that speaks Replit's container protocol
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
