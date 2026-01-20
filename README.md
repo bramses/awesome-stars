@@ -455,7 +455,6 @@
 - [w3collective/react-contact-form](https://github.com/w3collective/react-contact-form) - React contact form that sends email via Node.js
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [KiranGershenfeld/VisualizingTwitchCommunities](https://github.com/KiranGershenfeld/VisualizingTwitchCommunities) - Graphing communities on Twitch.tv in a visually intuitive way
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [amamenko/owen-wilson-wow-api](https://github.com/amamenko/owen-wilson-wow-api) - JSON API for actor Owen Wilson's 'wow' exclamations in movies
 - [cortictechnology/cep](https://github.com/cortictechnology/cep) - CEP is a software platform designed for users that want to learn or rapidly prototype using standard A.I. components.
@@ -822,6 +821,7 @@
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
 - [martinschilliger/Alfred-QR-Code](https://github.com/martinschilliger/Alfred-QR-Code) - Create a QR-Code from Alfred
 - [arduino/reference-en](https://github.com/arduino/reference-en) - Editable source for the Arduino Reference
+- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow) - Run installed macOS shortcuts
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1572,7 +1572,7 @@
 - [cloudflare/stream-react](https://github.com/cloudflare/stream-react) - 
 - [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar) - Ultimate calendar for your React app.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
