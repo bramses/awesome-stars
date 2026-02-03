@@ -297,6 +297,7 @@
 ## ai 
 
 - [joseairosa/recall](https://github.com/joseairosa/recall) - Give Claude perfect recall - Redis-powered persistent memory for LLMs
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
@@ -561,6 +562,7 @@
 
 ## chatgpt 
 
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, xAI, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Em
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
@@ -1774,6 +1776,7 @@
 ## llm 
 
 - [joseairosa/recall](https://github.com/joseairosa/recall) - Give Claude perfect recall - Redis-powered persistent memory for LLMs
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, xAI, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Em
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
@@ -4129,7 +4132,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [patriciogonzalezvivo/MidiGyver](https://github.com/patriciogonzalezvivo/MidiGyver) - 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
