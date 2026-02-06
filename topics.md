@@ -931,7 +931,7 @@
 
 ## discord 
 
-- [gitlimes/dcbadge](https://github.com/gitlimes/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server
+- [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
 - [lukeleppan/obsidian-discordrpc](https://github.com/lukeleppan/obsidian-discordrpc) - Update your Discord Status to show your friends what you are working on in Obsidian. With Discord Rich Presence.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
@@ -1904,7 +1904,7 @@
 - [cloverhearts/quilljs-markdown](https://github.com/cloverhearts/quilljs-markdown) - QuillJS Editor Plugin for advanced Markdown
 - [BearToCode/carta](https://github.com/BearToCode/carta) - A lightweight, fast and extensible Svelte Markdown editor and viewer.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
-- [gitlimes/dcbadge](https://github.com/gitlimes/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server
+- [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server
 - [any-block/any-block](https://github.com/any-block/any-block) - You can flexibility to create a 'Block' by many means. It also provides many useful features, like `list to table`. (obsidian/markdown-it/vuepress plugin/app)
 - [goblindegook/littlefoot](https://github.com/goblindegook/littlefoot) - Footnotes without the footprint.
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
@@ -2488,6 +2488,8 @@
 
 ## others 
 
+- [hammem/monarchmoney](https://github.com/hammem/monarchmoney) - Python API for Monarch Money
+- [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord) - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.
 - [nsmith/claun](https://github.com/nsmith/claun) - Use claun to run Claude Code jobs on timers. Sometimes systemd is just overkill.
 - [LingDong-/nonflowers](https://github.com/LingDong-/nonflowers) - Procedurally generated paintings of nonexistent flowers.
 - [your-commonbase/park-commonbase](https://github.com/your-commonbase/park-commonbase) - See what the park thinks!
@@ -3403,6 +3405,7 @@
 
 ## rag 
 
+- [rryam/VecturaKit](https://github.com/rryam/VecturaKit) - Swift-based vector database for on-device RAG using MLTensor and MLX Embedders
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [mirth/chonky](https://github.com/mirth/chonky) - Fully neural approach for text chunking
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
@@ -3752,6 +3755,7 @@
 
 ## swift 
 
+- [rryam/VecturaKit](https://github.com/rryam/VecturaKit) - Swift-based vector database for on-device RAG using MLTensor and MLX Embedders
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [ZachNagengast/similarity-search-kit](https://github.com/ZachNagengast/similarity-search-kit) - 🔎 SimilaritySearchKit is a Swift package providing on-device text embeddings and semantic search functionality for iOS and macOS applications.
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
