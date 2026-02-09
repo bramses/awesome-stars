@@ -2773,8 +2773,6 @@
 - [carykh/lazykh](https://github.com/carykh/lazykh) - Source code for the automatic lip-syncing project described in this video! https://www.youtube.com/watch?v=y3B8YqeLCpY
 - [BabylonJS/SpacePirates](https://github.com/BabylonJS/SpacePirates) - The Space Pirates game is a demo made to celebrate the Babylon.js 5.0 Release.
 - [farling42/obsidian-import-json](https://github.com/farling42/obsidian-import-json) - Plug-in for Obsidian.md which will create Notes from JSON files
-- [alo9507/localhost-rn](https://github.com/alo9507/localhost-rn) - React Native version of localhost
-- [alo9507/localhost-api](https://github.com/alo9507/localhost-api) - 
 - [pmndrs/suspend-react](https://github.com/pmndrs/suspend-react) - 🚥 Async/await for React components
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
