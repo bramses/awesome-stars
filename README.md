@@ -291,6 +291,7 @@
 
 ## HTML 
 
+- [davidfaure/3d-text-animation-codrops](https://github.com/davidfaure/3d-text-animation-codrops) - 
 - [ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam) - Real-time webcam demo with SmolVLM and llama.cpp server
 - [ajitpal/BookBank](https://github.com/ajitpal/BookBank) - Books
 - [iandol/scrivomatic](https://github.com/iandol/scrivomatic) - A writing workflow using Scrivener's style system + Pandoc for output…
