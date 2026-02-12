@@ -2488,6 +2488,7 @@
 
 ## others 
 
+- [davidfaure/3d-text-animation-codrops](https://github.com/davidfaure/3d-text-animation-codrops) - 
 - [hammem/monarchmoney](https://github.com/hammem/monarchmoney) - Python API for Monarch Money
 - [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord) - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.
 - [nsmith/claun](https://github.com/nsmith/claun) - Use claun to run Claude Code jobs on timers. Sometimes systemd is just overkill.
