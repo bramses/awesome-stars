@@ -422,7 +422,6 @@
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.
 - [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - Happy Transformer makes it easy to fine-tune and perform inference with  NLP Transformer models.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-- [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
 
 ## automation 
 
@@ -868,7 +867,6 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
-- [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
