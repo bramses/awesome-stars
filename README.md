@@ -66,6 +66,7 @@
 - [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
+- [Wolfram Language](#wolfram-language)
 - [Zig](#zig)
 
 ## ANTLR 
@@ -1765,6 +1766,10 @@
 - [ynab/ynab-api-starter-kit](https://github.com/ynab/ynab-api-starter-kit) - Quickly get started developing an application with the YNAB API
 - [LayoutitStudio/layoutit-grid](https://github.com/LayoutitStudio/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
+
+## Wolfram Language 
+
+- [un1crom/beautiful-integers](https://github.com/un1crom/beautiful-integers) - i am going to find or create beautiful numbers
 
 ## Zig 
 
