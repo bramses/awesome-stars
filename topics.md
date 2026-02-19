@@ -2486,6 +2486,7 @@
 
 ## others 
 
+- [un1crom/beautiful-integers](https://github.com/un1crom/beautiful-integers) - i am going to find or create beautiful numbers
 - [davidfaure/3d-text-animation-codrops](https://github.com/davidfaure/3d-text-animation-codrops) - 
 - [hammem/monarchmoney](https://github.com/hammem/monarchmoney) - Python API for Monarch Money
 - [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord) - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.
