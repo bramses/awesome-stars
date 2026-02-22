@@ -3755,6 +3755,7 @@
 
 ## swift 
 
+- [SwiftGraphs/Grape](https://github.com/SwiftGraphs/Grape) - A Swift library for graph visualization and efficient force simulation.
 - [rryam/VecturaKit](https://github.com/rryam/VecturaKit) - Swift-based vector database for on-device RAG using MLTensor and MLX Embedders
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [ZachNagengast/similarity-search-kit](https://github.com/ZachNagengast/similarity-search-kit) - 🔎 SimilaritySearchKit is a Swift package providing on-device text embeddings and semantic search functionality for iOS and macOS applications.
@@ -3784,6 +3785,7 @@
 
 ## swiftui 
 
+- [SwiftGraphs/Grape](https://github.com/SwiftGraphs/Grape) - A Swift library for graph visualization and efficient force simulation.
 - [tikimcfee/LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render source code in 3D, for macOS and iOS.
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
@@ -4033,6 +4035,7 @@
 
 ## visualization 
 
+- [SwiftGraphs/Grape](https://github.com/SwiftGraphs/Grape) - A Swift library for graph visualization and efficient force simulation.
 - [apple/embedding-atlas](https://github.com/apple/embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
 - [zilliztech/feder](https://github.com/zilliztech/feder) - Visualize hnsw, faiss and other anns index
 - [lmcinnes/umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection
