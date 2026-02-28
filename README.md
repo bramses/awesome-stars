@@ -536,7 +536,7 @@
 - [hundredrabbits/Orca](https://github.com/hundredrabbits/Orca) - Esoteric Programming Language
 - [inlife/nexrender](https://github.com/inlife/nexrender) - 📹  Data-driven render automation for After Effects
 - [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings
-- [kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome) - An HTTP Web Server for Chrome (chrome.sockets API)
+- [kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome) - Web Server for Chrome (2026 Relaunch)
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [sindresorhus/file-metadata](https://github.com/sindresorhus/file-metadata) - Get file metadata using `mdls` on macOS
@@ -910,7 +910,7 @@
 - [clarkdever/usb-a-time-wasted](https://github.com/clarkdever/usb-a-time-wasted) - 
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [facebookresearch/MILS](https://github.com/facebookresearch/MILS) - Code release for "LLMs can see and hear without any training"
-- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Tamagotchi-style digital pet with a neural network featuring neurogenesis & Hebbian learning
+- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - A transparent cognitive sandbox disguised as a digital pet squid - featuring visible neural activity, neurogenesis, and Hebbian learning.
 - [segment-any-text/wtpsplit](https://github.com/segment-any-text/wtpsplit) - Toolkit to segment text into sentences or other semantic units in a robust, efficient and adaptable way.
 - [mirth/chonky](https://github.com/mirth/chonky) - Fully neural approach for text chunking
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, MNN, PaddlePaddle and PyTorch.
@@ -1052,7 +1052,7 @@
 - [mikepqr/resume-markdown](https://github.com/mikepqr/resume-markdown) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [parallelinnovation/Quick-note-entry-for-Obsidian](https://github.com/parallelinnovation/Quick-note-entry-for-Obsidian) - A simple one-line quick entry GUI for your Obsidian daily notes in markdown format.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 - [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
@@ -1650,7 +1650,7 @@
 - [phibr0/obsidian-emoji-shortcodes](https://github.com/phibr0/obsidian-emoji-shortcodes) - Emoji Shortcodes - Obsidian Plugin | Adds Support for Emoji Shortcodes to Obsidian
 - [lukeleppan/obsidian-discordrpc](https://github.com/lukeleppan/obsidian-discordrpc) - Update your Discord Status to show your friends what you are working on in Obsidian. With Discord Rich Presence.
 - [elias-sundqvist/obsidian-react-components](https://github.com/elias-sundqvist/obsidian-react-components) - Write and use React (Jsx) components in your Obsidian notes.
-- [arpitbbhayani/obsidian-hackernews](https://github.com/arpitbbhayani/obsidian-hackernews) - Periodically fetches and displays top stories from HackerNews.
+- [arpitbbhayani/obsidian-hackernews](https://github.com/arpitbbhayani/obsidian-hackernews) - Displays top stories from Hacker News inside Obsidian.
 - [stfurkan/gez](https://github.com/stfurkan/gez) - Explore museums, galleries, aquariums, zoos and more around the world with virtual tours.
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
 - [denolehov/obsidian-url-into-selection](https://github.com/denolehov/obsidian-url-into-selection) - Paste URLs into selected text "notion style"
