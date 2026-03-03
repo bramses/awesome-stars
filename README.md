@@ -1000,7 +1000,7 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [chidiwilliams/GPT-Automator](https://github.com/chidiwilliams/GPT-Automator) - Your voice-controlled Mac assistant
 - [hwchase17/chat-your-data](https://github.com/hwchase17/chat-your-data) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos
@@ -1039,7 +1039,7 @@
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [alxschwrz/codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) - Converts python code into c++ by using OpenAI CODEX.
 - [graiz/cbot](https://github.com/graiz/cbot) - Command line assistant powered by GPT-5-mini with interactive shell mode. Simply describe what you want to do, and cbot will find the right command.
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [project-alice-assistant/ProjectAlice](https://github.com/project-alice-assistant/ProjectAlice) - Main repository of Project Alice, contains main unit source code
 - [AmenRa/ranx](https://github.com/AmenRa/ranx) - ⚡️A Blazing-Fast Python Library for Ranking Evaluation, Comparison, and Fusion 🐍
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
