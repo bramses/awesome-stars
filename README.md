@@ -378,6 +378,7 @@
 
 ## JavaScript 
 
+- [iiAtlas/plaud-recording-downloader](https://github.com/iiAtlas/plaud-recording-downloader) - A Chrome extension used for downloading Plaud.ai recordings
 - [LingDong-/nonflowers](https://github.com/LingDong-/nonflowers) - Procedurally generated paintings of nonexistent flowers.
 - [vrk/cli-phomemo-printer](https://github.com/vrk/cli-phomemo-printer) - a script that prints images to the phomemo m02s
 - [un1crom/codex-neuralis](https://github.com/un1crom/codex-neuralis) - A Computational Instrument for Reading Brain Cultivation
@@ -910,7 +911,7 @@
 - [clarkdever/usb-a-time-wasted](https://github.com/clarkdever/usb-a-time-wasted) - 
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [facebookresearch/MILS](https://github.com/facebookresearch/MILS) - Code release for "LLMs can see and hear without any training"
-- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - A sandbox for raising digital squids whose brains grow and rewire themselves through learning.
+- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - A cognitive sandbox: Raise digital squids whose brains grow & rewire themselves through Hebbian learning and Neurogenesis
 - [segment-any-text/wtpsplit](https://github.com/segment-any-text/wtpsplit) - Toolkit to segment text into sentences or other semantic units in a robust, efficient and adaptable way.
 - [mirth/chonky](https://github.com/mirth/chonky) - Fully neural approach for text chunking
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, MNN, PaddlePaddle and PyTorch.
