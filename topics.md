@@ -2509,6 +2509,7 @@
 
 ## others 
 
+- [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [openplaud/openplaud](https://github.com/openplaud/openplaud) - Self-hosted AI transcription interface for Plaud Note devices
 - [G9KBytes-Labs/Plaud-Claude-Obsidian](https://github.com/G9KBytes-Labs/Plaud-Claude-Obsidian) - Plaud → Claude → Obsidian Audio Pipeline An automated pipeline that transcribes audio recordings from a Plaud device and converts them into structured Obsidian notes using AI.
 - [iiAtlas/plaud-recording-downloader](https://github.com/iiAtlas/plaud-recording-downloader) - A Chrome extension used for downloading Plaud.ai recordings
