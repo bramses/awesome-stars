@@ -1315,6 +1315,7 @@
 
 ## TypeScript 
 
+- [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [openplaud/openplaud](https://github.com/openplaud/openplaud) - Self-hosted AI transcription interface for Plaud Note devices
 - [your-commonbase/park-commonbase](https://github.com/your-commonbase/park-commonbase) - See what the park thinks!
 - [T3-Content/claude-blocker](https://github.com/T3-Content/claude-blocker) - 
