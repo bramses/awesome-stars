@@ -914,7 +914,7 @@
 - [clarkdever/usb-a-time-wasted](https://github.com/clarkdever/usb-a-time-wasted) - 
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [facebookresearch/MILS](https://github.com/facebookresearch/MILS) - Code release for "LLMs can see and hear without any training"
-- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - A cognitive sandbox: Raise digital squids whose brains grow & rewire themselves through Hebbian learning and Neurogenesis
+- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Transparent cognitive sandbox: Raise digital squids - watch brains grow & rewire themselves through Hebbian learning & Neurogenesis
 - [segment-any-text/wtpsplit](https://github.com/segment-any-text/wtpsplit) - Toolkit to segment text into sentences or other semantic units in a robust, efficient and adaptable way.
 - [mirth/chonky](https://github.com/mirth/chonky) - Fully neural approach for text chunking
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.
@@ -1478,7 +1478,7 @@
 - [decaf-dev/obsidian-dataloom](https://github.com/decaf-dev/obsidian-dataloom) - Better Obsidian Tables Without The Hassle
 - [different-ai/obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 - [Quorafind/obsidian-sakana-widget](https://github.com/Quorafind/obsidian-sakana-widget) - Add the Sakana! Widget to your own Obsidian
-- [javalent/admonitions](https://github.com/javalent/admonitions) - Adds admonition block-styled content to Obsidian.md
+- [ebullient/obsidian-admonition](https://github.com/ebullient/obsidian-admonition) - Adds admonition block-styled content to Obsidian.md
 - [jmilldotdev/obsidian-wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Grabs information from Wikipedia for a topic and brings it into Obsidian notes
 - [kometenstaub/metadata-extractor](https://github.com/kometenstaub/metadata-extractor) - Obsidian Plugin that provides metadata export for use with third-party apps.
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) - Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
