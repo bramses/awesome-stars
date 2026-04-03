@@ -1846,7 +1846,6 @@
 ## machine-learning 
 
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
-- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Transparent cognitive sandbox: Raise digital squids - watch brains grow & rewire themselves through Hebbian learning & Neurogenesis
 - [segment-any-text/wtpsplit](https://github.com/segment-any-text/wtpsplit) - Toolkit to segment text into sentences or other semantic units in a robust, efficient and adaptable way.
 - [GantMan/nsfw_model](https://github.com/GantMan/nsfw_model) - Keras model of NSFW detector
 - [ewfian/faiss-node](https://github.com/ewfian/faiss-node) - Node.js bindings for faiss
