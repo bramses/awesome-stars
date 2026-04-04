@@ -423,6 +423,7 @@
 - [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 - [pjeby/hot-reload](https://github.com/pjeby/hot-reload) - Automatically reload Obsidian plugins in development when their files are changed
 - [noonesimg/obsidian-audio-player](https://github.com/noonesimg/obsidian-audio-player) - audio player plugin with bookmarks for Obsidian.md
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [milkythemes/lucky-post](https://github.com/milkythemes/lucky-post) - Generate random post links for Ghost
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [vincentmvdm/for-me-page](https://github.com/vincentmvdm/for-me-page) - Arc Boost that removes bad tweets using AI.
@@ -1390,7 +1391,6 @@
 - [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - Obsidian Plugin for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [limesdotpink/dcbadge](https://github.com/limesdotpink/dcbadge) - a customizable badge displaying the online status of a discord account, or the member count of a server.
 - [symphony-hq/symphony](https://github.com/symphony-hq/symphony) - Write programs you can talk to.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -1522,7 +1522,7 @@
 - [mcndt/obsidian-quickshare](https://github.com/mcndt/obsidian-quickshare) - 📝 An Obsidian plugin for sharing encrypted Markdown notes on the web. Zero configuration required.
 - [fyears/weather-fetcher](https://github.com/fyears/weather-fetcher) - 
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
-- [phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
+- [jsmorabito/obsidian-commander](https://github.com/jsmorabito/obsidian-commander) - Commander - Obsidian Plugin | Add Commands to every part of Obsidian's user interface
 - [jglev/obsidian-redirect](https://github.com/jglev/obsidian-redirect) - An Obsidian plugin for adding aliases to any file
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
 - [textlint/textlint](https://github.com/textlint/textlint) - textlint is the pluggable linter for natural language text.
@@ -1746,7 +1746,7 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
-- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
+- [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [LekoArts/gatsby-starter-portfolio-cara](https://github.com/LekoArts/gatsby-starter-portfolio-cara) - Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
