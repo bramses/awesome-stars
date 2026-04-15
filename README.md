@@ -141,7 +141,7 @@
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-- [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
+- [sbarex/QLSyntaxHighlight](https://github.com/sbarex/QLSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [OpenSpace/OpenSpace](https://github.com/OpenSpace/OpenSpace) - This is the official GitHub repository for OpenSpace: an open source astrovisualization project. For instructions on how to build and run OpenSpace, see the Getting Started Guides on the wiki page at 
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
@@ -1341,7 +1341,7 @@
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [Drarig29/brackets-viewer.js](https://github.com/Drarig29/brackets-viewer.js) - A simple library to display tournament brackets (round-robin, single elimination, double elimination).
 - [harshbhandarivs/nextjs-keycloak](https://github.com/harshbhandarivs/nextjs-keycloak) - Configure Authenitcation in Nextjs 13 App router Applicationwith Keycloak
 - [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - JavaScript/TypeScript client for Meilisearch
