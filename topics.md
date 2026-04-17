@@ -110,6 +110,7 @@
 - [google](#google)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hackathon](#hackathon)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -261,6 +262,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
 - [zig](#zig)
@@ -299,6 +301,7 @@
 
 ## ai 
 
+- [macOS26/Agent](https://github.com/macOS26/Agent) - Any AI, full control of your Mac. 17 LLM providers (Claude, GPT, Gemini, Ollama, Apple Intelligence, and more) wired into a native Mac app that writes code, builds Xcode, manages git, automates Safari
 - [joseairosa/recall](https://github.com/joseairosa/recall) - Persistent cross-session memory for Claude & AI agents. Self-host on Redis/Valkey, or use the managed SaaS at recallmcp.com.
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -432,6 +435,7 @@
 
 ## automation 
 
+- [macOS26/Agent](https://github.com/macOS26/Agent) - Any AI, full control of your Mac. 17 LLM providers (Claude, GPT, Gemini, Ollama, Apple Intelligence, and more) wired into a native Mac app that writes code, builds Xcode, manages git, automates Safari
 - [Planetary-Computers/autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -1329,6 +1333,10 @@
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [sojamo/controlp5](https://github.com/sojamo/controlp5) - A gui library for processing.org
 
+## hack 
+
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
+
 ## hackathon 
 
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
@@ -1548,6 +1556,7 @@
 
 ## javascript 
 
+- [macOS26/Agent](https://github.com/macOS26/Agent) - Any AI, full control of your Mac. 17 LLM providers (Claude, GPT, Gemini, Ollama, Apple Intelligence, and more) wired into a native Mac app that writes code, builds Xcode, manages git, automates Safari
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [ashconnell/physx-js](https://github.com/ashconnell/physx-js) - PhysX for JavaScript
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
@@ -1803,6 +1812,7 @@
 
 ## llm 
 
+- [macOS26/Agent](https://github.com/macOS26/Agent) - Any AI, full control of your Mac. 17 LLM providers (Claude, GPT, Gemini, Ollama, Apple Intelligence, and more) wired into a native Mac app that writes code, builds Xcode, manages git, automates Safari
 - [joseairosa/recall](https://github.com/joseairosa/recall) - Persistent cross-session memory for Claude & AI agents. Self-host on Redis/Valkey, or use the managed SaaS at recallmcp.com.
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
@@ -1896,6 +1906,7 @@
 
 ## macos 
 
+- [macOS26/Agent](https://github.com/macOS26/Agent) - Any AI, full control of your Mac. 17 LLM providers (Claude, GPT, Gemini, Ollama, Apple Intelligence, and more) wired into a native Mac app that writes code, builds Xcode, manages git, automates Safari
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - App that shows how full the International Space Station's urine tank is in real time, available for macOS (menu bar), iOS, watchOS and visionOS
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
@@ -1964,6 +1975,7 @@
 
 ## mcp 
 
+- [macOS26/Agent](https://github.com/macOS26/Agent) - Any AI, full control of your Mac. 17 LLM providers (Claude, GPT, Gemini, Ollama, Apple Intelligence, and more) wired into a native Mac app that writes code, builds Xcode, manages git, automates Safari
 - [joseairosa/recall](https://github.com/joseairosa/recall) - Persistent cross-session memory for Claude & AI agents. Self-host on Redis/Valkey, or use the managed SaaS at recallmcp.com.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -2906,7 +2918,7 @@
 - [StenographyDev/autopilot-vsc](https://github.com/StenographyDev/autopilot-vsc) - 
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
 - [queer/outage.bingo](https://github.com/queer/outage.bingo) - https://outage.bingo
-- [sbarex/QLSyntaxHighlight](https://github.com/sbarex/QLSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
+- [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [agemagician/CodeTrans](https://github.com/agemagician/CodeTrans) - Pretrained Language Models for Source code
 - [tholman/emoji-intensifies](https://github.com/tholman/emoji-intensifies) - A quick and simple tool to make shaky "intensifies" emoji.
 - [riscmkv/NNTwitterBot](https://github.com/riscmkv/NNTwitterBot) - 
@@ -3791,6 +3803,7 @@
 
 ## swift 
 
+- [macOS26/Agent](https://github.com/macOS26/Agent) - Any AI, full control of your Mac. 17 LLM providers (Claude, GPT, Gemini, Ollama, Apple Intelligence, and more) wired into a native Mac app that writes code, builds Xcode, manages git, automates Safari
 - [SwiftGraphs/Grape](https://github.com/SwiftGraphs/Grape) - A Swift library for graph visualization and efficient force simulation.
 - [rryam/VecturaKit](https://github.com/rryam/VecturaKit) - Swift-based vector database for on-device RAG using MLTensor and MLX Embedders
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
@@ -3821,6 +3834,7 @@
 
 ## swiftui 
 
+- [macOS26/Agent](https://github.com/macOS26/Agent) - Any AI, full control of your Mac. 17 LLM providers (Claude, GPT, Gemini, Ollama, Apple Intelligence, and more) wired into a native Mac app that writes code, builds Xcode, manages git, automates Safari
 - [SwiftGraphs/Grape](https://github.com/SwiftGraphs/Grape) - A Swift library for graph visualization and efficient force simulation.
 - [tikimcfee/LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render source code in 3D, for macOS and iOS.
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
@@ -4185,6 +4199,10 @@
 ## wordpress 
 
 - [algolia/algoliasearch-wordpress](https://github.com/algolia/algoliasearch-wordpress) - ❌🗑🙅‍♂️ Algolia Search plugin for WordPress is no longer supported. Please use our API client guide instead
+
+## xcode 
+
+- [macOS26/Agent](https://github.com/macOS26/Agent) - Any AI, full control of your Mac. 17 LLM providers (Claude, GPT, Gemini, Ollama, Apple Intelligence, and more) wired into a native Mac app that writes code, builds Xcode, manages git, automates Safari
 
 ## xml 
 
