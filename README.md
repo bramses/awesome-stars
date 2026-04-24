@@ -1273,7 +1273,7 @@
 
 ## Swift 
 
-- [macOS26/Agent](https://github.com/macOS26/Agent) - Any AI, replaces Claude Code, Cursor, Cline, Open Claw. 17+ LLM providers (Claude, OpenAI, Gemini, Ollama, Zai, HF, Qwen) wired into a native Mac app that writes code, builds Xcode projects, bumps ver
+- [macOS26/Agent](https://github.com/macOS26/Agent) - Any AI, replaces Claude Code, Cursor, Open Claw. 17+ LLM providers (Claude, OpenAI, Gemini, Ollama, Zai, HF, Qwen) wired into a native Mac app that writes code, builds Xcode projects, bumps versions, 
 - [adamlyttleapps/notchy](https://github.com/adamlyttleapps/notchy) - 
 - [SwiftGraphs/Grape](https://github.com/SwiftGraphs/Grape) - A Swift library for graph visualization and efficient force simulation.
 - [rryam/VecturaKit](https://github.com/rryam/VecturaKit) - Swift-based vector database for on-device RAG using MLTensor and MLX Embedders
