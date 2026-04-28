@@ -163,7 +163,7 @@
 
 ## CMake 
 
-- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
+- [OpenMoonRay/openmoonray](https://github.com/OpenMoonRay/openmoonray) - MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.
 
 ## CSS 
 
@@ -918,7 +918,7 @@
 - [clarkdever/usb-a-time-wasted](https://github.com/clarkdever/usb-a-time-wasted) - 
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [facebookresearch/MILS](https://github.com/facebookresearch/MILS) - Code release for "LLMs can see and hear without any training"
-- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Transparent cognitive sandbox: Raise digital squids - watch brains grow & rewire themselves through Hebbian learning & Neurogenesis
+- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Transparent cognitive sandbox disguised as a Tamagotchi-style digital pet - watch brains grow & rewire through Hebbian learning & Neurogenesis
 - [segment-any-text/wtpsplit](https://github.com/segment-any-text/wtpsplit) - Toolkit to segment text into sentences or other semantic units in a robust, efficient and adaptable way.
 - [mirth/chonky](https://github.com/mirth/chonky) - Fully neural approach for text chunking
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.
