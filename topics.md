@@ -2884,7 +2884,6 @@
 - [microsoft/NUWA](https://github.com/microsoft/NUWA) - A unified 3D Transformer Pipeline for visual synthesis
 - [naotokui/Rhythm2Bass_M4L](https://github.com/naotokui/Rhythm2Bass_M4L) - 
 - [parallelinnovation/Quick-note-entry-for-Obsidian](https://github.com/parallelinnovation/Quick-note-entry-for-Obsidian) - A simple one-line quick entry GUI for your Obsidian daily notes in markdown format.
-- [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
 - [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [japa/runner](https://github.com/japa/runner) - Standalone test runner built on top of japa core
