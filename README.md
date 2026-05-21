@@ -1274,7 +1274,7 @@
 
 ## Swift 
 
-- [macOS26/Agent](https://github.com/macOS26/Agent) - A native macOS AI 🦾 Agent! that works with any LLM [local and cloud], [open source and paid] Claude, OpenAI, Gemini, Ollama, Qwen, Hugging Face, and 12 more. Writes code, builds Xcode projects, bumps 
+- [macOS26/Agent](https://github.com/macOS26/Agent) - Agent! Is a native macOS App that works with any LLM [local and cloud], [open source and paid] Claude, OpenAI, Gemini, Ollama, Qwen, Hugging Face, and 12 more. Writes code, builds Xcode projects, bump
 - [adamlyttleapps/notchy](https://github.com/adamlyttleapps/notchy) - 
 - [SwiftGraphs/Grape](https://github.com/SwiftGraphs/Grape) - A Swift library for graph visualization and efficient force simulation.
 - [rryam/VecturaKit](https://github.com/rryam/VecturaKit) - Swift-based vector database for on-device RAG using MLTensor and MLX Embedders
