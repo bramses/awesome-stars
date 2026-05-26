@@ -2687,7 +2687,7 @@
 - [joelparkerhenderson/oblique-strategies](https://github.com/joelparkerhenderson/oblique-strategies) - Oblique Strategies: ideas for creative lateral thinking
 - [cursor/cursor](https://github.com/cursor/cursor) - 
 - [jn3008/processing-projects](https://github.com/jn3008/processing-projects) - Source code for some of my processing projects
-- [symphony-hq/symphony](https://github.com/symphony-hq/symphony) - Write programs you can talk to.
+- [symphony-hq/symphony](https://github.com/symphony-hq/symphony) - write programs you can talk to
 - [mgmeyers/obsidian-copy-block-link](https://github.com/mgmeyers/obsidian-copy-block-link) - Get links to blocks and headings from Obsidian's right click menu.
 - [milkythemes/lucky-post](https://github.com/milkythemes/lucky-post) - Generate random post links for Ghost
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
