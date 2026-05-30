@@ -132,7 +132,6 @@
 - [Vhonowslend/StreamFX-Public](https://github.com/Vhonowslend/StreamFX-Public) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
 - [bbc/audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files
 - [tiltedphoques/TiltedEvolution](https://github.com/tiltedphoques/TiltedEvolution) - Skyrim mod to play online!
-- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
 - [AgoraIO/RTM](https://github.com/AgoraIO/RTM) - 
 - [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
@@ -833,6 +832,7 @@
 - [faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage) - Obsidian homepage - Minimal and aesthetic template (with my unique features)
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
 - [martinschilliger/Alfred-QR-Code](https://github.com/martinschilliger/Alfred-QR-Code) - Create a QR-Code from Alfred
+- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - [arduino/reference-en](https://github.com/arduino/reference-en) - Editable source for the Arduino Reference
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [alfredapp/shortcuts-workflow](https://github.com/alfredapp/shortcuts-workflow) - Run installed macOS shortcuts
@@ -1277,7 +1277,7 @@
 
 ## Swift 
 
-- [macOS26/Agent](https://github.com/macOS26/Agent) - Agent! Is a native macOS App that works with any LLM [local and cloud], [open source and paid] Claude, OpenAI, Gemini, Ollama, Qwen, Hugging Face, and 12 more. Writes code, builds Xcode projects, bump
+- [macOS26/Agent](https://github.com/macOS26/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
 - [adamlyttleapps/notchy](https://github.com/adamlyttleapps/notchy) - 
 - [SwiftGraphs/Grape](https://github.com/SwiftGraphs/Grape) - A Swift library for graph visualization and efficient force simulation.
 - [rryam/VecturaKit](https://github.com/rryam/VecturaKit) - Swift-based vector database for on-device RAG using MLTensor and MLX Embedders
@@ -1327,7 +1327,7 @@
 ## TypeScript 
 
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
-- [openplaud/openplaud](https://github.com/openplaud/openplaud) - Self-hosted AI transcription interface for Plaud Note devices
+- [riffado/riffado](https://github.com/riffado/riffado) - Self-hosted AI transcription interface for Plaud Note devices
 - [your-commonbase/park-commonbase](https://github.com/your-commonbase/park-commonbase) - See what the park thinks!
 - [T3-Content/claude-blocker](https://github.com/T3-Content/claude-blocker) - 
 - [bramses/bookshelf-bookclub](https://github.com/bramses/bookshelf-bookclub) - 
