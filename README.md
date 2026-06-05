@@ -1167,7 +1167,7 @@
 
 ## Ruby 
 
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, Azure, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, xAI, GPUStack & OpenAI compatible APIs. Agents, Chat, Vision, Audio, 
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow in between.
 - [mawise/bookshelf](https://github.com/mawise/bookshelf) - 3D animated bookshelf for ebooks
 - [yash-dani/logstash-filter-pilar](https://github.com/yash-dani/logstash-filter-pilar) - A logstash filter for Log Parsing using the PILAR method.
 - [will/slacktyping](https://github.com/will/slacktyping) - i'm typing when you're typing
