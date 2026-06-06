@@ -303,7 +303,7 @@
 ## agents 
 
 - [automation-ai-labs/mcp-link](https://github.com/automation-ai-labs/mcp-link) - Convert Any OpenAPI V3 API to MCP Server
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow in between.
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [kingjulio8238/Memary](https://github.com/kingjulio8238/Memary) - The Open Source Memory Layer For Autonomous Agents
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -312,7 +312,7 @@
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 
 ## ai 
 
@@ -323,7 +323,7 @@
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [mirth/chonky](https://github.com/mirth/chonky) - Fully neural approach for text chunking
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow in between.
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [PageAI-Pro/page-ui](https://github.com/PageAI-Pro/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
@@ -357,7 +357,7 @@
 - [luxonis/depthai](https://github.com/luxonis/depthai) - DepthAI
 - [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes) - State of AI
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
@@ -386,7 +386,7 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [LordGrimmauld/aw-watcher-obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) - Obsidian plugin to track user activity with ActivityWatch
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
@@ -588,7 +588,7 @@
 ## chatgpt 
 
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow in between.
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
@@ -605,7 +605,7 @@
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
@@ -1393,7 +1393,7 @@
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [alvaromontoro/almond.css](https://github.com/alvaromontoro/almond.css) - Collection of CSS styles to make simple websites look nicer
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [pyvista/pyvista](https://github.com/pyvista/pyvista) - 3D visualization and mesh analysis for science and engineering
 - [BeauNouvelle/SimpleCheckbox](https://github.com/BeauNouvelle/SimpleCheckbox) - A simple Checkbox
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -1831,7 +1831,7 @@
 - [joseairosa/recall](https://github.com/joseairosa/recall) - Persistent cross-session memory for Claude & AI agents. Self-host on Redis/Valkey, or use the managed SaaS at recallmcp.com.
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow in between.
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
@@ -1997,7 +1997,7 @@
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [automation-ai-labs/mcp-link](https://github.com/automation-ai-labs/mcp-link) - Convert Any OpenAPI V3 API to MCP Server
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
 
 ## microservices 
@@ -2047,7 +2047,7 @@
 
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -2257,7 +2257,7 @@
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals.
 - [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
-- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [microtower00/obsidian-ai-images](https://github.com/microtower00/obsidian-ai-images) - This plugin allows you to generate images using AI from the obsidian editor
@@ -2327,6 +2327,7 @@
 - [ImaginaryProgramming/obsidian-vault-transfer](https://github.com/ImaginaryProgramming/obsidian-vault-transfer) - Transfers a note from one vault to another.
 - [mirnovov/obsidian-homepage](https://github.com/mirnovov/obsidian-homepage) - An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.
 - [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [microtower00/obsidian-ai-images](https://github.com/microtower00/obsidian-ai-images) - This plugin allows you to generate images using AI from the obsidian editor
@@ -2417,7 +2418,7 @@
 - [polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal) - Integrate consoles, shells, and terminals.
 - [mirnovov/obsidian-homepage](https://github.com/mirnovov/obsidian-homepage) - An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.
 - [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
-- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 - [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [microtower00/obsidian-ai-images](https://github.com/microtower00/obsidian-ai-images) - This plugin allows you to generate images using AI from the obsidian editor
 - [ryanjamurphy/lumberjack-obsidian](https://github.com/ryanjamurphy/lumberjack-obsidian) - Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency and get right to writing.
@@ -2505,7 +2506,7 @@
 
 ## openai 
 
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow in between.
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.
 - [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
 - [nomic-ai/semantic-search-app-template](https://github.com/nomic-ai/semantic-search-app-template) - Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain,  OpenAI and FastAPI
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -3267,7 +3268,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
@@ -3482,12 +3483,12 @@
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
 
 ## rails 
 
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow in between.
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.
 - [rails/webpacker](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 
@@ -3666,7 +3667,7 @@
 
 ## ruby 
 
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow in between.
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 
@@ -3884,7 +3885,7 @@
 
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-- [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
+- [grafana-cold-storage/oncall](https://github.com/grafana-cold-storage/oncall) - Developer-friendly incident response with brilliant Slack integration
 
 ## tensorflow 
 
