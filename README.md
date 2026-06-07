@@ -1279,7 +1279,7 @@
 
 - [macOS26/Agent](https://github.com/macOS26/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
 - [adamlyttleapps/notchy](https://github.com/adamlyttleapps/notchy) - 
-- [SwiftGraphs/Grape](https://github.com/SwiftGraphs/Grape) - A Swift library for graph visualization and efficient force simulation.
+- [li3zhen1/Grape](https://github.com/li3zhen1/Grape) - A Swift library for graph visualization and efficient force simulation.
 - [rryam/VecturaKit](https://github.com/rryam/VecturaKit) - Swift-based vector database for on-device RAG using MLTensor and MLX Embedders
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [ZachNagengast/similarity-search-kit](https://github.com/ZachNagengast/similarity-search-kit) - 🔎 SimilaritySearchKit is a Swift package providing on-device text embeddings and semantic search functionality for iOS and macOS applications.
