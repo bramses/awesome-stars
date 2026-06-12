@@ -89,6 +89,7 @@
 - [jirutka/smlar](https://github.com/jirutka/smlar) - PostgreSQL extension for an effective similarity search || mirror of git://sigaev.ru/smlar.git || see https://www.pgcon.org/2012/schedule/track/Hacking/443.en.html
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [jamriska/ebsynth](https://github.com/jamriska/ebsynth) - Fast Example-based Image Synthesis and Style Transfer
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 
@@ -103,7 +104,6 @@
 - [KhronosGroup/UnityGLTF](https://github.com/KhronosGroup/UnityGLTF) - Runtime glTF 2.0 Loader for Unity3D
 - [neon-izm/EasyMotionRecorder](https://github.com/neon-izm/EasyMotionRecorder) - Unityエディタ上でVRIKなどのモーションキャプチャをしたHumanoidキャラクターのモーションを記録, 再生をするスクリプト
 - [digital-standard/ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda) - Unity sample of 3D pose estimation using Barracuda
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [IRCSS/Procedural-painting](https://github.com/IRCSS/Procedural-painting) - Procedural painting algorithms in Unity 3d with compute shaders based on genetic evolution algorithms
 - [Unity-Technologies/arfoundation-demos](https://github.com/Unity-Technologies/arfoundation-demos) - AR Foundation demo projects
 - [dilmerv/UnityARFoundationEssentials](https://github.com/dilmerv/UnityARFoundationEssentials) - AR Foundation examples created with Unity and ARKit
@@ -225,7 +225,7 @@
 
 - [Amrit0991/meilisearch-docker-render](https://github.com/Amrit0991/meilisearch-docker-render) - Deploy Meilisearch to render.com
 - [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
 ## EJS 
