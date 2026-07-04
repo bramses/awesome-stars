@@ -983,7 +983,7 @@
 - [scherroman/mugen](https://github.com/scherroman/mugen) - A command-line music video generator based on rhythm
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [alantech/marsha](https://github.com/alantech/marsha) - Marsha is a functional, higher-level, English-based programming language that gets compiled into tested Python software by an LLM
-- [anthonyjdella/twilio-schedule-message](https://github.com/anthonyjdella/twilio-schedule-message) - ⏰ Python code showing you how to schedule a message with Twilio.
+- [agithony/twilio-schedule-message](https://github.com/agithony/twilio-schedule-message) - ⏰ Python code showing you how to schedule a message with Twilio.
 - [adhikary97/Sharetape-Open-Source](https://github.com/adhikary97/Sharetape-Open-Source) - Script that takes any long form video or podcast and outputs clips for social media
 - [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
 - [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
@@ -1774,7 +1774,7 @@
 - [spencercap/vue-2-ext](https://github.com/spencercap/vue-2-ext) - 
 - [spencercap/vue-3-ext](https://github.com/spencercap/vue-3-ext) - vue 3 based chrome extension in typescript
 - [ynab/ynab-api-starter-kit](https://github.com/ynab/ynab-api-starter-kit) - Quickly get started developing an application with the YNAB API
-- [LayoutitStudio/layoutit-grid](https://github.com/LayoutitStudio/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
+- [layoutit/layoutit-grid](https://github.com/layoutit/layoutit-grid) - Layoutit grid is a CSS Grid layout generator. Quickly draw down web pages layouts with our clean editor, and get HTML and CSS code to quickstart your next project.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 
 ## Wolfram Language 
