@@ -1328,6 +1328,7 @@
 
 ## TypeScript 
 
+- [bramses/reading-is-a-system](https://github.com/bramses/reading-is-a-system) - 
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [riffado/riffado](https://github.com/riffado/riffado) - Self-hosted AI transcription interface for Plaud Note devices
 - [your-commonbase/park-commonbase](https://github.com/your-commonbase/park-commonbase) - See what the park thinks!
