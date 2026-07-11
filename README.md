@@ -763,7 +763,7 @@
 ## Makefile 
 
 - [hauselin/obsidian-alfred](https://github.com/hauselin/obsidian-alfred) - Alfred workflow for Obsidian note-taking app. Open vaults and files in Obsidian.
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 - [nbeaver/why-linux-is-better](https://github.com/nbeaver/why-linux-is-better) - Objective reasons to prefer Linux to Windows.
 
 ## Markdown 
@@ -864,7 +864,6 @@
 - [memoakten/eco-nft](https://github.com/memoakten/eco-nft) - A basic guide to ecofriendly CryptoArt (NFTs)
 - [tidalcycles/Dirt-Samples](https://github.com/tidalcycles/Dirt-Samples) - Set of samples used in Dirt
 - [CreativeCodeBerlin/creative-coding-minilist](https://github.com/CreativeCodeBerlin/creative-coding-minilist) - 
-- [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [zoom/zoom-sdk-ios](https://github.com/zoom/zoom-sdk-ios) - Zoom iOS SDK
 - [UnrealEngineHTML5/Documentation](https://github.com/UnrealEngineHTML5/Documentation) - 
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
@@ -972,7 +971,7 @@
 - [epfLLM/meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs).
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast) - 
+- [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) - 
 - [widgetti/wanderlust](https://github.com/widgetti/wanderlust) - Wanderlust OpenAI example using Solara
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 - [supabase/supabase-py](https://github.com/supabase/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
@@ -1213,6 +1212,7 @@
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) - 🤠  Home to Wrangler v1 (deprecated)
+- [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
