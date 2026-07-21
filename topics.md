@@ -1365,7 +1365,7 @@
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
-- [Lartu/p5.clickable](https://github.com/Lartu/p5.clickable) - Event driven, easy-to-use button library for P5.js 👆
+- [Lartu/p5.clickable](https://github.com/Lartu/p5.clickable) - Easy-to-use button library for P5.js 👆🐰
 - [bramses/orbit-levels-p5-visualization](https://github.com/bramses/orbit-levels-p5-visualization) - Solar System viz for Orbit!
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [sojamo/controlp5](https://github.com/sojamo/controlp5) - A gui library for processing.org
@@ -1823,7 +1823,7 @@
 - [mattlisiv/newsapi-python](https://github.com/mattlisiv/newsapi-python) - A Python Client for News API
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-- [Lartu/p5.clickable](https://github.com/Lartu/p5.clickable) - Event driven, easy-to-use button library for P5.js 👆
+- [Lartu/p5.clickable](https://github.com/Lartu/p5.clickable) - Easy-to-use button library for P5.js 👆🐰
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 
@@ -4066,7 +4066,7 @@
 - [PageAI-Pro/page-ui](https://github.com/PageAI-Pro/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [goblindegook/littlefoot](https://github.com/goblindegook/littlefoot) - Footnotes without the footprint.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [Lartu/p5.clickable](https://github.com/Lartu/p5.clickable) - Event driven, easy-to-use button library for P5.js 👆
+- [Lartu/p5.clickable](https://github.com/Lartu/p5.clickable) - Easy-to-use button library for P5.js 👆🐰
 - [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
