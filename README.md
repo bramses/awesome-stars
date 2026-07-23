@@ -1329,6 +1329,7 @@
 
 ## TypeScript 
 
+- [nyblnet/bento](https://github.com/nyblnet/bento) - 
 - [bramses/reading-is-a-system](https://github.com/bramses/reading-is-a-system) - 
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [riffado/riffado](https://github.com/riffado/riffado) - Self-hosted AI transcription interface for Plaud Note devices
