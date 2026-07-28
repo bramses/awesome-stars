@@ -268,7 +268,6 @@
 - [MikeDaniel18/oh-heck-cli](https://github.com/MikeDaniel18/oh-heck-cli) - 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -334,6 +333,7 @@
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [davatron5000/FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
 - [TakashiYoshinaga/Oculus-Quest-Input-Sample](https://github.com/TakashiYoshinaga/Oculus-Quest-Input-Sample) - Sample for getting input data from controllers of Oculus Quest with A-Frame
+- [tagtime/TagTime](https://github.com/tagtime/TagTime) - Stochastic Time Tracking for Space Cadets
 - [newsdev/archieml.org](https://github.com/newsdev/archieml.org) - The archieml.org website and hub for specification development
 - [davatron5000/FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
 - [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
@@ -603,7 +603,6 @@
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
 - [tshaddix/webext-redux](https://github.com/tshaddix/webext-redux) - A set of utilities for building Redux applications in Web Extensions.
-- [satendra02/react-chrome-extension](https://github.com/satendra02/react-chrome-extension) - chrome extension boilerplate with ReactJs using inject page strategy
 - [namuorg/extension-starter-kit](https://github.com/namuorg/extension-starter-kit) - Starter kit for building Chrome/Firefox extensions
 - [auth0/lock](https://github.com/auth0/lock) - Auth0's signin solution
 - [KartikTalwar/gmail.js](https://github.com/KartikTalwar/gmail.js) - Gmail JavaScript API
@@ -921,7 +920,7 @@
 - [clarkdever/usb-a-time-wasted](https://github.com/clarkdever/usb-a-time-wasted) - 
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [facebookresearch/MILS](https://github.com/facebookresearch/MILS) - Code release for "LLMs can see and hear without any training"
-- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Transparent cognitive sandbox disguised as a Tamagotchi-style digital pet - watch brains grow & rewire through Hebbian learning & Neurogenesis
+- [ViciousSquid/Dosidicus](https://github.com/ViciousSquid/Dosidicus) - Raise a neural network as a pet - a transparent cognitive sandbox where a digital squid learns, grows, and rewires itself via Hebbian learning & Neurogenesis
 - [segment-any-text/wtpsplit](https://github.com/segment-any-text/wtpsplit) - Toolkit to segment text into sentences or other semantic units in a robust, efficient and adaptable way.
 - [mirth/chonky](https://github.com/mirth/chonky) - Fully neural approach for text chunking
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.
@@ -1072,6 +1071,7 @@
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
 - [pieeg-club/EEGwithRaspberryPI](https://github.com/pieeg-club/EEGwithRaspberryPI) - Not supported. Measure 8 EEG channels with Shield PiEEG and RaspberryPi in C library
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [lanewinfield/zoomout](https://github.com/lanewinfield/zoomout) - a pull switch (or BYO button) that gets you out of video calls, quick
@@ -1713,6 +1713,7 @@
 - [HeyMaslo/companion-kit](https://github.com/HeyMaslo/companion-kit) - This is the official repository of the maslo companion kit
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
+- [satendra02/react-chrome-extension](https://github.com/satendra02/react-chrome-extension) - chrome extension boilerplate with ReactJs using inject page strategy
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug) - A DAP-compatible JavaScript debugger. Used in VS Code, VS, + more
 - [microsoft/vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug) - Debug your JavaScript code running in Google Chrome from VS Code.
@@ -1783,7 +1784,6 @@
 ## Wolfram Language 
 
 - [un1crom/beautiful-integers](https://github.com/un1crom/beautiful-integers) - i am going to find or create beautiful numbers
-- [tagtime/TagTime](https://github.com/tagtime/TagTime) - Stochastic Time Tracking for Space Cadets
 
 
 ## License
