@@ -2977,7 +2977,7 @@
 - [eliben/pycparser](https://github.com/eliben/pycparser) - :snake: Complete C99 parser in pure Python
 - [maligree/python-ast-explorer](https://github.com/maligree/python-ast-explorer) - The code behind python-ast-explorer.com
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
-- [dsherret/ts-ast-viewer](https://github.com/dsherret/ts-ast-viewer) - TypeScript AST viewer.
+- [dsherret/ts-ast-viewer](https://github.com/dsherret/ts-ast-viewer) - TypeScript AST viewer
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [veggiedefender/projectordino](https://github.com/veggiedefender/projectordino) - Play the Chrome T-Rex game by physically jumping
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
