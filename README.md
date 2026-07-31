@@ -1658,7 +1658,7 @@
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [tunnelvisionlabs/antlr4ts](https://github.com/tunnelvisionlabs/antlr4ts) - Optimized TypeScript target for ANTLR 4
 - [pascalgn/java-ast](https://github.com/pascalgn/java-ast) - Java Parser for JavaScript/TypeScript (based on antlr4ts)
-- [dsherret/ts-ast-viewer](https://github.com/dsherret/ts-ast-viewer) - TypeScript AST viewer.
+- [dsherret/ts-ast-viewer](https://github.com/dsherret/ts-ast-viewer) - TypeScript AST viewer
 - [algorand/js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) - The official JavaScript SDK for Algorand.
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
