@@ -2276,7 +2276,7 @@
 - [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
-- [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [community-archive/obsidian-kanban](https://github.com/community-archive/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [microtower00/obsidian-ai-images](https://github.com/microtower00/obsidian-ai-images) - This plugin allows you to generate images using AI from the obsidian editor
 - [jjmaldonis/obsidian-audio-notes](https://github.com/jjmaldonis/obsidian-audio-notes) - Easily take notes on podcasts and other audio files using Obsidian Audio Notes.
 - [NicklasVraa/Obsidian-academic-export](https://github.com/NicklasVraa/Obsidian-academic-export) - Turn your obsidian notes into academic papers.
@@ -2288,7 +2288,7 @@
 - [AlexW00/obsidian-note-linker](https://github.com/AlexW00/obsidian-note-linker) - 🔗 Automatically link your Obsidian notes.
 - [Stardusten/ob-table-enhancer](https://github.com/Stardusten/ob-table-enhancer) - Manipulate markdown tables without touching the source code in Obsidian.
 - [tadashi-aikawa/obsidian-various-complements-plugin](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) - This plugin for Obsidian enables you complete words like the auto-completion of IDE.
-- [obsidian-community/obsidian-full-calendar](https://github.com/obsidian-community/obsidian-full-calendar) - Keep events and manage your calendar alongside all your other notes in your Obsidian Vault.
+- [community-archive/obsidian-full-calendar](https://github.com/community-archive/obsidian-full-calendar) - Keep events and manage your calendar alongside all your other notes in your Obsidian Vault.
 - [marcjulianschwarz/obsidian-file-link](https://github.com/marcjulianschwarz/obsidian-file-link) - A plugin for the note taking app Obsidian to add better external file links to your notes.
 - [IdreesInc/Waypoint](https://github.com/IdreesInc/Waypoint) - Obsidian plugin that gives you the power to generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags!
 - [cuken/obsidian-weave](https://github.com/cuken/obsidian-weave) - Obsidian Vault Template for Software Developers/Managers working in the corporate world.
@@ -2346,7 +2346,7 @@
 - [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
-- [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [community-archive/obsidian-kanban](https://github.com/community-archive/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [microtower00/obsidian-ai-images](https://github.com/microtower00/obsidian-ai-images) - This plugin allows you to generate images using AI from the obsidian editor
 - [selfire1/obsidian-publish-css](https://github.com/selfire1/obsidian-publish-css) - The CSS for my Obsdian publish site.
 - [ryanjamurphy/lumberjack-obsidian](https://github.com/ryanjamurphy/lumberjack-obsidian) - Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency and get right to writing.
@@ -2404,7 +2404,7 @@
 - [obsidianmd/obsidian-help](https://github.com/obsidianmd/obsidian-help) - Help documentation for Obsidian.
 - [jplattel/obsidian-clipper](https://github.com/jplattel/obsidian-clipper) - A Chrome extension that easily clips selections to Obsidian
 - [colineckert/obsidian-things](https://github.com/colineckert/obsidian-things) - An Obsidian theme inspired by the beautifully-designed app, Things.
-- [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
+- [community-archive/obsidian-hub](https://github.com/community-archive/obsidian-hub) - Resource hub for Obsidian resources.
 - [jdanielmourao/obsidian-sanctum](https://github.com/jdanielmourao/obsidian-sanctum) - A minimalist theme for Obsidian.md, with the aim of creating a serene space of retreat, for thought and uninterrupted work.
 - [javalent/obsidian-leaflet](https://github.com/javalent/obsidian-leaflet) - Adds interactive maps to Obsidian.md using Leaflet.js
 - [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Work with dates in natural language in Obsidian
@@ -2436,7 +2436,7 @@
 - [mirnovov/obsidian-homepage](https://github.com/mirnovov/obsidian-homepage) - An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.
 - [FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe) - Plugin for Obsidian.md to convert a selected URL to an iframe.
 - [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.
-- [obsidian-community/obsidian-kanban](https://github.com/obsidian-community/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [community-archive/obsidian-kanban](https://github.com/community-archive/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
 - [microtower00/obsidian-ai-images](https://github.com/microtower00/obsidian-ai-images) - This plugin allows you to generate images using AI from the obsidian editor
 - [ryanjamurphy/lumberjack-obsidian](https://github.com/ryanjamurphy/lumberjack-obsidian) - Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency and get right to writing.
 - [djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription) - Obsidian plugin to create high-quality transcriptions from markdown linked audio files
@@ -2599,7 +2599,7 @@
 - [marieooq/neo-brutalism-ui-library](https://github.com/marieooq/neo-brutalism-ui-library) - 
 - [your-commonbase/commonbase](https://github.com/your-commonbase/commonbase) - Store, Search, Synthesize and Share your Personal Library
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
-- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - The Open Source Agent Control Plane
+- [omnara-ai/omnara](https://github.com/omnara-ai/omnara) - The API for production-grade agents
 - [Nicholas-L-Johnson/flip-card](https://github.com/Nicholas-L-Johnson/flip-card) - 
 - [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos) - A framework for building native macOS apps with React.
 - [meilisearch/raycast-extensions](https://github.com/meilisearch/raycast-extensions) - Everything you need to extend Raycast.
