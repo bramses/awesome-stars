@@ -324,7 +324,7 @@
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [mirth/chonky](https://github.com/mirth/chonky) - Fully neural approach for text chunking
 - [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One delightful Ruby framework for every major AI provider. Build AI agents, chatbots, RAG apps, and multimodal workflows in beautiful, expressive code.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [PageAI-Pro/page-ui](https://github.com/PageAI-Pro/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -368,7 +368,7 @@
 
 ## ai-agents 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -393,7 +393,7 @@
 ## android 
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-- [kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome) - Web Server for Chrome (2026 Relaunch)
+- [kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome) - 200 OK Web Server
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -785,7 +785,7 @@
 
 ## crawler 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [DataHenHQ/till](https://github.com/DataHenHQ/till) - DataHen Till is a companion tool to your existing web scraper that instantly makes it scalable, maintainable, and more unblockable, with minimal code changes on your scraper. Integrates with any scrap
 
@@ -1507,7 +1507,7 @@
 
 - [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome) - Web Server for Chrome (2026 Relaunch)
+- [kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome) - 200 OK Web Server
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 
 ## icon-font 
@@ -1545,7 +1545,7 @@
 - [HamzaGhazouani/HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular / progress slider control for iOS application.
 - [Yalantis/Koloda](https://github.com/Yalantis/Koloda) - KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.
 - [qchenqizhi/QCropper](https://github.com/qchenqizhi/QCropper) - Image cropping/rotating/straightening library for iOS in Swift
-- [kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome) - Web Server for Chrome (2026 Relaunch)
+- [kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome) - 200 OK Web Server
 - [AladinWay/TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation.
 - [EranBoudjnah/MTCircularSlider](https://github.com/EranBoudjnah/MTCircularSlider) - A feature-rich circular slider control written in Swift.
 - [mac-gallagher/MultiProgressView](https://github.com/mac-gallagher/MultiProgressView) - 📊 An animatable view that depicts multiple progresses over time. Modeled after UIProgressView
@@ -1848,7 +1848,7 @@
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One delightful Ruby framework for every major AI provider. Build AI agents, chatbots, RAG apps, and multimodal workflows in beautiful, expressive code.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [Dicklesworthstone/llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - Enhances Tesseract OCR output using LLMs (local or API) for error correction, smart chunking, and markdown formatting of scanned PDFs
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
@@ -1970,7 +1970,7 @@
 
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
 - [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [zenodotus280/apl-md](https://github.com/zenodotus280/apl-md) - 
 - [cloverhearts/quilljs-markdown](https://github.com/cloverhearts/quilljs-markdown) - QuillJS Editor Plugin for advanced Markdown
@@ -2014,6 +2014,8 @@
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [automation-ai-labs/mcp-link](https://github.com/automation-ai-labs/mcp-link) - Convert Any OpenAPI V3 API to MCP Server
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
@@ -2613,8 +2615,6 @@
 - [leeoniya/uWrap](https://github.com/leeoniya/uWrap) - A 10x faster and more accurate text wrapping util in &lt; 2KB (min)
 - [Rukenshia/pomodoro](https://github.com/Rukenshia/pomodoro) - ESP32-based focus timer with an epaper display and rotary dial
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
-- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
-- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [wild-card-ai/agents-json](https://github.com/wild-card-ai/agents-json) - 
@@ -3961,6 +3961,7 @@
 ## typescript 
 
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [Drarig29/brackets-viewer.js](https://github.com/Drarig29/brackets-viewer.js) - A simple library to display tournament brackets (round-robin, single elimination, double elimination).
 - [meilisearch/meilisearch-js](https://github.com/meilisearch/meilisearch-js) - JavaScript/TypeScript client for Meilisearch
 - [leoMirandaa/shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) - Free Landing page template using Shadcn, React, Typescript and Tailwind
