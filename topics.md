@@ -2964,7 +2964,7 @@
 - [codediodeio/wavy-curvey-blobby-website](https://github.com/codediodeio/wavy-curvey-blobby-website) - A website design with lots of waves, curves, a blobs
 - [probot/smee-client](https://github.com/probot/smee-client) - 🔴 Receives payloads then sends them to your local server
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
-- [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients
+- [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: GitHub Action for sending emails
 - [synesthesiam/voice2json](https://github.com/synesthesiam/voice2json) - Command-line tools for speech and intent recognition on Linux
 - [vitling/acid-banger](https://github.com/vitling/acid-banger) - The Endless Acid Banger
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
