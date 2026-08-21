@@ -1238,6 +1238,7 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [ashconnell/physx-js](https://github.com/ashconnell/physx-js) - PhysX for JavaScript
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [zilliztech/attu](https://github.com/zilliztech/attu) - The Best GUI for Milvus
