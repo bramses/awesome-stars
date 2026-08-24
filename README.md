@@ -1583,7 +1583,7 @@
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [Quorafind/Obsidian-Big-Calendar](https://github.com/Quorafind/Obsidian-Big-Calendar) - Big Calendar in Obsidian, for manage your events in a day/week/month and see agenda too!
 - [akaalias/obsidian-footnotes](https://github.com/akaalias/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
-- [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing) - 📬  postprocessing for react-three-fiber
+- [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing) - 📬  Postprocessing for react-three-fiber
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title) - Automatically fetch the titles of pasted links
 - [pmndrs/use-cannon](https://github.com/pmndrs/use-cannon) - 👋💣 physics based hooks for @react-three/fiber
