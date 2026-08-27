@@ -294,6 +294,7 @@
 
 ## HTML 
 
+- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
 - [mashby2022/nypl-demo](https://github.com/mashby2022/nypl-demo) - Beginner-friendly YOLOv8 + OpenCV demo mapping COCO detections onto NYC wildlife categories, with built-in privacy masking. Built for the WTX × NYPL "Vibe Coding" panel.
 - [pablo-mano/Obsidian-CLI-skill](https://github.com/pablo-mano/Obsidian-CLI-skill) - Obsidian Skill for Claude Code and other agents
 - [davidfaure/3d-text-animation-codrops](https://github.com/davidfaure/3d-text-animation-codrops) - 
@@ -1328,7 +1329,6 @@
 
 ## TypeScript 
 
-- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
 - [bramses/reading-is-a-system](https://github.com/bramses/reading-is-a-system) - 
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [riffado/riffado](https://github.com/riffado/riffado) - Self-hosted AI transcription interface for Plaud Note devices
@@ -1631,7 +1631,7 @@
 - [samwarnick/obsidian-simple-embeds](https://github.com/samwarnick/obsidian-simple-embeds) - A plugin for Obsidian that automatically turns links into embeds.
 - [Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri) - Advanced modes for Obsidian URI
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [mrjackphil/obsidian-text-expand](https://github.com/mrjackphil/obsidian-text-expand) - A simple text expand plugin for Obsidian.md
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [thencc/algonautjs](https://github.com/thencc/algonautjs) - A front end friendly Algorand utility
