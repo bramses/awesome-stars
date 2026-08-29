@@ -294,7 +294,6 @@
 
 ## HTML 
 
-- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
 - [mashby2022/nypl-demo](https://github.com/mashby2022/nypl-demo) - Beginner-friendly YOLOv8 + OpenCV demo mapping COCO detections onto NYC wildlife categories, with built-in privacy masking. Built for the WTX × NYPL "Vibe Coding" panel.
 - [pablo-mano/Obsidian-CLI-skill](https://github.com/pablo-mano/Obsidian-CLI-skill) - Obsidian Skill for Claude Code and other agents
 - [davidfaure/3d-text-animation-codrops](https://github.com/davidfaure/3d-text-animation-codrops) - 
@@ -1329,6 +1328,7 @@
 
 ## TypeScript 
 
+- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
 - [bramses/reading-is-a-system](https://github.com/bramses/reading-is-a-system) - 
 - [whoami-wiki/whoami](https://github.com/whoami-wiki/whoami) - your personal encyclopedia, written by agents
 - [riffado/riffado](https://github.com/riffado/riffado) - Self-hosted AI transcription interface for Plaud Note devices
