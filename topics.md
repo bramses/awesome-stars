@@ -317,14 +317,14 @@
 
 ## ai 
 
-- [macOS26/Agent](https://github.com/macOS26/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
 - [joseairosa/recall](https://github.com/joseairosa/recall) - Persistent cross-session memory for Claude & AI agents. Self-host on Redis/Valkey, or use the managed SaaS at recallmcp.com.
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [mirth/chonky](https://github.com/mirth/chonky) - Fully neural approach for text chunking
-- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 🎵 Control Ableton Live with Claude AI — create tracks, arrange clips & compose music via MCP
+- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - Control Ableton Live with any LLM: create tracks, arrange clips & compose music via MCP
 - [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One delightful Ruby framework for every major AI provider. Build AI agents, chatbots, RAG apps, and multimodal workflows in beautiful, expressive code.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [PageAI-Pro/page-ui](https://github.com/PageAI-Pro/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
@@ -451,7 +451,7 @@
 
 ## automation 
 
-- [macOS26/Agent](https://github.com/macOS26/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
 - [Planetary-Computers/autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -639,11 +639,11 @@
 
 ## claude 
 
-- [macOS26/Agent](https://github.com/macOS26/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
 - [joseairosa/recall](https://github.com/joseairosa/recall) - Persistent cross-session memory for Claude & AI agents. Self-host on Redis/Valkey, or use the managed SaaS at recallmcp.com.
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
-- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 🎵 Control Ableton Live with Claude AI — create tracks, arrange clips & compose music via MCP
+- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - Control Ableton Live with any LLM: create tracks, arrange clips & compose music via MCP
 - [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One delightful Ruby framework for every major AI provider. Build AI agents, chatbots, RAG apps, and multimodal workflows in beautiful, expressive code.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -1231,7 +1231,7 @@
 
 ## generative-ai 
 
-- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 🎵 Control Ableton Live with Claude AI — create tracks, arrange clips & compose music via MCP
+- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - Control Ableton Live with any LLM: create tracks, arrange clips & compose music via MCP
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -1591,7 +1591,7 @@
 
 ## javascript 
 
-- [macOS26/Agent](https://github.com/macOS26/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [ashconnell/physx-js](https://github.com/ashconnell/physx-js) - PhysX for JavaScript
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
@@ -1845,11 +1845,11 @@
 
 ## llm 
 
-- [macOS26/Agent](https://github.com/macOS26/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
 - [joseairosa/recall](https://github.com/joseairosa/recall) - Persistent cross-session memory for Claude & AI agents. Self-host on Redis/Valkey, or use the managed SaaS at recallmcp.com.
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
-- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 🎵 Control Ableton Live with Claude AI — create tracks, arrange clips & compose music via MCP
+- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - Control Ableton Live with any LLM: create tracks, arrange clips & compose music via MCP
 - [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - One delightful Ruby framework for every major AI provider. Build AI agents, chatbots, RAG apps, and multimodal workflows in beautiful, expressive code.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
@@ -1938,7 +1938,7 @@
 
 ## macos 
 
-- [macOS26/Agent](https://github.com/macOS26/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - App that shows how full the International Space Station's urine tank is in real time, available for macOS (menu bar), iOS, watchOS and visionOS
@@ -2012,14 +2012,14 @@
 
 ## mcp 
 
-- [macOS26/Agent](https://github.com/macOS26/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
 - [joseairosa/recall](https://github.com/joseairosa/recall) - Persistent cross-session memory for Claude & AI agents. Self-host on Redis/Valkey, or use the managed SaaS at recallmcp.com.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [automation-ai-labs/mcp-link](https://github.com/automation-ai-labs/mcp-link) - Convert Any OpenAPI V3 API to MCP Server
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
-- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 🎵 Control Ableton Live with Claude AI — create tracks, arrange clips & compose music via MCP
+- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - Control Ableton Live with any LLM: create tracks, arrange clips & compose music via MCP
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
@@ -2051,7 +2051,7 @@
 
 ## music 
 
-- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 🎵 Control Ableton Live with Claude AI — create tracks, arrange clips & compose music via MCP
+- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - Control Ableton Live with any LLM: create tracks, arrange clips & compose music via MCP
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [thenickdude/lofipi-mpv](https://github.com/thenickdude/lofipi-mpv) - Automatically stream lo-fi hiphop at system startup on the Lofipi
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
@@ -2954,7 +2954,6 @@
 - [veggiedefender/flag-dvd](https://github.com/veggiedefender/flag-dvd) - 
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
 - [karlicoss/spotifyexport](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [StenographyDev/autopilot-vsc](https://github.com/StenographyDev/autopilot-vsc) - 
 - [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
 - [queer/outage.bingo](https://github.com/queer/outage.bingo) - https://outage.bingo
@@ -3012,7 +3011,7 @@
 - [coddingtonbear/python-myfitnesspal](https://github.com/coddingtonbear/python-myfitnesspal) - Access your meal tracking data stored in MyFitnessPal programatically
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [sindresorhus/file-metadata](https://github.com/sindresorhus/file-metadata) - Get file metadata using `mdls` on macOS
-- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [bramses/awesome-stenography](https://github.com/bramses/awesome-stenography) - A collection of cool Stenography examples
 - [replit/crosis](https://github.com/replit/crosis) - A JavaScript client that speaks Replit's container protocol
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
@@ -3372,7 +3371,7 @@
 
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [segment-any-text/wtpsplit](https://github.com/segment-any-text/wtpsplit) - Toolkit to segment text into sentences or other semantic units in a robust, efficient and adaptable way.
-- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 🎵 Control Ableton Live with Claude AI — create tracks, arrange clips & compose music via MCP
+- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - Control Ableton Live with any LLM: create tracks, arrange clips & compose music via MCP
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state-of-the-art framework for columnar compression, and the fastest FOSS columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Fo
@@ -3852,7 +3851,7 @@
 
 ## swift 
 
-- [macOS26/Agent](https://github.com/macOS26/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
 - [li3zhen1/Grape](https://github.com/li3zhen1/Grape) - A Swift library for graph visualization and efficient force simulation.
 - [rryam/VecturaKit](https://github.com/rryam/VecturaKit) - Swift-based vector database for on-device RAG using MLTensor and MLX Embedders
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
@@ -3883,7 +3882,7 @@
 
 ## swiftui 
 
-- [macOS26/Agent](https://github.com/macOS26/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
 - [li3zhen1/Grape](https://github.com/li3zhen1/Grape) - A Swift library for graph visualization and efficient force simulation.
 - [tikimcfee/LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render source code in 3D, for macOS and iOS.
 - [jasonjmcghee/rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac.
@@ -4198,6 +4197,7 @@
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [prisma/web](https://github.com/prisma/web) - 📚 Prisma Web Monorepo
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
@@ -4207,6 +4207,7 @@
 
 ## web-development 
 
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [Spiderpig86/Cirrus](https://github.com/Spiderpig86/Cirrus) - :cloud: The SCSS framework for the modern web.
 - [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 
@@ -4263,7 +4264,7 @@
 
 ## xcode 
 
-- [macOS26/Agent](https://github.com/macOS26/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs.
 
 ## xml 
 
