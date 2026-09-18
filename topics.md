@@ -2796,7 +2796,7 @@
 - [micahke/obsidian-gpt3-notes](https://github.com/micahke/obsidian-gpt3-notes) - An Obsidian plugin to generate notes based on GP3 output.
 - [vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts) - 
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
-- [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
+- [blotcms/blot](https://github.com/blotcms/blot) - Turns a folder into a website
 - [dragnet-org/dragnet](https://github.com/dragnet-org/dragnet) - Just the facts -- web page content extraction
 - [Trikzon/obsidian-frontmatter-links](https://github.com/Trikzon/obsidian-frontmatter-links) - An Obsidian plugin that renders links in a note's frontmatter as links.
 - [myogeshchavan97/express-static-serve](https://github.com/myogeshchavan97/express-static-serve) - Demo showing how to render React app using Express.js server
