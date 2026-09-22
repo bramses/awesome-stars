@@ -371,6 +371,7 @@
 
 ## ai-agents 
 
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby or Rails.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
@@ -1230,6 +1231,7 @@
 ## generative-ai 
 
 - [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - Control Ableton Live with any LLM: create tracks, arrange clips & compose music via MCP
+- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby or Rails.
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -3957,7 +3959,6 @@
 
 ## text-to-speech 
 
-- [crmne/ruby_llm](https://github.com/crmne/ruby_llm) - The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby or Rails.
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python
 
