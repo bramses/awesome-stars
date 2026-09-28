@@ -455,7 +455,7 @@
 
 ## automation 
 
-- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - AgentiLoop Agent! — One app. Any AI. Your Mac, working for you. Native Swift agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JXA, Swift and SMAppService 
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Agent! now supports macOS 14.6 or later, Apple Silicon and Intel (see latest pre-release). The Best AI agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JX
 - [Planetary-Computers/autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -1591,7 +1591,7 @@
 
 ## javascript 
 
-- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - AgentiLoop Agent! — One app. Any AI. Your Mac, working for you. Native Swift agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JXA, Swift and SMAppService 
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Agent! now supports macOS 14.6 or later, Apple Silicon and Intel (see latest pre-release). The Best AI agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JX
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [ashconnell/physx-js](https://github.com/ashconnell/physx-js) - PhysX for JavaScript
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
@@ -1936,7 +1936,7 @@
 
 ## macos 
 
-- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - AgentiLoop Agent! — One app. Any AI. Your Mac, working for you. Native Swift agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JXA, Swift and SMAppService 
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Agent! now supports macOS 14.6 or later, Apple Silicon and Intel (see latest pre-release). The Best AI agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JX
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - App that shows how full the International Space Station's urine tank is in real time, available for macOS (menu bar), iOS, watchOS and visionOS
@@ -2011,7 +2011,7 @@
 
 ## mcp 
 
-- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - AgentiLoop Agent! — One app. Any AI. Your Mac, working for you. Native Swift agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JXA, Swift and SMAppService 
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Agent! now supports macOS 14.6 or later, Apple Silicon and Intel (see latest pre-release). The Best AI agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JX
 - [joseairosa/recall](https://github.com/joseairosa/recall) - Persistent cross-session memory for Claude & AI agents. Self-host on Redis/Valkey, or use the managed SaaS at recallmcp.com.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -2576,7 +2576,7 @@
 
 ## others 
 
-- [christianmat/jev-pokemon](https://github.com/christianmat/jev-pokemon) - 
+- [christianmat/jev-pokemon](https://github.com/christianmat/jev-pokemon) - Jev, an AI decision model, plays Pokémon Red. It beat the game in 37h 40m.
 - [con-dog/slices-demo](https://github.com/con-dog/slices-demo) - Can you collapse features into small enough slices to understand at a glance? Maybe
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [bramses/reading-is-a-system](https://github.com/bramses/reading-is-a-system) - 
