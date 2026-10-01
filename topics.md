@@ -1382,6 +1382,7 @@
 
 ## hacktoberfest 
 
+- [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
 - [Drarig29/brackets-viewer.js](https://github.com/Drarig29/brackets-viewer.js) - A simple library to display tournament brackets (round-robin, single elimination, double elimination).
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
@@ -2766,7 +2767,7 @@
 - [tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery) - Generates a gallery based on selected page contents.
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [YukiGasai/obsidian-google-calendar](https://github.com/YukiGasai/obsidian-google-calendar) - Add Google Calendar inside Obsidian
-- [MichaBrugger/obsidian-footnotes](https://github.com/MichaBrugger/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
+- [Comprehensive-Jason/obsidian-footnotes](https://github.com/Comprehensive-Jason/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
 - [hwchase17/chat-your-data](https://github.com/hwchase17/chat-your-data) - 
 - [markdown-it/markdown-it-footnote](https://github.com/markdown-it/markdown-it-footnote) - Footnotes plugin for markdown-it markdown parser
 - [readwiseio/obsidian-readwise](https://github.com/readwiseio/obsidian-readwise) - Official Readwise plugin for Obsidian
@@ -3066,7 +3067,7 @@
 - [the3dadvantage/Modeling-Cloth-2_8](https://github.com/the3dadvantage/Modeling-Cloth-2_8) - New modeling Cloth tools
 - [lbussell/babylonjs-multiplayer-starter](https://github.com/lbussell/babylonjs-multiplayer-starter) - A full-stack multiplayer game starter made using TypeScript, Express, Socket.io, and Babylon.js
 - [transitive-bullshit/ffmpeg-extract-frames](https://github.com/transitive-bullshit/ffmpeg-extract-frames) - Extracts frames from a video using ffmpeg.
-- [image-size/image-size](https://github.com/image-size/image-size) - Node module for detecting image dimensions
+- [image-size/image-size](https://github.com/image-size/image-size) - This project is now maintained on Codeberg.
 - [Jerenaux/basic-mmo-phaser](https://github.com/Jerenaux/basic-mmo-phaser) - Very basic multiplayer online game example made with Phaser, Node.js and Socket.io
 - [spencercap/vue-2-ext](https://github.com/spencercap/vue-2-ext) - 
 - [spencercap/vue-3-ext](https://github.com/spencercap/vue-3-ext) - vue 3 based chrome extension in typescript
