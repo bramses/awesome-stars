@@ -386,6 +386,7 @@
 
 ## JavaScript 
 
+- [hughhowey/neo](https://github.com/hughhowey/neo) - A novel-writing tool created by a novelist.
 - [iiAtlas/plaud-recording-downloader](https://github.com/iiAtlas/plaud-recording-downloader) - A Chrome extension used for downloading Plaud.ai recordings
 - [LingDong-/nonflowers](https://github.com/LingDong-/nonflowers) - Procedurally generated paintings of nonexistent flowers.
 - [vrk/cli-phomemo-printer](https://github.com/vrk/cli-phomemo-printer) - a script that prints images to the phomemo m02s
@@ -977,7 +978,7 @@
 - [scherroman/mugen](https://github.com/scherroman/mugen) - A command-line music video generator based on rhythm
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [alantech/marsha](https://github.com/alantech/marsha) - Marsha is a functional, higher-level, English-based programming language that gets compiled into tested Python software by an LLM
-- [agithony/twilio-schedule-message](https://github.com/agithony/twilio-schedule-message) - ⏰ Python code showing you how to schedule a message with Twilio.
+- [anthonyplusAI/twilio-schedule-message](https://github.com/anthonyplusAI/twilio-schedule-message) - ⏰ Python code showing you how to schedule a message with Twilio.
 - [adhikary97/Sharetape-Open-Source](https://github.com/adhikary97/Sharetape-Open-Source) - Script that takes any long form video or podcast and outputs clips for social media
 - [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
 - [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
