@@ -2577,6 +2577,7 @@
 
 ## others 
 
+- [hughhowey/neo](https://github.com/hughhowey/neo) - A novel-writing tool created by a novelist.
 - [christianmat/jev-pokemon](https://github.com/christianmat/jev-pokemon) - Jev, an AI decision model, plays Pokémon Red. It beat the game in 37h 40m.
 - [con-dog/slices-demo](https://github.com/con-dog/slices-demo) - Can you collapse features into small enough slices to understand at a glance? Maybe
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
@@ -3388,7 +3389,7 @@
 - [supabase/supabase-py](https://github.com/supabase/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
 - [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Nomic Developer API SDK
 - [scherroman/mugen](https://github.com/scherroman/mugen) - A command-line music video generator based on rhythm
-- [agithony/twilio-schedule-message](https://github.com/agithony/twilio-schedule-message) - ⏰ Python code showing you how to schedule a message with Twilio.
+- [anthonyplusAI/twilio-schedule-message](https://github.com/anthonyplusAI/twilio-schedule-message) - ⏰ Python code showing you how to schedule a message with Twilio.
 - [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
 - [python-poetry/cleo](https://github.com/python-poetry/cleo) - Cleo allows you to create beautiful and testable command-line interfaces.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
