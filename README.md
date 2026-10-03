@@ -1279,7 +1279,7 @@
 
 ## Swift 
 
-- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Agent! now supports macOS 14.6 or later, Apple Silicon and Intel (see latest pre-release). The Best AI agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JX
+- [AgentiLoop/Agent](https://github.com/AgentiLoop/Agent) - Agent! now supports macOS 14.6 or later, Apple Silicon and Intel, latest release. The Best AI agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JXA, Swift 
 - [adamlyttleapps/notchy](https://github.com/adamlyttleapps/notchy) - 
 - [li3zhen1/Grape](https://github.com/li3zhen1/Grape) - A Swift library for graph visualization and efficient force simulation.
 - [rryam/VecturaKit](https://github.com/rryam/VecturaKit) - Swift-based vector database for on-device RAG using MLTensor and MLX Embedders
@@ -1441,7 +1441,7 @@
 - [LordGrimmauld/aw-watcher-obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian) - Obsidian plugin to track user activity with ActivityWatch
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [YukiGasai/obsidian-google-calendar](https://github.com/YukiGasai/obsidian-google-calendar) - Add Google Calendar inside Obsidian
-- [Comprehensive-Jason/obsidian-footnotes](https://github.com/Comprehensive-Jason/obsidian-footnotes) - Makes creating footnotes in Obsidian more fun!
+- [Comprehensive-Jason/obsidian-footnotes](https://github.com/Comprehensive-Jason/obsidian-footnotes) - Create, edit, move, and tidy footnotes in Obsidian without leaving the keyboard.
 - [goblindegook/littlefoot](https://github.com/goblindegook/littlefoot) - Footnotes without the footprint.
 - [readwiseio/obsidian-readwise](https://github.com/readwiseio/obsidian-readwise) - Official Readwise plugin for Obsidian
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
