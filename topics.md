@@ -1423,7 +1423,6 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index) - Canonical common brand names, operators, transit, and flags for OpenStreetMap.
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
@@ -2580,6 +2579,7 @@
 
 ## others 
 
+- [shaman247/fomo](https://github.com/shaman247/fomo) - Interactive map of upcoming events in the NYC area
 - [hughhowey/neo](https://github.com/hughhowey/neo) - A novel-writing tool created by a novelist.
 - [christianmat/jev-pokemon](https://github.com/christianmat/jev-pokemon) - Jev, an AI decision model, plays Pokémon Red. It beat the game in 37h 40m.
 - [con-dog/slices-demo](https://github.com/con-dog/slices-demo) - Can you collapse features into small enough slices to understand at a glance? Maybe
