@@ -474,7 +474,7 @@
 - [jeremybarbet/next-videos](https://github.com/jeremybarbet/next-videos) - Import videos (mp4, webm, ogg, swf, ogv) in Next.js.
 - [shettypuneeth/react-codepen-embed](https://github.com/shettypuneeth/react-codepen-embed) - React component to embed pens from Codepen
 - [pmndrs/three-stdlib](https://github.com/pmndrs/three-stdlib) - 📚 Stand-alone library of threejs examples designed to run without transpilation in node & browser
-- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
+- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [tsivinsky/hi-mom](https://github.com/tsivinsky/hi-mom) - Say hi to your mom BLAZINGLY FAST
 - [1Computer1/twitch-emoticons](https://github.com/1Computer1/twitch-emoticons) - A JS module that gets Twitch emotes. https://www.npmjs.com/package/twitch-emoticons
@@ -1068,7 +1068,7 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [vearch/vearch](https://github.com/vearch/vearch) - Distributed vector search for AI-native applications
-- [pieeg-club/EEGwithRaspberryPI](https://github.com/pieeg-club/EEGwithRaspberryPI) - Not supported. Measure 8 EEG channels with Shield PiEEG and RaspberryPi in C library
+- [pieeg-club/EEGwithRaspberryPI](https://github.com/pieeg-club/EEGwithRaspberryPI) - Measure 8 EEG channels with Shield PiEEG-8 and RaspberryPi
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [lanewinfield/zoomout](https://github.com/lanewinfield/zoomout) - a pull switch (or BYO button) that gets you out of video calls, quick
 - [tubearchivist/tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
