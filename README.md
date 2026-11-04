@@ -823,7 +823,6 @@
 - [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) - A mind map, outline for obsidian,It support mobile and desktop
 - [Ji11ard/Dataview-to-Mermaid-Flowchart](https://github.com/Ji11ard/Dataview-to-Mermaid-Flowchart) - This dataviewjs script dynamically renders DQL queries into a Mermaid flow diagram based on links and formatting instructions contained in the file's YAML.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
-- [faroukx/obsidian-homepage](https://github.com/faroukx/obsidian-homepage) - Obsidian homepage - Minimal and aesthetic template (with my unique features)
 - [christophercalm/if-im-gone](https://github.com/christophercalm/if-im-gone) - A cheat sheet for if I am somehow incapacitated.
 - [martinschilliger/Alfred-QR-Code](https://github.com/martinschilliger/Alfred-QR-Code) - Create a QR-Code from Alfred
 - [arduino/reference-en](https://github.com/arduino/reference-en) - Editable source for the Arduino Reference
@@ -969,7 +968,7 @@
 - [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) - 
 - [widgetti/wanderlust](https://github.com/widgetti/wanderlust) - Wanderlust OpenAI example using Solara
 - [ishan0102/vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
-- [supabase/supabase-py](https://github.com/supabase/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming. Good first issue.
+- [supabase/supabase-py](https://github.com/supabase/supabase-py) - Python Client for Supabase. Query Postgres from Flask, Django, FastAPI. Python user authentication, security policies, edge functions, file storage, and realtime data streaming.
 - [Planetary-Computers/autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks
 - [nomic-ai/nomic](https://github.com/nomic-ai/nomic) - Nomic Developer API SDK
 - [meistrari/cursive-py](https://github.com/meistrari/cursive-py) - ✦ The intuitive python LLM framework
