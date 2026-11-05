@@ -307,7 +307,6 @@
 - [tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery) - Generates a gallery based on selected page contents.
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 - [myogeshchavan97/express-static-serve](https://github.com/myogeshchavan97/express-static-serve) - Demo showing how to render React app using Express.js server
-- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [vasturiano/3d-force-graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL
 - [OneGraph/oneblog](https://github.com/OneGraph/oneblog) - Build a blog backed by GitHub issues
@@ -452,6 +451,7 @@
 - [erohtar/redditSaver](https://github.com/erohtar/redditSaver) - Automatically Download Saved Reddit Posts & Comments as Markdown Notes (into Obsidian)
 - [cuken/obsidian-weave](https://github.com/cuken/obsidian-weave) - Obsidian Vault Template for Software Developers/Managers working in the corporate world.
 - [kamerat/vs-code-twitch-chat](https://github.com/kamerat/vs-code-twitch-chat) - Visual studio code extension to display twitch chat in webview
+- [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [thieman/github-selfies](https://github.com/thieman/github-selfies) - Everything is better with selfies. Yes, even pull requests. Trust me.
 - [squirrelsquirrel78/react-scrollama](https://github.com/squirrelsquirrel78/react-scrollama) - Simple scrollytelling with the IntersectionObserver in React.
 - [amperser/proselint](https://github.com/amperser/proselint) - [Mirror] A linter for prose.
