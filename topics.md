@@ -1652,7 +1652,7 @@
 - [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - The build system for coding agents.
 - [protectwise/troika](https://github.com/protectwise/troika) - A JavaScript framework for interactive 3D and 2D visualizations
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
@@ -4043,7 +4043,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - The build system for coding agents.
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [pmndrs/three-stdlib](https://github.com/pmndrs/three-stdlib) - 📚 Stand-alone library of threejs examples designed to run without transpilation in node & browser
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
