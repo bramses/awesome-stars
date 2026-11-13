@@ -1452,7 +1452,6 @@
 - [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful JavaScript library for high-performance color manipulations and conversions
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [opensteno/plover](https://github.com/opensteno/plover) - Open source stenotype engine
@@ -1683,6 +1682,7 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [jakubfiala/atrament](https://github.com/jakubfiala/atrament) - A small JS library for beautiful drawing and handwriting on the HTML Canvas.
 - [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
+- [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful JavaScript library for high-performance color manipulations and conversions
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [issaafalkattan/React-Landing-Page-Template](https://github.com/issaafalkattan/React-Landing-Page-Template) - A simple react one page landing page templates for startups/companies
@@ -3090,7 +3090,7 @@
 - [mrmrs/colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 - [davatron5000/FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
 - [puckey/dance-tonite](https://github.com/puckey/dance-tonite) - An ever-changing VR collaboration by LCD Soundsystem and their fans.
-- [nortikin/sverchok](https://github.com/nortikin/sverchok) - Sverchok
+- [nortikin/sverchok](https://github.com/nortikin/sverchok) - Sverchok is Node-based visual programming for parametric 3D modeling and computational geometry in Blender
 - [nazzrim/Open3DScanner](https://github.com/nazzrim/Open3DScanner) - Open3DScanner 3D Scanner design
 - [the3dadvantage/Modeling-Cloth-2_8](https://github.com/the3dadvantage/Modeling-Cloth-2_8) - New modeling Cloth tools
 - [lbussell/babylonjs-multiplayer-starter](https://github.com/lbussell/babylonjs-multiplayer-starter) - A full-stack multiplayer game starter made using TypeScript, Express, Socket.io, and Babylon.js
@@ -4075,6 +4075,7 @@
 - [pascalgn/java-ast](https://github.com/pascalgn/java-ast) - Java Parser for JavaScript/TypeScript (based on antlr4ts)
 - [algorand/js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) - The official JavaScript SDK for Algorand.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+- [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful JavaScript library for high-performance color manipulations and conversions
 - [berstend/service-worker-router](https://github.com/berstend/service-worker-router) - ➰ An elegant and fast URL router for service workers (and standalone use)
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [yatki/vscode-surround](https://github.com/yatki/vscode-surround) - 🔥 A simple yet powerful extension to add wrapper templates around your code blocks
