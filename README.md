@@ -1109,7 +1109,7 @@
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [Frojd/django-react-templatetags](https://github.com/Frojd/django-react-templatetags) - A quick way to add React components to your Django templates.
-- [nortikin/sverchok](https://github.com/nortikin/sverchok) - Sverchok
+- [nortikin/sverchok](https://github.com/nortikin/sverchok) - Sverchok is Node-based visual programming for parametric 3D modeling and computational geometry in Blender
 - [the3dadvantage/Modeling-Cloth-2_8](https://github.com/the3dadvantage/Modeling-Cloth-2_8) - New modeling Cloth tools
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
 - [minimaxir/aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
