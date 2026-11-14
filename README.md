@@ -1365,7 +1365,7 @@
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [anmiles/youtube-likes-downloader](https://github.com/anmiles/youtube-likes-downloader) - Download all liked videos from youtube
 - [Surfer-Org/Protocol](https://github.com/Surfer-Org/Protocol) - Open-source framework for exporting your personal data.
-- [neondatabase/electric-pglite](https://github.com/neondatabase/electric-pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [electric-sql/electric-pglite](https://github.com/electric-sql/electric-pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [editorinchiefoss/editor_in_chief](https://github.com/editorinchiefoss/editor_in_chief) - An electron app to edit your writing using AI
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Nextjs Boilerplate and Starter with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js 16 + TypeScript + ESLint + Prettier + Drizzle
 - [PageAI-Pro/page-ui](https://github.com/PageAI-Pro/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
@@ -1423,7 +1423,7 @@
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [rmutt92/obsidian-counter](https://github.com/rmutt92/obsidian-counter) - 
 - [cosmicoptima/loom](https://github.com/cosmicoptima/loom) - A Loom implementation in Obsidian
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Interoperable by design. Governed by you. Open-source, secure platform for messaging, voice, video and governed AI, built for defense and government.
 - [mckaywrigley/kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - 
 - [blomqma/next-rest-framework](https://github.com/blomqma/next-rest-framework) - Type-safe, self-documenting APIs for Next.js
 - [ytliu74/obsidian-pseudocode](https://github.com/ytliu74/obsidian-pseudocode) - An obsidian plugin that helps to render a LaTeX-style pseudocode inside a code block.
